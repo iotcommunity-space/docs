@@ -1,0 +1,15 @@
+sections:
+  - title: Basics
+    subsections:
+      - local: endpoints
+        title: Endpoints
+      - local: rate-limits
+        title: Rate Limits
+      - local: authentication
+        title: API Authentication
+  - title: Usecase
+    subsections:
+      - local: get
+        title: GET
+      - local: post
+        title: POST

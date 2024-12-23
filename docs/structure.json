@@ -1,0 +1,47 @@
+{
+  "Architecture": [
+    "authentication.md",
+    "device-management.md",
+    "encryption.md",
+    "network-topologies.md",
+    "scalability.md",
+    "design-principles.md"
+  ],
+  "API": [
+    "authentication.md",
+    "endpoints.md",
+    "rate-limits.md"
+  ],
+  "Networking": [
+    "network-security.md",
+    "protocols.md",
+    "routing.md",
+    "mesh-topology.md",
+    "star-topology.md",
+    "iot-connectivity.md"
+  ],
+  "Security": [
+    "encryption-standards.md",
+    "authentication-methods.md",
+    "secure-communication.md",
+    "data-privacy.md",
+    "vulnerabilities.md",
+    "compliance.md"
+  ],
+  "Data": [
+    "data-storage.md",
+    "data-management.md",
+    "database-design.md",
+    "data-encryption.md",
+    "big-data.md",
+    "data-analytics.md"
+  ],
+  "Deployment": [
+    "ci-cd.md",
+    "containerization.md",
+    "kubernetes.md",
+    "cloud-deployment.md",
+    "serverless.md",
+    "monitoring.md"
+  ]
+}

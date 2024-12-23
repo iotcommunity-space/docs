@@ -1,0 +1,13 @@
+sections:
+  - title: Network
+    subsections:
+      - local: network-topologies
+        title: Network Topologies
+      - local: device-management
+        title: Device Management Models
+  - title: Security
+    subsections:
+      - local: encryption
+        title: Encryption Standards
+      - local: authentication
+        title: Device Authentication
