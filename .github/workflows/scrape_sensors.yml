@@ -1,0 +1,36 @@
+name: Daily Scrape - Choovio Sensors
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Every day at 3 AM UTC
+  workflow_dispatch:
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+
+    env:
+      SENSOR_TOKEN: ${{ secrets.SENSOR_TOKEN }}
+
+    steps:
+      - name: 📥 Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: 🔧 Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: 📦 Install Dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: 🛠 Run Scraper
+        run: python .github/scripts/scrape_choovio_daily.py
+
+      - name: 🚀 Commit & Push if Changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data_sensors.json scraped_urls.txt
+          git diff --cached --quiet || git commit -m "🔄 Daily Choovio scrape update"
+          git push
