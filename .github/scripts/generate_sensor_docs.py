@@ -6,14 +6,16 @@ DOCS_BASE = "docs/sensors"
 DATA_JSON = "data_sensors.json"
 
 def slugify(text):
-    """Converts text to a lowercase, dash-separated, URL-safe slug."""
+    """Safely convert sensor names into folder-safe slugs."""
+    if not isinstance(text, str):
+        text = str(text or "unknown-sensor")  # fallback for None
     text = text.strip().lower()
-    text = re.sub(r"\s+", "-", text)               # Replace spaces with dash
-    text = re.sub(r"[^\w\-]", "", text)            # Remove special characters
-    return text
+    text = re.sub(r"\s+", "-", text)              # Replace spaces with -
+    text = re.sub(r"[^\w\-]", "", text)           # Remove special characters
+    return text or "unknown-sensor"
 
 def write_md_file(folder, filename, lines):
-    """Write list of strings to a Markdown file, skipping None/empty values."""
+    """Write list of strings to a Markdown file."""
     safe_lines = [str(line).strip() for line in lines if line and str(line).strip()]
     with open(os.path.join(folder, filename), "w", encoding="utf-8") as f:
         f.write("\n".join(safe_lines) + "\n")
@@ -33,11 +35,11 @@ def run():
         try:
             sensors = json.load(f)
         except json.JSONDecodeError:
-            print("❌ ERROR: Failed to parse JSON from data_sensors.json")
+            print("❌ ERROR: Invalid JSON format in data_sensors.json")
             return
 
     for sensor in sensors:
-        name = sensor.get("name", "unknown-sensor")
+        name = sensor.get("name") or "unknown sensor"
         slug = slugify(name)
         folder = os.path.join(DOCS_BASE, slug)
         os.makedirs(folder, exist_ok=True)
