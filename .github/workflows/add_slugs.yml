@@ -1,0 +1,40 @@
+name: Add Safe Slugs to Sensors
+
+on:
+  workflow_call:
+    secrets:
+      SENSOR_TOKEN:
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  add-slugs:
+    runs-on: ubuntu-latest
+    env:
+      SENSOR_TOKEN: ${{ secrets.SENSOR_TOKEN }}
+
+    steps:
+      - name: 📥 Checkout Repo
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.SENSOR_TOKEN }}
+
+      - name: 🔧 Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: ▶️ Run Slug Script
+        run: python .github/scripts/add_slugs.py
+
+      - name: ✅ Commit Slugs using SENSOR_TOKEN
+        run: |
+          git config --global user.name "sensor-bot"
+          git config --global user.email "sensor-bot@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${SENSOR_TOKEN}@github.com/${{ github.repository }}
+          git add data_sensors.json
+          git diff --cached --quiet || git commit -m "🔗 Added safe slugs to all sensors"
+          git pull --rebase origin main
+          git push origin HEAD:${GITHUB_REF##refs/heads/}
