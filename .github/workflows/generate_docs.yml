@@ -1,0 +1,36 @@
+name: Generate Sensor Docs
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'data_sensors.json'
+
+jobs:
+  build-docs:
+    runs-on: ubuntu-latest
+    env:
+      SENSOR_TOKEN: ${{ secrets.SENSOR_TOKEN }}
+
+    steps:
+      - name: 📥 Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: 🔧 Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: 📦 Install Dependencies
+        run: pip install requests
+
+      - name: 🛠 Generate Sensor Docs
+        run: python .github/scripts/generate_sensor_docs.py
+
+      - name: 🚀 Commit Generated Docs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/sensors/
+          git diff --cached --quiet || git commit -m "📚 Updated sensor docs from latest scrape"
+          git push
