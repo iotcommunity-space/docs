@@ -10,11 +10,13 @@ on:
 
 jobs:
   scrape:
+    name: 🔄 Scrape Sensor Data
     uses: ./.github/workflows/scrape_sensors.yml
     secrets:
       SENSOR_TOKEN: ${{ secrets.SENSOR_TOKEN }}
 
   generate_docs:
+    name: 📝 Generate Sensor Docs
     needs: scrape
     uses: ./.github/workflows/generate_docs.yml
     secrets:
