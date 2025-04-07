@@ -3,7 +3,6 @@
 Welcome to the official repository for [IoTCommunity.Space/docs](https://iotcommunity.space/docs) — a dynamic, fully automated documentation platform for industrial and LoRaWAN sensors.
 
 This repo is powered by:
-- 🔄 Daily scraping of [Choovio IoT store](https://www.choovio.com/iot-online-shop/)
 - 🧠 Automatic `slug` generation for clean URLs
 - 📝 Markdown-based sensor descriptions
 - 🚀 GitHub Actions for continuous sync
