@@ -2,6 +2,8 @@ import json
 import os
 
 def generate_safe_slug(name):
+    if not name or not isinstance(name, str):
+        return None
     return (
         name.lower()
         .replace("–", "-")
@@ -37,14 +39,26 @@ def update_slugs_in_json(file_path="data_sensors.json"):
             print("❌ Invalid JSON file.")
             return
 
+        skipped = 0
+        updated = 0
+
         for product in data:
-            if "slug" not in product or not product["slug"]:
-                product["slug"] = generate_safe_slug(product["name"])
+            name = product.get("name", "")
+            if not name or not isinstance(name, str):
+                print(f"⚠️  Skipping product with missing/invalid name: {product.get('url', 'no URL')}")
+                skipped += 1
+                continue
+
+            product["slug"] = generate_safe_slug(name)
+            updated += 1
 
         f.seek(0)
         json.dump(data, f, indent=2, ensure_ascii=False)
         f.truncate()
-        print("✅ Slugs updated for all sensors.")
+
+        print(f"✅ Slugs updated for {updated} sensors.")
+        if skipped:
+            print(f"⚠️  Skipped {skipped} sensors due to missing name.")
 
 if __name__ == "__main__":
     update_slugs_in_json()
