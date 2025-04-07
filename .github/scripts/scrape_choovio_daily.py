@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import json
 import time
 import os
-import re
 
 # ---------- HELPERS ----------
 def read_scraped_urls(file_path="scraped_urls.txt"):
@@ -16,28 +15,7 @@ def append_scraped_url(url, file_path="scraped_urls.txt"):
     with open(file_path, "a", encoding="utf-8") as f:
         f.write(url + "\n")
 
-def generate_safe_slug(name):
-    return (
-        name.lower()
-        .replace("–", "-")
-        .replace("/", "-")
-        .replace("\\", "-")
-        .replace("&", "and")
-        .replace("’", "")
-        .replace("'", "")
-        .replace(",", "")
-        .replace(".", "")
-        .replace(":", "")
-        .replace("™", "")
-        .replace("®", "")
-        .replace("°", "")
-        .replace(" ", "-")
-        .replace("--", "-")
-        .strip("-")
-    )
-
 def append_product_to_json(product, file_path="data_sensors.json"):
-    product["slug"] = generate_safe_slug(product["name"])
     if os.path.exists(file_path):
         with open(file_path, "r+", encoding="utf-8") as f:
             try:
@@ -121,19 +99,9 @@ def scrape_product_details(url):
 
     for a in soup.select("a[href]"):
         href = a.get("href")
-        if href and any(x in href.lower() for x in ["dropbox", "wiki", ".pdf", "manual", "firmware", "datasheet", "guide", "user"]):
-            key_name = (
-                "User Guide" if "user" in href.lower() else
-                "Manual" if "manual" in href.lower() else
-                "Firmware" if "firmware" in href.lower() else
-                "Datasheet" if "datasheet" in href.lower() else
-                "Wiki" if "wiki" in href.lower() else
-                "Resource"
-            )
-            # avoid overwriting keys
-            count = sum(1 for k in data["resources"] if key_name in k)
-            final_key = f"{key_name} {count+1}" if count else key_name
-            data["resources"][final_key] = href
+        if href and any(x in href.lower() for x in ["dropbox", "wiki", ".pdf", "manual", "firmware", "datasheet"]):
+            key = f"resource_{len(data['resources'])+1}"
+            data["resources"][key] = href
 
     images = [img.get("src") for img in soup.select("div.woocommerce-product-gallery img") if img.get("src")]
     data["images"] = list(set(images))
