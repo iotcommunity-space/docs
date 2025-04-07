@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # ✅ required for calling reusable workflows that commit code
+  contents: write
 
 jobs:
   scrape:
@@ -18,9 +18,16 @@ jobs:
     secrets:
       SENSOR_TOKEN: ${{ secrets.SENSOR_TOKEN }}
 
+  add_slugs:
+    name: 🧩 Add Safe Slugs
+    needs: scrape
+    uses: ./.github/workflows/add_slugs.yml
+    secrets:
+      SENSOR_TOKEN: ${{ secrets.SENSOR_TOKEN }}
+
   generate_docs:
     name: 📝 Generate Sensor Docs
-    needs: scrape
+    needs: add_slugs
     uses: ./.github/workflows/generate_docs.yml
     secrets:
       SENSOR_TOKEN: ${{ secrets.SENSOR_TOKEN }}
