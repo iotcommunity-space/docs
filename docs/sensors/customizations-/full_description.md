@@ -1,1 +1,0 @@
-We appreciate your interest in our products and would like to clarify that the modifications listed here are general customizations and may not apply to all orders. We kindly request you contact us directly to ensure your specific customizations are addressed accurately.
