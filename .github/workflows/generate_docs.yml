@@ -6,6 +6,9 @@ on:
       SENSOR_TOKEN:
         required: true
 
+permissions:
+  contents: write
+
 jobs:
   build-docs:
     runs-on: ubuntu-latest
@@ -15,6 +18,8 @@ jobs:
     steps:
       - name: 📥 Checkout Repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.SENSOR_TOKEN }}
 
       - name: 🔧 Setup Python
         uses: actions/setup-python@v4
@@ -31,9 +36,8 @@ jobs:
         run: |
           git config --global user.name "sensor-bot"
           git config --global user.email "sensor-bot@users.noreply.github.com"
-
           git remote set-url origin https://x-access-token:${SENSOR_TOKEN}@github.com/${{ github.repository }}
-
           git add docs/sensors/
           git diff --cached --quiet || git commit -m "📚 Updated sensor docs from latest scrape"
+          git pull --rebase origin main
           git push origin HEAD:${GITHUB_REF##refs/heads/}
