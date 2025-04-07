@@ -1,0 +1,21 @@
+name: Daily Choovio Sensor Sync & Docs
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Daily at 3 AM UTC
+  push:
+    paths:
+      - 'data_sensors.json'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    uses: ./.github/workflows/scrape_sensors.yml
+    secrets:
+      SENSOR_TOKEN: ${{ secrets.SENSOR_TOKEN }}
+
+  generate_docs:
+    needs: scrape
+    uses: ./.github/workflows/generate_docs.yml
+    secrets:
+      SENSOR_TOKEN: ${{ secrets.SENSOR_TOKEN }}
