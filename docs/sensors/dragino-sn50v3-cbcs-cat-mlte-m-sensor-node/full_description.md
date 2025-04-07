@@ -1,0 +1,1 @@
+SN50v3-CB/CS CAT-M/LTE-M Sensor Node

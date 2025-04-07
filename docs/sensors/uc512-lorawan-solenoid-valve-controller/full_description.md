@@ -1,0 +1,1 @@
+LoRaWAN Solenoid Valve Controller, UC512 LoRaWAN Solenoid Valve Controller is a device used to remotely control DC latching solenoids of the valve. It contains 2 solenoid interfaces and 2 GPIO interfaces, which can be easily controlled locally or remotely.

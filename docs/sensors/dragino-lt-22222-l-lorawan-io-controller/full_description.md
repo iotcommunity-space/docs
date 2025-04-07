@@ -1,0 +1,1 @@
+LT-22222-L LoRaWAN IO Controller allows users to send data and reach long ranges. It provides ultra-long-range spread spectrum communication and high interference immunity while minimizing current consumption.

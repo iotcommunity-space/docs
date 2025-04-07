@@ -1,0 +1,1 @@
+AQS01-L LoRaWAN CO2 Sensor

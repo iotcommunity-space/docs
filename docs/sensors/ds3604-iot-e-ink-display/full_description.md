@@ -1,0 +1,1 @@
+DS3604 IoT E-ink Display is a reflective electrophoretic display offering readability and flexibility. The 4.2-inch active area contains 400×300 pixels and has 1-bit Black/White/Red full display capabilities.

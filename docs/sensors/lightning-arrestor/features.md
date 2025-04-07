@@ -1,0 +1,1 @@
+Connector Type:N-type male to N-type femaleImpedance:50 ΩFrequency range:0-2700 MHzPower loss 0-2000 MHz:≤ 0.2 dBIngress protection:IP67Nominal discharge current In:10 kAMaximum discharge current Imax:20 kAVoltage protection Level Up:≤ 1200 V

@@ -1,0 +1,1 @@
+The LPS8v2 Indoor LoRaWAN Gateway is an open-source LoRaWAN Gateway. It lets you bridge LoRa wireless network to an IP network via WiFi, Ethernet, or Cellular Network (via Optional 4G module). The LoRa wireless allows users to send data and reach extremely long ranges at low data rates.

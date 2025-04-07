@@ -1,0 +1,1 @@
+The Dragino LHT52 Indoor LoRaWAN Temperature & Humidity Sensor is a Long Range LoRaWAN Sensor. It includes a built-in Temperature & Humidity Sensor and a USB Type-C sensor connector to external sensors such as an external temperature sensor.

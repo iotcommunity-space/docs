@@ -1,0 +1,6 @@
+902-928 MHz
+US902-928
+LTE850 (B5)
+N Male / N Female
+IP66
+-40°C to +85°C

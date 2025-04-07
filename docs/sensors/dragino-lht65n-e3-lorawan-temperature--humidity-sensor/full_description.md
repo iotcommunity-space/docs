@@ -1,0 +1,1 @@
+The Dragino LHT65N Temperature & Humidity sensor is a Long Range LoRaWAN Sensor. It includes a built-in Temperature & Humidity sensor and has an external sensor connector to connect to an external Temperature Sensor.

@@ -1,0 +1,1 @@
+Dragino HP0A Outdoor Helium Light Hotspot lets you bridge LoRa wireless network to an IP network via WiFi, Ethernet, optional 3G, or 4G. The LoRa wireless allows users to send data and reach extremely long ranges at low data rates.

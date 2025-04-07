@@ -1,0 +1,1 @@
+R718PG LoRaWAN Wireless Light Sensor has a built-in light sensor that can be used for ambient light intensity detection. It adopts the SX1276 wireless communication module. R718PG detects the ambient light intensity value and joins to the gateway.

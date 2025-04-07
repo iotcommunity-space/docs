@@ -1,0 +1,1 @@
+The Dragino DS03A-LB/LS is a LoRaWAN Door Sensor for Internet of Things solution. It detects door open/close status and uplinks to IoT server via LoRaWAN network. user can see the door status, open duration, open counts in the IoT Server.

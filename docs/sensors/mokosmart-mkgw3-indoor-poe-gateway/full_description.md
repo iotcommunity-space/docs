@@ -1,0 +1,1 @@
+MKGW3 is a BLE (Bluetooth Low Energy) to PoE (Power over Ethernet) Gateway. With support for BLE 5.0, 2.4GHz WiFi, and Ethernet, the indoor PoE gateway offers both wireless and wired connectivity options. Seamlessly connect to your cloud server via MQTT protocol.

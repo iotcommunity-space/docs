@@ -1,0 +1,1 @@
+LW001-BG PRO Lorawan GPS is a indoor/outdoor wireless smart tracker, ultra-low power consumption, indoor&outdoor Lorawan GPS tracker. Available in two versions: LW001-BG PRO-A, LW001-BG PRO-A-C (Rechargeable). It integrates GPS positioning, Bluetooth positioning, and WiFi positioning, and supports a variety of working modes, suitable for most tracking applications.

@@ -1,0 +1,1 @@
+EM300-DI LoRaWAN Pulse Counter is used to remotely read metering data from water meters. It turns existing traditional water meters into smart meters via LoRaWAN® network which further enables easier management and increases the efficiency of water use.

@@ -1,0 +1,1 @@
+LoRaWAN Badge Tracker is designed based on GNSS, Bluetooth 5.0 and LoRa technology. It supports indoor and outdoor tracking. The badge is mainly used for personnel and asset management. Its built-in 3-axis accelerator could be used for determining the motion status of the terminal. Therefore, it can help save battery and enhance user experience.

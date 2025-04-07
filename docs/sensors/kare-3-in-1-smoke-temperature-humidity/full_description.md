@@ -1,0 +1,1 @@
+KARE+ 3-in-1 is specially designed to meet the needs of landlords, property owners and building maintenance specialists. The product does not replace an approved smoke detector, but reinforces a non-connected smoke detector.

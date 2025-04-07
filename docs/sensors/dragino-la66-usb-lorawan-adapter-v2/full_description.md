@@ -1,0 +1,1 @@
+LA66 USB LoRaWAN Adapter v2 is designed to fast turn USB devices to support LoRaWAN wireless features. It combines a CP2101 USB TTL Chip and LA66 LoRaWAN module which can easy to add LoRaWAN wireless feature to PC / Mobile phone or an embedded device that has USB Interface.

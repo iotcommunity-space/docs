@@ -1,0 +1,1 @@
+The LG01v2 Single Channel LoRa IoT Gateway is an open-source single channel LoRa Gateway. It lets you bridge the LoRa wireless network to an IP network via WiFi, Ethernet, or Cellular Network (via an Optional 4G module). The LoRa wireless allows users to send data and reach extremely long ranges at low data rates.

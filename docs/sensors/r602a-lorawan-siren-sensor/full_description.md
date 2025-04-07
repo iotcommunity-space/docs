@@ -1,0 +1,1 @@
+R602A LoRaWAN Siren Sensor is an IoT smart wireless alarm that can communicate with other devices through a wireless network. It has a high-decibel speaker and high-brightness LED, which can realize sound and light alarms. It adopts the SX1276 wireless communication module.

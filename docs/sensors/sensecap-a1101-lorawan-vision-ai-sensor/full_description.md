@@ -1,0 +1,1 @@
+SenseCAP A1101 LoRaWAN Vision AI Sensor is a TinyML Edge AI-enabled smart image sensor. It supports a variety of AI models, such as image recognition, people counting, target detection, meter recognition, etc. It also supports training models with TensorFlow Lite.

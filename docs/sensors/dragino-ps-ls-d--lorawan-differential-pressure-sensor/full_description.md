@@ -1,0 +1,1 @@
+Sometimes it is not necessary to monitor the absolute air pressure but we need to know the difference of pressures in different points. One example may be before and after a valve in a pipe. If the valve is fully open, the pressure on both sides should be the same. If there’s a difference in the pressure, it could be the valve isn’t fully open or there’s a blockage.

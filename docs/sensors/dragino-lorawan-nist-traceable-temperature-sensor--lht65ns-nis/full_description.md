@@ -1,0 +1,1 @@
+The Dragino LHT65N/S-NIST is a Traceable Temperature Sensor is a Long Range LoRaWAN Sensor. It includes a built-in Temperature & Humidity sensor and has an external NIST traceable probe which has a unique certificate from NIST Certificate Lab.

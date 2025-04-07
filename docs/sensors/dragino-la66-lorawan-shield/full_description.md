@@ -1,0 +1,1 @@
+Arduino Shield LoRa technology

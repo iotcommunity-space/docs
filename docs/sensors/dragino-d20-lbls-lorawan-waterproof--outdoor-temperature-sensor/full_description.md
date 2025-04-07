@@ -1,0 +1,1 @@
+D20-LB/LS LoRaWAN Waterproof Temperature Sensor is a LoRaWAN Temperature Sensor for Internet of Things solution. D20-LB or D20-LS will convert the Temperature reading to LoRaWAN wireless data and send to IoT platform via LoRaWAN gateway.

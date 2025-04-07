@@ -1,0 +1,1 @@
+WisBlock Environment Sensor RAK1906 is a WisBlock Sensor based on the popular BOSCH BME680 environment sensor chip that monitors environmental air quality. A ready-to-use SW library and tutorial make it easy to build up motion data acquisition system.

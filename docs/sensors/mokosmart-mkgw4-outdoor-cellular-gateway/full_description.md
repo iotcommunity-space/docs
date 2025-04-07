@@ -1,0 +1,1 @@
+The MKGW4 is an advanced Bluetooth Outdoor Cellular Gateway with GPS and LBS fusion positioning. It offers global connectivity through CAT.1/NB-IOT/CAT.M/GSM network. Acting as a data bridge between BLE beacons and the cloud, it collects broadcast data from nearby beacons and uploads it via the Cellular network.

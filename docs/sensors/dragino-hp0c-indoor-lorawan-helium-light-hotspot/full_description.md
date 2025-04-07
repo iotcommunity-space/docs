@@ -1,0 +1,1 @@
+HP0C Dragino Helium Light Hotspot is an indoor LoRaWAN Gateway. It lets you bridge LoRa wireless network to an IP network via WiFi Ethernet. The LoRa wireless allows users to send data and reach extremely long ranges at low data rates.

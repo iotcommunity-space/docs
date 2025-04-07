@@ -1,0 +1,1 @@
+R315LA is a proximity sensor that detects an object’s presence or approach by measuring the distance between the sensor and the object. With a 62cm measurement range, it is suitable for short-range measurements, such as toilet paper detection. In addition, R315LA is small and light in weight.

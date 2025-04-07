@@ -1,0 +1,1 @@
+Particularly useful in case of colocalization with other transmitters (Cellular, …), cavity filter avoids desensitization of the gateway. The cavity filter selection is depending on the LoraWAN regional parameters used by the gateway and bands used by transmitter colocalized with the gateway.

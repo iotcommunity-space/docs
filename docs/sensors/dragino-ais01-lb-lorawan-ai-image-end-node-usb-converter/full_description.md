@@ -1,0 +1,1 @@
+USB Converter Accessory for AIS01-LB, a LoRaWAN AI Image End Node. AIS01-LB has a camera and AI processor in the probe. It can take photo, analyze the photo to get digital reading and send the info to IoT server via LoRaWAN Network.

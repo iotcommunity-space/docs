@@ -1,0 +1,1 @@
+Milesight UR32 Pocket-Sized 4G Industrial Cellular Router, provides a 3G/4G cellular network with reliable download and uplink speed. It also has 2 Ethernet ports and supports Wi-Fi that is complying with 802.11b/g/n standards for uninterrupted internet access.

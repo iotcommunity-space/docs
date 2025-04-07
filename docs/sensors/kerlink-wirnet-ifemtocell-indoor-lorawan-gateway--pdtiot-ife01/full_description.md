@@ -1,0 +1,1 @@
+Extremely reliable, easily configurable and optimized for performant indoor IoT network, Kerlink Wirnet iFemtoCell remains a reference on the market. This gateway is the perfect fit for enterprise-grade indoor IoT use cases.

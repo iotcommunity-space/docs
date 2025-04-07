@@ -1,0 +1,1 @@
+Spot Leak Detection Sensor, EM300-SLD is a compact spot leakage detection sensor for detecting the presence of water (or other liquids) and transmitting alarms using LoRaWAN® technology. With this low power consumption technology, EM300-SLD can work up to 5 years with a 4000 mAh battery.

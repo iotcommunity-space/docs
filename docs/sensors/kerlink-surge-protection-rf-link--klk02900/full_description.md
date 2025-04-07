@@ -1,0 +1,1 @@
+The quarter-wave RF Surge protection is designed to protect the Lora link from lightning that may come the coaxial cable. This product is enclosed in a metal weatherproof enclosure, meeting IP65. It has 2x connectors N(male-female). It is bi-directional and can support max 50kA discharge current.

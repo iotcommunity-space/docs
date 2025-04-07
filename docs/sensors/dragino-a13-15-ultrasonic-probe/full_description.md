@@ -1,0 +1,1 @@
+The Dragino A13-15 Ultrasonic Probe for LDDS04 LoRaWAN 4-Channels Distance Detection Sensor is designed to measure distances between 25 cm and 200 cm with an accuracy of ±(1cm+S*0.3%) (S: Distance) and a measuring angle of approximately 20°.

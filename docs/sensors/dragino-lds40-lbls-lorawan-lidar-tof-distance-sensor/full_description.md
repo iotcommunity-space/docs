@@ -1,0 +1,1 @@
+The Dragino LDS40-LB/LS is a LoRaWAN LiDAR ToF (Time of Flight) Distance Sensor for Internet of Things solution.  It is capable of measuring the distance to objects as close as 0m to 40m. The LiDAR probe uses laser induction technology for distance measurement.

@@ -1,0 +1,1 @@
+The Lansitec LoRaWAN Macro Bluetooth Gateway is a device that integrates LoRa and Bluetooth 5.0 protocols to enable bidirectional communication between beacons and LoRa gateways. It can collect and transmit beacon data such as UUID, RSSI, battery level and timestamp.

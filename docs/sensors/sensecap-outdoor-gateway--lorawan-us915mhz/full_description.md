@@ -1,0 +1,1 @@
+SenseCAP Outdoor Gateway – LoRaWAN is an IP66 industrial grade outdoor product, supports an extended operating temperature range, making it applicable for low-power consumption, long-range data collection IoT scenarios like smart farming.

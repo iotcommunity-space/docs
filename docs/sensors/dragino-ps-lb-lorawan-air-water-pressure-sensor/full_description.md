@@ -1,0 +1,1 @@
+The Dragino PS-LB series sensors are LoRaWAN Pressure Sensors for Internet of Things solutions. PS-LB can measure Air, Water pressure, and liquid level and upload the sensor data via wireless to LoRaWAN IoT server.

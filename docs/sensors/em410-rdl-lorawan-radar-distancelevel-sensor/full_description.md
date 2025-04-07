@@ -1,0 +1,1 @@
+Aside from its extensive measurement distance, radar technology is also capable of measuring through objects, including plastics, plants, and are less sensitive to snow, dirt, dust, steam and more, making it suitable for a wider range of applications.

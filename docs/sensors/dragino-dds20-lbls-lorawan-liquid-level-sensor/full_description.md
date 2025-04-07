@@ -1,0 +1,1 @@
+The Dragino DDS20-LB/LS is a LoRaWAN Ultrasonic liquid level sensor for Internet of Things solution. It uses none-contact method to measure the height of liquid in a container without opening the container, and send the value via LoRaWAN network to IoT Server.

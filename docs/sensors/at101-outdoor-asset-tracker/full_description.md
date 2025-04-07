@@ -1,0 +1,1 @@
+AT101 Outdoor Asset Tracker is an exceptional outdoor tracker that utilizes GNSS and Wi-Fi AP MAC Address Scanning to provide highly accurate positioning data. Additionally, it has tilt and temperature sensors for more extensive data collection and application in various scenarios. The device is designed with IP67 and IK09 ratings to cater to different environments.

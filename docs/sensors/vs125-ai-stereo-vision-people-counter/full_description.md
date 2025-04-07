@@ -1,0 +1,1 @@
+The VS125 utilizes advanced binocular stereo vision technology and robust AI algorithms to deliver precise people counting and attribute recognition. With the ability to stitch up to 16 devices, it provides comprehensive coverage for most detection areas, empowering the capabilities of industries such as retail and building management.

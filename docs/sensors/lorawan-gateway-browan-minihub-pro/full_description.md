@@ -1,0 +1,1 @@
+The Minihub Pro is a LoRaWAN Minihub Gateway designed to enable connection to the AWS IoT Core. It is also a low-cost LoRaWAN-compliant gateway utilizing a WiFi backhaul. It is a wall-plug type with interchanged plug options. The gateway also includes a USB-C charging port that makes it ideal for mobile applications or to enlarge signal coverage.

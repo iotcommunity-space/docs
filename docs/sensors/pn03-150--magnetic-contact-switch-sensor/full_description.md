@@ -1,0 +1,1 @@
+A PT100 probe contains a resistor made of platinum wire that changes resistance as the temperature changes. The resistance increases linearly with temperature, following the Callendar-Van Dusen equation.

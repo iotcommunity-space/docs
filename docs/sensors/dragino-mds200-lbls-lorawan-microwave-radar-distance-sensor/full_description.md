@@ -1,0 +1,1 @@
+The Dragino MDS200-LB/LS is a LoRaWAN Microwave Radar distance sensor. It uses 24Ghz Microwave to detect the distance between sensor and different objects. Compare vs ultrasonic or Lidar measurement method, Microwave Radar is more reliable for condensation / dusty environment. It can sense correct distance even there is water or thick dust on top of the sensor.

@@ -1,0 +1,1 @@
+UG56 Industrial LoRaWAN Gateway is a robust 8-channel indoor LoRaWAN gateway. Adopting SX1302 chip and high-performance quad-core CPU, UG56 supports connection with more than 2000 nodes. UG56 has line of sight up to 15 km and can cover about 2 km in urbanized environment, which is ideally suited to smart building, smart industries and many other indoor applications.

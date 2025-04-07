@@ -1,0 +1,1 @@
+The Dragino TS01-LB/LS is a LoRaWAN Tilting Sensor for Internet of Things solution. TS01-LB/LS is an outdoor Tilting Sensor specially designed for detecting the angle of trees, buildings or large scale equipment.

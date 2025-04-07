@@ -1,0 +1,1 @@
+UG65 Robust LoRaWAN Gateway is a robust 8-channel indoor LoRaWAN® gateway. Adopting the SX1302 LoRa chip and high-performance quad-core CPU, UG65 supports connection with more than 2000 nodes. UG65 has line of sight up to 15 km and can cover about 2 km in urbanized environment, which is ideally suited to smart office, smart building and many other indoor applications.

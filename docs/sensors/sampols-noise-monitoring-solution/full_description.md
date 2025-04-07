@@ -1,0 +1,1 @@
+Only accurate, real time data can provide useful noise pollution measurements to enable change and ensure the wellbeing of our citizens. Sampols is a one-of-a-kind noise management solution ready for large-scale deployment.

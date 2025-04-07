@@ -1,0 +1,1 @@
+• Sensitive in low flows – starting flow as low as 0.01 gpm• Maintenance free device, battery lifetime > 16 years• Installation in any position• No straight piperun needed• No measurement of air• IP68 protection class• Bi-directional flow measurement• Durable composite body• Measurement units: Gal-GPM, ft3-ft3/h• Strainer and check valve (optional)

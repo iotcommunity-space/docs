@@ -1,0 +1,1 @@
+The Dragino WL03A-LB/LS is a LoRaWAN None-Position Rope Type Water Leak Controller. User can lay the WL03A-LB/LS + Water Leak Cable on the ground to detect water leakage. The water leak cable senses when there is water over the leak cable. WL03A-LB/LS will indicate a water leak event and uplink to IoT server via LoRaWAN network.

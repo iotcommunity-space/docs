@@ -1,0 +1,1 @@
+SIGN 7-in-1 Room Sensor is equipped with a Total Volatile Organic Compounds (TVOC) sensor based on highly sensitive MOx detection technology. This ensures reliable measurement even in damp and dusty environments.

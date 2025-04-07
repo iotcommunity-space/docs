@@ -1,0 +1,1 @@
+The Dragino WQS-LB is a Main Unit and is designed for comprehensive water quality monitoring across various applications. They are ideal for monitoring tap water, industrial water, environmental water, and wastewater, etc, which offer precise and reliable measurements to ensure water quality standards are met.

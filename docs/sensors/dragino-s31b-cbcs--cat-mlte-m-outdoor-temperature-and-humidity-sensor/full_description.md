@@ -1,0 +1,1 @@
+The Dragino S31B-CB/CS is a CAT-M/LTE-M Temperature and Humidity Sensor for Internet of Things solution. It is used to measure the surrounding environment temperature and relative air humidity precisely, and then upload to IoT server via CAT-M1 network.

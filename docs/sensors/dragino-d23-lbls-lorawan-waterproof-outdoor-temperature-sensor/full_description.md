@@ -1,0 +1,1 @@
+The Dragino D23-LB/LS LoRaWAN Waterproof /Outdoor Temperature Sensor is a LoRaWAN Temperature Sensor for Internet of Things solution. D23-LB/LS will convert the Temperature reading to LoRaWAN wireless data and send to IoT platform via LoRaWAN gateway.

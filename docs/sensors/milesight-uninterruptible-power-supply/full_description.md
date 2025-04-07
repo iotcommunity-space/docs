@@ -1,0 +1,1 @@
+The Milesight Uninterruptible Power Supply UPS01 is building a successful power supply solution featured with 12000 mAh that is able to serve connectivity needs for the terminal devices up to 32 hours.

@@ -1,0 +1,1 @@
+Square Tracker Xtreme represents a cutting-edge generation of low-power, precision trackers suitable for both indoor and outdoor environments. This device is engineered to offer advanced asset management capabilities without the necessity for battery replacement or charging.

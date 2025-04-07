@@ -1,0 +1,1 @@
+Kerlink Wirnet iFemtoCell-evolution is an easy to manage and to configure indoor LoRaWAN gateway. This enterprise-grade gateway offers excellent radio performance and high availability, for reliable and resilient indoor coverage.

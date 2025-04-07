@@ -1,0 +1,1 @@
+The Dragino LPS8N Indoor LoRaWAN Gateway is an open-source LoRaWAN Gateway. It enables IoT Users to bridge LoRa wireless network to an IP network via WiFi or Ethernet. The LoRa wireless Lets users send data and reach extremely long ranges at low data rates.

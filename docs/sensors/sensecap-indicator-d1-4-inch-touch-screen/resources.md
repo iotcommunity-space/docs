@@ -1,0 +1,10 @@
+https://files.seeedstudio.com/Seeed_Certificate/documents_certificate/114993068-CE.pdf
+https://files.seeedstudio.com/Seeed_Certificate/documents_certificate/114993068-EUDOC.pdf
+https://files.seeedstudio.com/Seeed_Certificate/documents_certificate/114993068-FCC.pdf
+https://files.seeedstudio.com/Seeed_Certificate/documents_certificate/114993068-REACH.pdf
+https://files.seeedstudio.com/Seeed_Certificate/documents_certificate/114993068-ROHS.pdf
+https://files.seeedstudio.com/Seeed_Certificate/documents_certificate/114993068-TELEC.pdf
+https://files.seeedstudio.com/Seeed_Certificate/documents_certificate/114993068-UKDOC.pdf
+https://files.seeedstudio.com/products/SenseCAP/SenseCAP_Indicator/SenseCAP%20Indicator%20User%20Manual_2023.4.21.pdf
+https://wiki.seeedstudio.com/Sensor/SenseCAP/SenseCAP_Indicator/Get_started_with_SenseCAP_Indicator/https://wiki.seeedstudio.com/Sensor/SenseCAP/SenseCAP_Indicator/Get_started_with_SenseCAP_Indicator/
+https://files.seeedstudio.com/products/SenseCAP/SenseCAP_Indicator/SenseCAP%20Indicator%20User%20Manual_2023.4.21.pdf

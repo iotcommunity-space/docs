@@ -1,0 +1,1 @@
+The Dragino LTC2-LB Industrial LoRaWAN Temperature Transmitter is designed to monitor temperature for different environment. It supports to read PT100 probe and convert the value to temperature and uplink to IoT server via LoRaWAN protocol.

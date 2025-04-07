@@ -1,0 +1,1 @@
+The Dragino SPH01-LB/LS is a LoRaWAN Soil pH Sensor for IoT of Agriculture. It is designed to measure the soil PH and soil temperature, so to send to the platform to analyze the soil acid or alkali level. The probe is IP68 waterproof.

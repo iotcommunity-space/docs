@@ -1,0 +1,1 @@
+The Dragino LHT65N-VIB LoRaWAN Vibration Sensor is designed to detect and measure vibrations, shocks, or accelerations of an object. By analyze the motion of the object, LHT65N-VIB can send meaningful resulte such as: Alarm, device runtime, counting, vibration strenght to IoT platform for further analyze.

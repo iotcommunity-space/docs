@@ -1,0 +1,1 @@
+NETVOX R103 – LoRaWan Configure Tools is a small USB dongle used for the configuration of all the Netvox LoRaWan wireless sensors; it can be used to configure the Sub frequency band in US915 from Sub frequency band 1-8.

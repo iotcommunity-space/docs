@@ -1,0 +1,1 @@
+•LoRa/FSK modulation communication,long-distance wireless communication•Adopt SX1276 wireless communication module•Built-in memory for storing power consumption data•LoRaWANClass C compatible•Switch status, energy, current, voltage, power, overcurrent alarm detection

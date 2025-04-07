@@ -1,0 +1,1 @@
+AM307 Indoor LoRaWAN Ambience is a compact indoor ambience monitoring sensor for measurement of temperature, humidity, light, CO2 concentration, TVOC, barometric pressure, and motion. The data will be shown on the E-ink screen in real-time, which helps to measure the indoor environment and comfort.

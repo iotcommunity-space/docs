@@ -1,0 +1,1 @@
+Dragino RS485-LN RS485 to LoRaWAN Converter allows the user to monitor/control RS485 devices and reach extremely long ranges. It provides ultra-long range spread spectrum communication and high interference immunity whilst minimizing current consumption.

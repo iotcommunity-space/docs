@@ -1,0 +1,1 @@
+The Lansitec iBeacon 100-02395 Bluetooth Beacon constantly advertises iBeacon messages according to settings. It has two built-in high-capacity button cells. The maximum battery life is approximately 5 years with a advertise interval @500ms.

@@ -1,0 +1,1 @@
+WSS-06 Total Solar Radiation Sensor can be used to measure the total solar radiation in the spectral range of 0.3 to 3 μm (300 to 3000 nm). If the sensor face is down, the reflected radiation can be measured, and the shading ring can also be used to measure the scattered radiation.

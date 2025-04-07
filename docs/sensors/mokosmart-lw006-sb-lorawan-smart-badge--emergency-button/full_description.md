@@ -1,0 +1,1 @@
+The LW006-SB Lorawan Smart Badge is a multi-tech tracker that combines LoRaWAN network with Bluetooth, WiFi, and GPS for reliable indoor and outdoor positioning. This slim, card-sized badge features an alert button for employees to trigger emergency alarms in need. Its adaptive positioning enables tracking across remote and high-traffic worksites.

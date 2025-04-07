@@ -1,0 +1,1 @@
+DLOS8N LoRaWAN Gateway open source outdoor LoRaWAN Gateway. It lets you bridge LoRa wireless network to an IP network via WiFi, Ethernet, 3G, or 4G cellular. The LoRa wireless allows users to send data and reach extremely long ranges at low data rates.

@@ -1,0 +1,5 @@
+8-in-1 Weather Station:Collect air temperature, humidity, wind speed/direction, Rainfall Intensity, light intensity, UV index, and barometric pressure data in one device and upload them via LoRaWAN
+Bluetooth Configuration in 1 min & Remote Management: Simple configuration with just a few clicks, supports remote monitoring and managing real-time & historical data via theSenseCAP Mate App(Download here: 1.iOS; 2.Google Play; 3.App Center) andSenseCAP Portal
+Ultra-low Power Consumption, Easily Replaceable Battery & Expandable Capacity:Powered by 0.5W solar panel and 3*standard 1.5V AA size dry batteries with up to 2 years service life (support external battery compartment with capacity for six batteries to double the service life)
+Reliable Performance: Suitable for outdoor harsh environments such as high UV exposure, heavy rain, dusty conditions, etc
+One-stop Deployment & Flexible Layout: Accessories include poles, mounting stand, etc. for quick installation and can be set up at almost any location

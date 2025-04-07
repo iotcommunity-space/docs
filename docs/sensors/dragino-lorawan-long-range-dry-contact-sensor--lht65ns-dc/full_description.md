@@ -1,0 +1,1 @@
+The Dragino LHT65N/S-DC is a LoRaWAN Dry Contact Sensor is a Long Range LoRaWAN Sensor. It detects dry contact status, open/ close status, counts, and then upload to IoT server via LoRaWAN network. It includes a built-in Temperature & Humidity sensor and 3-wire(VCC/ GND/INT) for dry contact .

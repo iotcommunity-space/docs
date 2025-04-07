@@ -1,0 +1,1 @@
+B3 Emergency Button is a Bluetooth-enabled device engineered as a personal safety solution that can instantly trigger emergency help when needed. It is equipped with a large, circular trigger button designed for accessible one-touch activation of emergency alerts.

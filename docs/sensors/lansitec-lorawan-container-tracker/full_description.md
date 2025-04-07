@@ -1,0 +1,1 @@
+The LoRaWAN Container Tracker is a device that integrates GNSS (GPS, Beidou, Glonass), Bluetooth and LoRa technology for accurate outdoor and indoor positioning of assets. It has an IP68 enclosure that provides protection against water and dust ingress. It has a large battery capacity that can support up to 180,000 Bluetooth tracking messages over 30,000 GPS coordinates.

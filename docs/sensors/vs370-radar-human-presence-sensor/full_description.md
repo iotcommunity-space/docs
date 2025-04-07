@@ -1,0 +1,1 @@
+VS370 Radar Human Presence Sensor is a high-accuracy occupancy sensor tailored for meeting rooms of various sizes. Featuring Radar and PIR technology, it ensures accurate detection without privacy concerns.

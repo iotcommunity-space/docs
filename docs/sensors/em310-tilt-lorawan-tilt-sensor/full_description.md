@@ -1,0 +1,1 @@
+Milesight EM310 LoRaWAN tilt sensor used for angle measurement and asset movement detection. With a compact size and3-axis accelerometer, EM310-TILT can be installed on the objects easily to measure its X, Y, and Z tilt angles.

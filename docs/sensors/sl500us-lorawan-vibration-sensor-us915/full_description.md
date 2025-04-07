@@ -1,0 +1,1 @@
+Rejeee SL500US LoRaWAN vibration sensor is long-range low power 3-axis Accelerometer sensor together, based on Semtech SX1262/SX1268, with a 5400mAh Li battery that can last up to 10 years. With high sensitivity sensor to ensure high reliability and long-term stability.

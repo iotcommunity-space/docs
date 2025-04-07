@@ -1,0 +1,1 @@
+The Dragino A01A-15 Ultrasonic Probe for LDDS04 is primarily designed for accurate plane distance measurements. This high-precision device is capable of conducting targeted measurements on flat surfaces, making it suitable for applications requiring long-distance and high-accuracy measurements.

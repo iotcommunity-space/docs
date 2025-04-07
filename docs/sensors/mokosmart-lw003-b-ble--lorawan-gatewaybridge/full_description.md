@@ -1,0 +1,1 @@
+LW003-B BLE- Lorawan Gateway/Bridge integrates Bluetooth and LoRaWAN wireless communication, it can scan Bluetooth Beacon data and transmit data to LoRaWAN gateway, and then upload to server, so as to realize environmental monitoring and indoor positioning.

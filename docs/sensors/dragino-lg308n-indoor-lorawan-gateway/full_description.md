@@ -1,0 +1,1 @@
+LG308 Gateway is an Amazon AWS IoT Core certified LoRaWAN gateway and uses the Semtech packet forwarder and fully compatible with the LoRaWAN protocol. It includes a SX1301 LoRa concentrator + 2 x SX1257, which provide 10 programmable parallel demodulation paths.

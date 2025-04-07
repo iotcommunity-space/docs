@@ -1,0 +1,1 @@
+EM300-CL LoRaWAN capacitive level sensor offers energy saving features that prolongs the battery life up to 10 years and can be seamlessly integrated with containers of distinct shapes and sizes, to facilitate better management and enhance user experience by keeping hand wash levels at check.

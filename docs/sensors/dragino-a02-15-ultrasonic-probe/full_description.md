@@ -1,0 +1,1 @@
+The Dragino A02-15 Ultrasonic Probe for LDDS04 LoRaWAN 4-Channels Distance Detection Sensor offers precise distance measurements ranging from 3 cm to 450 cm. Ideal for detecting flat objects, this probe can be utilized in parking management systems, object proximity, and presence detection, and rubbish bin management systems.

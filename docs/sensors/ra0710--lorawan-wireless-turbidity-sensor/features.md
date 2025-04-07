@@ -1,0 +1,1 @@
+•Apply SX1276 LoRaWAN wireless communication module•DC 12V adapter power supply•Turbidity detection•LoRaWAN Class A compatible•Frequency Hopping Spread Spectrum (FHSS)•Configuration parameters can be configured through a third-party software platform•Applicable to third-party platforms: Actility / ThingPark, TTN, MyDevices / Cayenne

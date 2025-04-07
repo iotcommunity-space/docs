@@ -1,0 +1,1 @@
+RS485-BL LoRaWAN Converter can interface to RS485 sensor, 3.3v/5v UART sensor, or interrupt sensor. RS485-BL provides a 3.3v output and a 5v output to power external sensors. Both output voltage is controllable to minimize the total system power consumption.

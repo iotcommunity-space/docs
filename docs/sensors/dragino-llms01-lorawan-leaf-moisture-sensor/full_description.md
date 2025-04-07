@@ -1,0 +1,1 @@
+Dragino LLMS01 LoRaWAN Leaf Moisture Sensor designed to measure the leaf moisture and temperature, so to send to the platform to analyze the leaf status such as watering, moisturizing, dew, frozen. The probe is IP67 waterproof.

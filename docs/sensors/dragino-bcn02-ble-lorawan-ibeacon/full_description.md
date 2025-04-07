@@ -1,0 +1,1 @@
+The BCN02 is a LoRaWAN Bluetooth BLE iBeacon designed for indoor positioning solutions. BCN02 is based on Diglog IC and supports Bluetooth 5.1 protocol. BCN02 has low power consumption and a 1200mAh battery. With a 500ms broadcast interval, BCN02 can work for 4~5 years.

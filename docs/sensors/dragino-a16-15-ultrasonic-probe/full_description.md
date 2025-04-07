@@ -1,0 +1,1 @@
+The Dragino A16-15 Ultrasonic Probe for LDDS04 LoRaWAN 4-Channels Distance Detection Sensor is a high-quality probe designed to measure distances ranging from 50 cm to 1500 cm. With a cable length of 1.5 meters, this probe is suitable for long-distance detection applications, ensuring accurate and reliable results.

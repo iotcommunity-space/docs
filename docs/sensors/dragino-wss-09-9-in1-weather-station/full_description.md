@@ -1,0 +1,1 @@
+The Dragino WSS-09 is designed to support the Dragino Weather station solution. The 9 in 1 weather station Sensors can measure below values: Wind Speed, Wind Direction, Temperature, Humidity, Air Pressure, Illumination, PM2.5, PM10, Noise & Rain Guage.

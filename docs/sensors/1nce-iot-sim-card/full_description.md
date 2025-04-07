@@ -1,0 +1,1 @@
+1NCE IoT SIM Cards allow the user to automatically switch between radio standards. Thanks to the multimode feature, it is guaranteed that the best available network is used for data transmission. Furthermore, our SIM cards are IoT-grade SIM cards, which are much more robust and heat-resistant than typical consumer SIM cards.

@@ -1,0 +1,1 @@
+The Dragino S31B-LB/LS is a LoRaWAN Temperature and Humidity Sensor for Internet of Things solution. It is used to measure the surrounding environment temperature and relative air humidity precisely, and then upload to IoT server via LoRaWAN wireless protocol.

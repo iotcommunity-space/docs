@@ -1,0 +1,1 @@
+The Dragino SE01-LB/LS is a LoRaWAN Soil Moisture & EC Sensor for IoT of Agriculture. It is designed to measure the soil moisture of saline-alkali soil and loamy soil. The soil sensor uses FDR method to calculate the soil moisture with the compensation from soil temperature and conductivity. It also has been calibrated in factory for Mineral soil type.

@@ -1,0 +1,1 @@
+The Dragino NDDS20 is an NB-IoT  Ultrasonic liquid level sensor for the Internet of Things solution. It uses a non-contact method to measure the height of liquid in a container without opening the container and send the value via cellular network to IoT Server.

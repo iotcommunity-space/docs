@@ -1,0 +1,1 @@
+The Dragino WSS-08 Optical Rain Guage is a weather monitor instrument to monitor rainfall. WSS-08 is designed to auto support the Dragino Weather station solution. It has a pulse counting input which can be used to connect tipping bucket Rain Gauge.

@@ -1,0 +1,1 @@
+R718N163 LoRaWAN Wireless 1-Phase Current Meter with 1 x 630A Clamp-On CT is powered by battery and obtains the load AC current value through the current transformer. The device adopts the clamp-on current transformer, which can be conveniently connected to the measuring device

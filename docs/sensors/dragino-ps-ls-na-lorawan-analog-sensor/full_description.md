@@ -1,0 +1,1 @@
+The Dragino PS-LS-NA is a LoRaWAN Analog Sensor for the Internet of Things solution. PS-LS-NA has 5v and 12v output, 4~20mA, 0~30v input interface to power and gets value from Analog Sensor. PS-LS-NA will convert the Analog Value to LoRaWAN wireless data and send it to the IoT platform via the LoRaWAN gateway.

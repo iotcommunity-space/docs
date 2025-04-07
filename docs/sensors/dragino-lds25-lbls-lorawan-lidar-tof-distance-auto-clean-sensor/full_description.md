@@ -1,0 +1,1 @@
+The Dragino LDS25-LB/LS is a LiDAR ToF (Time of Flight) Distance Auto-Clean Sensor for Internet of Things solution. It is capable of measuring the distance to objects as close as 0m to 25m. The LiDAR probe uses laser induction technology for distance measurement.

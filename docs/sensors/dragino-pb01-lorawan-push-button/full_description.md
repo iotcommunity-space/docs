@@ -1,0 +1,1 @@
+PB01 LoRaWAN Button is a LoRaWAN wireless device with one push button. Once user push the button, PB01 will transfer the signal to IoT server via Long Range LoRaWAN wireless protocol. PB01 also senses the environment temperature & humidity and will also uplink these data to IoT Server.

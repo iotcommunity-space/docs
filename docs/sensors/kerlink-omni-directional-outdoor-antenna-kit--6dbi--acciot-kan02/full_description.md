@@ -1,0 +1,1 @@
+The antenna benefits from light weight, DC short lightening protection and can operate in all conditions like strong wind resistance, and is waterproof (IP66K). It is provided with tilt and swivel mast mounting brackets and a 1m coaxial cable. The radiation patterns are presented here after.

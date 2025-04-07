@@ -1,0 +1,1 @@
+The Dragino RS485-LS is a RS485 / UART to LoRaWAN Converter for Internet of Things solutions. User can connect RS485 or UART sensor to RS485-LS converter, and configure RS485-LS to periodically read sensor data and upload via LoRaWAN network to IoT server.

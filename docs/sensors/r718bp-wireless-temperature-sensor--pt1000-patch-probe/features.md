@@ -1,0 +1,1 @@
+• SX1276 wireless communication module• PT1000 RTD with patch probe• Temperature detection: -50 to 150℃• 2* ER14505 lithium batteries in parallel• IP65 (main body)• Magnetic base• Frequency hopping spread spectrum technology• Applicable to third-party platforms: Actility / ThingPark, TTN, MyDevices / Cayenne• Low power consumption and long battery life•LoRaWANClass A compatible

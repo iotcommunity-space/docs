@@ -1,0 +1,1 @@
+LoRaWAN Ultrasonic Water Meter Without Valve Controller uses the most advanced measurement technology and are anti-clogging and anti-interference from metal impurities. It can realize remote meter reading and remote valve control etc.. And it conforms to the LoRaWAN standard protocol which is formulated by LoRa Alliance.
