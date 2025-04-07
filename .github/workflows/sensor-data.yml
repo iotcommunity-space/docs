@@ -8,6 +8,9 @@ on:
       - 'data_sensors.json'
   workflow_dispatch:
 
+permissions:
+  contents: write  # ✅ required for calling reusable workflows that commit code
+
 jobs:
   scrape:
     name: 🔄 Scrape Sensor Data
