@@ -51014,5 +51014,51 @@
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2021/01/choovio-Iot-Software-programming-customization.png?fit=500%2C500&ssl=1"
     ],
     "slug": "customizations-***"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-bh01-lb-ls-ble-to-lorawan-hub/",
+    "name": "Dragino BH01-LB/LS – BLE to LoRaWAN Hub",
+    "sku": "N/A",
+    "brand": "Dragino",
+    "price": "$70.00 – $79.00",
+    "availability": null,
+    "short_description": [
+      "Combines BLE’s short-range precision with LoRaWAN’s Long range transmission",
+      "Support Bluetooth v5.1 and LoRaWAN remote configure",
+      "Ultra-low power consumption",
+      "US915 Support"
+    ],
+    "full_description": "The Dragino BH01-LB/LS BLE to LoRaWAN Hub is an edge communication node device designed for loT applications. It uses the BLE Bluetooth module to periodically scan and collect data from surrounding Bluetooth temperature and humidity sensors (such as BCN02, iBeasons or third-party BLE sensors), and then uses the LoRaWAN protocol to transmit the data over long distances to the cloud platform, achieving seamless connection between Bluetooth devices and low-power wide area networks.",
+    "use_cases": [],
+    "features": [
+      "LoRaWAN 1.0.3 Class A",
+      "Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865",
+      "Ultra-low power consumption",
+      "Data collcetion: Bluetooth tags monitor environmental parameters in real time and upload data to the Hub via BLE protocol",
+      "Combines BLE’s short-range precision with LoRaWAN’s Long range transmission",
+      "Monitor Battery Level",
+      "Support Bluetooth v5.1 and LoRaWAN remote configure",
+      "Support wireless OTA update firmware",
+      "Uplink on periodically",
+      "Downlink to change configure",
+      "8500mAh Li/SOCl2 Battery (BH01-LB)",
+      "Solar panel + 3000mAh Li-ion battery (BH01-LS)",
+      "Cold Chain Logistics",
+      "Smart Factory Monitoring",
+      "Warehouse Monitoring",
+      "Greenhouse Monitoring"
+    ],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.dropbox.com/scl/fo/61ulotfsigu53x8iwj9ze/ANX6UzXe0dfcqMbhK_ogQbo?rlkey=n9lti7sajrgooyi0it7lal3sj&st=pmjvq9ss&dl=0",
+      "resource_2": "https://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/BH01-LBLS_BLE_to_LoRaWAN_Hub_User_Manual/"
+    },
+    "images": [
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/BH01-LB-BLE-to-LoRaWAN-Hub-Choovio.png?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/BH01-LS-BLE-to-LoRaWAN-Hub-Choovio.png?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/BH01-LS-BLE-to-LoRaWAN-Hub-Choovio.png?fit=500%2C500&ssl=1",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/BH01-LB-BLE-to-LoRaWAN-Hub-Choovio.png?fit=500%2C500&ssl=1"
+    ]
   }
 ]
