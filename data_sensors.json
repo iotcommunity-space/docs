@@ -51061,5 +51061,29 @@
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/BH01-LB-BLE-to-LoRaWAN-Hub-Choovio.png?fit=500%2C500&ssl=1"
     ],
     "slug": "dragino-bh01-lb-ls--ble-to-lorawan-hub"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-ds18b20-d23-temperature-sensor-probe/",
+    "name": "Dragino DS18B20 – D23 Temperature Sensor Probe",
+    "sku": "DS18B20",
+    "brand": "Dragino",
+    "price": "$22.50",
+    "availability": "Out of stock",
+    "short_description": [
+      "Probe for Dragino D23 LoRaWAN Waterproof/Outdoor Temperature Sensor"
+    ],
+    "full_description": "The Dragino DS18B20 Probe is a Waterproof/Outdoor Temperature Probe. This Probe can be used with the Dragino D23-LB – LoRaWAN Waterproof/Outdoor Temperature Sensor.",
+    "use_cases": [],
+    "features": [],
+    "specifications": [
+      "Temperature Sensor:",
+      "Dallas DS18B20",
+      "Range: -55 to + 125°C",
+      "Accuracy ±0.5°C (max ±2.0 °C)."
+    ],
+    "resources": {},
+    "images": [
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/D23-Temperature-Probe-Choovio.png?fit=500%2C449&ssl=1"
+    ]
   }
 ]
