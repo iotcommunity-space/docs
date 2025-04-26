@@ -51086,5 +51086,56 @@
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/D23-Temperature-Probe-Choovio.png?fit=500%2C449&ssl=1"
     ],
     "slug": "dragino-ds18b20--d23-temperature-sensor-probe"
+  },
+  {
+    "url": "https://www.choovio.com/product/ws302-lorawan-sound-level-sensor/",
+    "name": "WS302 LoRaWAN Sound Level Sensor",
+    "sku": "WS302-US915",
+    "brand": "Milesight",
+    "price": "$56.00",
+    "availability": "71 in stock",
+    "short_description": [
+      "Easy Configuration (via NFC)",
+      "Accurate Sound Level Measurement",
+      "LED Alarm Indicator",
+      "1.5~4 Years Battery Life",
+      "US915 Support"
+    ],
+    "full_description": "WS302 LoRaWAN Sound Level Sensor",
+    "use_cases": [],
+    "features": [
+      "Support multiple weighting measurements to suit different scenes: A weighting, C weighting, fast weighting",
+      "Support measuring various kinds of values to judge the sound level accurately: actual value, equivalent continuous value and max value",
+      "Equipped with an LED indicator to indicate threshold alarms",
+      "More than 4 years battery life",
+      "Built-in NFC for easy configuration",
+      "Compliant with standard LoRaWAN® gateways and network servers",
+      "Quick and easy management with Milesight IoT Cloud solution"
+    ],
+    "specifications": [
+      "Technology: LoRaWANFrequency: CN470/IN865/RU864/EU868/US915/AU915/KR920/AS923-1&2&3&4",
+      "Tx Power: 16 dBm (868 MHz)/22 dBm (915 MHz)/19 dBm (470 MHz)Sensitivity: -137dBm @300bpsMode: OTAA/ABP Class A",
+      "Range: 30 dBA to 120 dBA, 35 dBC to 120 dBCAccuracy: ± 3 dB (0°C to +45°C)Resolution: 0.1 dBFrequency Range: 30 Hz to 8 kHzFrequency Weighting: A and C Weighting (Software Switchable)Time Weighting: Fast WeightingMeasurement Unit: SPL Actual, Leq, Lmax",
+      "Configuration: NFCButton: 1 × Power/Reset ButtonLED: 1 × Status/Alarm Indicator",
+      "Power Supply: 2 × 2700 mAh ER14505 Li-SOCl2 Replaceable BatteriesOperating Temperature: -20°C to +60°CRelative Humidity: ≤95% (Non-condensing)Ingress Protection: IP30Dimension: 68 × 65 × 20.5 mm (2.68 × 2.56 × 0.81 in)Material & Color: PC+ABS, WhiteInstallation: On the flat surfaces with screws or 3M tapes"
+    ],
+    "resources": {
+      "resource_1": "https://en.wikipedia.org/wiki/LoRa#LoRaWAN",
+      "resource_2": "/wp-content/uploads/2022/10/ws302-user-guide-en1.pdf",
+      "resource_3": "/wp-content/uploads/2022/10/ws302-datasheet-en1.pdf"
+    },
+    "images": [
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2022/10/ws302.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2022/10/WS302-2.jpg?resize=300%2C300&ssl=1",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2022/10/WS302-Front.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2022/10/WS302-Bottom.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2022/10/WS302-Bottom.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2022/10/WS302-1.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2022/10/WS302-Front.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2022/10/ws302.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2022/10/WS302-2.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2022/10/WS302-1.jpg?resize=300%2C300&ssl=1"
+    ]
   }
 ]

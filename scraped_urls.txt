@@ -454,3 +454,4 @@ https://www.choovio.com/product/ltc2-lt-industrial-lorawan-low-temperature-trans
 https://www.choovio.com/product/customizations/
 https://www.choovio.com/product/dragino-bh01-lb-ls-ble-to-lorawan-hub/
 https://www.choovio.com/product/dragino-ds18b20-d23-temperature-sensor-probe/
+https://www.choovio.com/product/ws302-lorawan-sound-level-sensor/
