@@ -1,0 +1,1 @@
+The high-end people counters leverage deep learning AI and 2nd generation ToF technology to provide precise and reliable people counting, bringing great adaptability to various indoor and semi-outdoor scenarios.

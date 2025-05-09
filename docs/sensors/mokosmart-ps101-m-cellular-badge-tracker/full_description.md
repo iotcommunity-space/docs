@@ -1,0 +1,1 @@
+The PS101-M Cellular Badge Tracker is a multi-tech tracker in a portable ID card form factor. By seamlessly combining Cellular network with GPS, Wi-Fi, and BLE positioning, it achieves accurate real-time visibility of mobile workforces – both indoor and outdoor.
