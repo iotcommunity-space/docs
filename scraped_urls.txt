@@ -457,3 +457,5 @@ https://www.choovio.com/product/dragino-ds18b20-d23-temperature-sensor-probe/
 https://www.choovio.com/product/ws302-lorawan-sound-level-sensor/
 https://www.choovio.com/product/dragino-se0x-cb-cs-cat-m1-lte-m-soil-moisture-ec-sensor-transmitter/
 https://www.choovio.com/product/dragino-se0x-ls-lorawan-soil-moisture-ec-sensor-transmitter/
+https://www.choovio.com/product/mokosmart-ps101-m-cellular-badge-tracker/
+https://www.choovio.com/product/vs135-ultra-tof-people-counter-high-ceiling-mount-version/

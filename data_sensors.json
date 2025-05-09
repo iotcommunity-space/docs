@@ -51326,5 +51326,96 @@
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/12/SE0X-LB-Dragino-Choovio-2-min.jpg?resize=300%2C300&ssl=1"
     ],
     "slug": "dragino-se0x-ls--lorawan-soil-moisture-and-ec-sensor-transmitter"
+  },
+  {
+    "url": "https://www.choovio.com/product/mokosmart-ps101-m-cellular-badge-tracker/",
+    "name": "MOKOSmart PS101-M Cellular Badge Tracker",
+    "sku": "PS101-M",
+    "brand": "MOKOSmart",
+    "price": "$90.00",
+    "availability": "9 in stock",
+    "short_description": [
+      "Cat-M1 and Cat-NB1/NB2 cellular connectivity",
+      "Noticeable one-touch alarm button with loud audible beep",
+      "IP67-rated waterproof and dustproof design for durability",
+      "1500mAh rechargeable battery for extended battery life",
+      "Convenient magnetic charging method for easy charging",
+      "Lightweight at only 70 grams and ultra-compact dimensions"
+    ],
+    "full_description": "The PS101-M Cellular Badge Tracker is a multi-tech tracker in a portable ID card form factor. By seamlessly combining Cellular network with GPS, Wi-Fi, and BLE positioning, it achieves accurate real-time visibility of mobile workforces – both indoor and outdoor.",
+    "use_cases": [],
+    "features": [
+      "Cat-M1 and Cat-NB1/NB2 cellular connectivity",
+      "Support multiple positioning tech over Cellular: GPS, Wi-Fi, Bluetooth",
+      "Multiple working modes (Standby, Timing, Periodic, Motion)",
+      "IP67-rated waterproof and dustproof design for durability",
+      "Noticeable one-touch alarm button with loud audible beep",
+      "Convenient magnetic charging method for easy charging",
+      "Compatible with SIM cards as well as embedded SIM (eSIM)",
+      "Lightweight at only 70 grams and ultra-compact dimensions",
+      "1500mAh rechargeable battery for extended battery life",
+      "ATEX certified explosion-proof version available"
+    ],
+    "specifications": [
+      "Cat-M1 Band: B1, B2, B3, B4, B5, B8, B12, B13, B14, B17, B18, B19, B20, B25, B26, B28, B66",
+      "Cat-NB1/NB2 Band: B1, B2, B3, B4, B5, B8, B12, B13, B17, B19, B20,B25, B26, B28, B66",
+      "SIM: Compatible with Sim card and ESIM",
+      "Forwarding Protocol: MQTT (compatible with HEX and JSON)",
+      "Bluetooth® (BLE): V5.0",
+      "TX Power: Max 8 dBm",
+      "Dimension: 96.5*61.6*10mm / 103.3*68.4*11.8mm(Includes lugs)",
+      "Weight: 70g",
+      "Power Supply: 1500mAh Rechargeable battery",
+      "Operating Temperature: -20 ~ + 60℃",
+      "Operating Humidity: 5%-95%（No condensation)",
+      "IP Rating: IP67",
+      "Alarm status indication: Vibration/buzzer/ LED indicator",
+      "Other: ATEX certified version optional"
+    ],
+    "resources": {
+      "resource_1": "https://www.mokosmart.com/wp-content/uploads/2024/05/PS101-M-Cellular-Badge-Tracker-Product-Brief.pdf"
+    },
+    "images": [
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/05/Lorawan-Smart-Badge-Emergence-Button-1.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/05/Lorawan-Smart-Badge-Emergence-Button-4.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/05/Lorawan-Smart-Badge-Emergence-Button-4.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/05/Lorawan-Smart-Badge-Emergence-Button-3.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/05/Lorawan-Smart-Badge-Emergence-Button-2.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/05/Lorawan-Smart-Badge-Emergence-Button-2.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/05/Lorawan-Smart-Badge-Emergence-Button-1.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/05/Lorawan-Smart-Badge-Emergence-Button-3.jpg?resize=300%2C300&ssl=1",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/vs135-ultra-tof-people-counter-high-ceiling-mount-version/",
+    "name": "VS135 Ultra ToF People Counter – High Ceiling Mount Version",
+    "sku": "N/A",
+    "brand": "Milesight",
+    "price": "$760.00 – $840.00",
+    "availability": "18 in stock",
+    "short_description": [
+      "Bi-Directional People Counting",
+      "Regional People Counting & Dwell Time",
+      "6.5M High Ceiling Mounting Version Available",
+      "IP65 Rated Waterproof Protection",
+      "Ultra High Accuracy of 99.8%",
+      "100% Anonymous Detection (GDPR Compliant)",
+      "Radar Based ESG Friendly Working Mode",
+      "Staff Detection & Adults/Children Differentiation",
+      "Insightful Group Counting & Advanced Heat Map",
+      "Extendable Multi-Device Stitching"
+    ],
+    "full_description": "The high-end people counters leverage deep learning AI and 2nd generation ToF technology to provide precise and reliable people counting, bringing great adaptability to various indoor and semi-outdoor scenarios.",
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.milesight.com/iot/resources/download-center/#firmware-sdk",
+      "resource_2": "https://resource.milesight.com/milesight/iot/document/vs135-datasheet-en.pdf"
+    },
+    "images": [
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/03/VS135-Ultra-ToF-People-Counter.png?fit=500%2C500&ssl=1"
+    ]
   }
 ]
