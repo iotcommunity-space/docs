@@ -51419,5 +51419,350 @@
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/03/VS135-Ultra-ToF-People-Counter.png?fit=500%2C500&ssl=1"
     ],
     "slug": "vs135-ultra-tof-people-counter--high-ceiling-mount-version"
+  },
+  {
+    "url": "https://www.choovio.com/product/mokosmart-lw008-mte-lorawan-asset-tracker/",
+    "name": "MOKOSmart LW008-MTE LoRaWAN Asset Tracker",
+    "sku": "LW008-MTE",
+    "brand": "MOKOSmart",
+    "price": "$80.00",
+    "availability": "5 in stock",
+    "short_description": [
+      "Dual GPS + BLE positioning technology",
+      "Long-range wireless transmission up to 7km",
+      "Compact size for small asset tracking",
+      "Built-in accelerometer for motion detection",
+      "2600mAh battery with low power consumption",
+      "IP67 waterproof and ultra-rugged housing"
+    ],
+    "full_description": "The LW008-MTE LoRaWAN Asset Tracker is a compact, cost-effective LoRaWAN asset tracker. Combining GPS and Bluetooth positioning technology, it provides indoor and outdoor precise location tracking. Its small size allows for tracking valuable assets, shared bicycles, and small vehicles for which traditional trackers are too bulky.",
+    "use_cases": [],
+    "features": [
+      "Dual GPS + BLE positioning technology",
+      "Long-range wireless transmission up to 7km",
+      "Compact size for small asset tracking",
+      "Provide standby/periodic/timing/motion modes",
+      "Support multiple LoRa frequency bands",
+      "Built-in accelerometer for motion detection",
+      "2600mAh battery with low power consumption",
+      "IP67 waterproof and ultra-rugged housing",
+      "Multiple installation options: screws/tape/magnetic mount"
+    ],
+    "specifications": [
+      "LoRa Wireless Specification",
+      "LoRa Protocol: LoRaWAN V1.0.4",
+      "LoRa Frequency: EU868/AU915/US915/AS923/ IN865/KR920/-RU864/ AS923-1/AS923-2/ AS923-3/AS923-4",
+      "Tx Power: Max 22dBm",
+      "Sensitivity: -137dBm@SF12",
+      "LoRa Communication Distance: Up to 7 km (in urban open space)",
+      "BLE Wireless Specification",
+      "Bluetooth® (BLE): 4.2",
+      "TX Power: Max 4 dBm",
+      "BLE Broadcast Distance: Up to 50m in free space",
+      "BLE Scan Distance (1M PHY): Up to 150m in free space",
+      "Power Supply",
+      "Power Supply: 2600 mAh battery",
+      "Physical Specification",
+      "Protection level: IP67",
+      "Dimension: 51.6mm×94.6mm×22.8mm",
+      "Weight: 84.5g",
+      "Application Specification",
+      "Power Switch: Hall Sensor",
+      "Operation Temperature/Storage Temperature: -20℃ ~ 60℃",
+      "Operation Humidity: 10%~90%",
+      "Certification: CE/FCC/Reach/RoHS pending approval"
+    ],
+    "resources": {
+      "resource_1": "https://www.mokosmart.com/wp-content/uploads/2024/11/LW008-MTE-Product-Brief.pdf"
+    },
+    "images": [
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/05/Mini-Lorawan-GPS-tracker-1-1.jpg?fit=500%2C500&ssl=1",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/05/Mini-Lorawan-GPS-tracker-2-1.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/05/Mini-Lorawan-GPS-tracker-4-1.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/05/Mini-Lorawan-GPS-tracker-3-1.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/05/Mini-Lorawan-GPS-tracker-5-1.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/05/Mini-Lorawan-GPS-tracker-2-1.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/05/Mini-Lorawan-GPS-tracker-5-1.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/05/Mini-Lorawan-GPS-tracker-4-1.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/05/Mini-Lorawan-GPS-tracker-3-1.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2024/05/Mini-Lorawan-GPS-tracker-1-1.jpg?resize=300%2C300&ssl=1"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/mokosmart-lw010-ct-lorawan-card-tracker/",
+    "name": "MOKOSmart LW010-CT LoRaWAN Card Tracker",
+    "sku": "LW010-CT",
+    "brand": "MOKOSmart",
+    "price": "$46.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "Long-range LoRaWAN communication",
+      "Highly-accurate GPS + Bluetooth positioning",
+      "Built-in 3-Axis accelerometer and buzzer",
+      "IP66 rated for harsh environments",
+      "Rechargeable 950 mAh battery, magnetic charging",
+      "Operating temperature range: -20°C to 60°C"
+    ],
+    "full_description": "The LW010-CT LoRaWAN Card Tracker is a portable, multi-mode tracker in format of an ID card. It integrates the LoRaWAN network transmission with Bluetooth and GPS positioning technologies for reliable indoor and outdoor positioning.",
+    "use_cases": [],
+    "features": [
+      "Long-range LoRaWAN communication",
+      "Highly-accurate GPS + Bluetooth positioning",
+      "Built-in 3-Axis accelerometer and buzzer",
+      "IP66 rated for harsh environments",
+      "Rechargeable 950 mAh battery, magnetic charging",
+      "Provide Standby/Periodic/Timing/Motion/Periodic+Timing modes",
+      "Wide LoRa frequency band support",
+      "Optional temperature and light monitoring",
+      "Operating temperature range: -20°C to 60°C"
+    ],
+    "specifications": [
+      "LoRa Wireless SpecificationLoRa ProtocolLoRaWAN V1.0.4LoRa FrequencyEU868/AU915/US915/AS923/IN865/KR920/-RU864/AS923-1/AS923-2/AS923-3/AS923-4Tx PowerMax 22dBmSensitivity-137dBm@SF12LoRa Communication DistanceUp to 7 km (in urban open space)BLE Wireless SpecificationBluetooth® (BLE)V4.2TX PowerMax 4 dBmBLE Scan DistanceUp to 50m in free spaceBLE Scan Distance (1M PHY)Up to 150m in free spacePhysical SpecificationProtection levelIP66Dimension91mm*59mm*7.5mmWeight47.3gApplication SpecificationPower SwitchPower buttonOperation Temperature/Storage Temperature-20℃ ~ 60℃Operation Humidity10% ~ 90%CertificationCE/FCC/Reach/RoHS pending approvalPower SupplyPower Supply950 mAh rechargeable battery"
+    ],
+    "resources": {
+      "resource_1": "https://www.choovio.com/wp-content/uploads/2024/09/LW006-Smart-Badge-Downlink-Command-V1.0.pdf",
+      "resource_2": "https://www.choovio.com/wp-content/uploads/2024/09/LW006-Smart-Badge-Specification-V1.2-.pdf",
+      "resource_3": "https://www.choovio.com/wp-content/uploads/2024/09/LW006-Smart-Badge-APP-Guide-V1.0.pdf"
+    },
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/MokoSmart-LW010CT-LoRaWAN-Card-Tracker-Choovio-USA-scaled.png?fit=500%2C271&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/LW010CT-LoRaWAN-Card-Tracker-MokoSmart-Choovio-scaled.png?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/LW010CT-LoRaWAN-Card-Tracker-MokoSmart-Choovio-scaled.png?fit=500%2C271&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/LW010-CT-MokoSmart-LoRaWAN-Card-Tracker-Choovio-scaled.png?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/LW010-CT-MokoSmart-LoRaWAN-Card-Tracker-Choovio-scaled.png?fit=500%2C271&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/MokoSmart-LW010CT-LoRaWAN-Card-Tracker-Choovio-USA-scaled.png?resize=300%2C300&ssl=1"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/mokosmart-h8r-bluetooth-identification-tag/",
+    "name": "MOKOSmart H8R Bluetooth Identification Tag",
+    "sku": "H8R",
+    "brand": "MOKOSmart",
+    "price": "$14.00",
+    "availability": "5 in stock",
+    "short_description": [
+      "BLE 5.0 connectivity",
+      "Ultra-low power nRF52 series chipset",
+      "Programmable emergency button for safety calls",
+      "LED lights display device status",
+      "Lanyard for easy attachment",
+      "Built-in buzzer alerts at 85dB"
+    ],
+    "full_description": "The H8R Bluetooth Identification Tag is designed to revolutionize driver identification and safety measures. The H8R model is rechargeable. The H8R is a portable beacon with ultra-low power chipset Nordic nRF52 series and BLE 5.0 technology. It is small, robust, and equipped with an alert button for emergencies.",
+    "use_cases": [],
+    "features": [
+      "BLE 5.0 connectivity",
+      "Ultra-low power nRF52 series chipset",
+      "Programmable emergency button for safety calls",
+      "Built-in buzzer alerts at 85dB",
+      "Battery lasts 3-4 months",
+      "Lanyard for easy attachment",
+      "LED lights display device status",
+      "Optional accelerometer records movements"
+    ],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://docs.mokosmart.com/wp-content/uploads/2025/02/H8-Product-Brief_V2.1.pdf"
+    },
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/H8R-Bluetooth-Identification-Tag-MokoSmart-Choovio-scaled.png?fit=500%2C319&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/H8R-MokoSmart-Bluetooth-Identification-Tag-Choovio.png?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/H8R-Identification-Tag-Bluetooth-MokoSmart-Choovio-scaled.png?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/H8R-Bluetooth-Identification-Tag-MokoSmart-Choovio-scaled.png?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/H8R-MokoSmart-Bluetooth-Identification-Tag-Choovio.png?fit=500%2C427&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/H8R-Identification-Tag-Bluetooth-MokoSmart-Choovio-scaled.png?fit=500%2C335&ssl=1"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/mokosmart-l03-bluetooth-6-0-beacon/",
+    "name": "MOKOSmart L03 Bluetooth 6.0 Beacon",
+    "sku": "L03",
+    "brand": "MOKOSmart",
+    "price": "$30.00",
+    "availability": "10 in stock",
+    "short_description": [
+      "Bluetooth 6.0 with Channel Sounding support",
+      "Ultra-long battery life of 10+ years (10400mAh)",
+      "IP67 waterproof rating for reliable outdoor use",
+      "Nordic nRF54L15 SoC",
+      "Built-in 3-axis accelerometer sensor"
+    ],
+    "full_description": "L03 Bluetooth 6.0 beacon is built with Nordic®’s nRF54L15 SoC. It supports the latest Bluetooth 6.0, including Bluetooth Channel Sounding (hardware compatible) to ensure precise and secure distance measurements. With the large 10400mAh battery, L03 is designed to operate for over 10 years.",
+    "use_cases": [],
+    "features": [
+      "Nordic nRF54L15 SoC",
+      "Bluetooth 6.0 with Channel Sounding support",
+      "Ultra-long battery life of 10+ years (10400mAh)",
+      "Transmit power up to +20dBm with optional PA",
+      "IP67 waterproof rating for reliable outdoor use",
+      "Built-in 3-axis accelerometer sensor",
+      "Tri-color LED indicator (red/green/blue)",
+      "Double-sided tape or bracket mounting installation",
+      "Specifications"
+    ],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://docs.mokosmart.com/wp-content/uploads/2025/03/L03-Bluetooth-6.0-Beacon-Brief.pdf"
+    },
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/Mokosmart-L03-Bluetooth-6.0-Asset-Beacon-Choovio-USA-scaled.png?fit=500%2C313&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/L03-Mokosmart-Bluetooth-6.0-Beacon-Choovio-scaled.png?fit=500%2C313&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/L03-Mokosmart-Bluetooth-6.0-Beacon-Choovio-scaled.png?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/L03-Bluetooth-6.0-Beacon-MokoSmart-Choovio-scaled.png?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/L03-Mokosmart-Bluetooth-Beacon-Choovio-scaled.png?fit=500%2C313&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/L03-Mokosmart-Bluetooth-Beacon-Choovio-scaled.png?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/Mokosmart-L03-Bluetooth-6.0-Beacon-Choovio-scaled.png?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/Mokosmart-L03-Bluetooth-6.0-Asset-Beacon-Choovio-USA-scaled.png?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/L03-Bluetooth-6.0-Beacon-MokoSmart-Choovio-scaled.png?fit=500%2C313&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/Mokosmart-L03-Bluetooth-Beacon-Choovio-USA-scaled.png?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/Mokosmart-L03-Bluetooth-Beacon-Choovio-USA-scaled.png?fit=500%2C313&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/Mokosmart-L03-Bluetooth-6.0-Beacon-Choovio-scaled.png?fit=500%2C313&ssl=1"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/mokosmart-b5-rechargeable-badge/",
+    "name": "MOKOSmart B5 Rechargeable Badge",
+    "sku": "B5",
+    "brand": "MOKOSmart",
+    "price": "$24.00",
+    "availability": "9 in stock",
+    "short_description": [
+      "Bluetooth LE 5.0 wireless connectivity",
+      "Instant SOS button for quick emergency alerts",
+      "Three-color LED indicators",
+      "Vibration motor and 85dB buzzer for alerts",
+      "15-month battery life with magnetic charging",
+      "IP66 waterproof design"
+    ],
+    "full_description": "The B5 Rechargeable Badge is a Bluetooth-enabled safety device designed to keep people protected in various environments. It features a prominent SOS button that allows users to trigger emergency alert when they need help. The B5 supports magnetic charging and provides notifications through both a buzzer and a vibration motor.",
+    "use_cases": [],
+    "features": [
+      "Bluetooth LE 5.0 wireless connectivity",
+      "Instant SOS button for quick emergency alerts",
+      "Three-color LED indicators",
+      "Lightweight and compact",
+      "IP66 waterproof design",
+      "Vibration motor and 85dB buzzer for alerts",
+      "15-month battery life with magnetic charging",
+      "RFID access control and attendance tracking"
+    ],
+    "specifications": [
+      "ConnectivityBLE 5.0Dimensions(mm)91.0*59.0*7.5Weight32gColorBody: white, Button: black (button color can be customized)MaterialPC+TPUIP ratingIP66RFID/NFCHF | LF/UHF (customizable)LED3*monochromatic LED (red, green, blue)SensorAccelerometer | Buzzer(85dB) | Vibration motorBattery capacity350mAh | rechargeableBattery lifespanAdvertising mode*: 15 months (default setting)Long connection mode*: 14 monthsCharging timeApproximate 3h (under 25°C conditions)Operating temperature-20°C ~ +60°CTransmission rangeUp to 150m (without any obstacles)InstallationLanyardCertificationFCC | CE | RoHS | REACH"
+    ],
+    "resources": {
+      "resource_1": "https://docs.mokosmart.com/wp-content/uploads/2025/04/B5-Rechargeable-Badge-Brief.pdf"
+    },
+    "images": [
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/B5-rechargeable-bluetooth-badge-tracker-mokosmart-choovio.jpg?fit=500%2C500&ssl=1",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/Mokosmart-B5-bluetooth-rechargeable-badge-safety-tracker-Choovio.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/Mokosmart-B5-bluetooth-badge-Choovio.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/Mokosmart-B5-bluetooth-badge-Choovio.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/Mokosmart-B5-rechargeable-badge-Choovio.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/Mokosmart-B5-rechargeable-badge-Choovio.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/Mokosmart-B5-bluetooth-rechargeable-badge-safety-tracker-Choovio.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/B5-rechargeable-bluetooth-badge-tracker-mokosmart-choovio.jpg?resize=300%2C300&ssl=1"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/mokosmart-n2-soft-foam-asset-tag/",
+    "name": "MOKOSmart N2 Soft Foam Asset Tag",
+    "sku": "N2",
+    "brand": "MOKOSmart",
+    "price": "$8.00",
+    "availability": "5 in stock",
+    "short_description": [
+      "Eco-friendly foam cotton outer shell",
+      "Operating temperature range of -20°C to +60°C",
+      "Easy sticker installation",
+      "Customizable shape design",
+      "12-month battery lifespan",
+      "Bluetooth LE 5.0 and 5.3 compatibility",
+      "IP67 waterproof protection"
+    ],
+    "full_description": "The N2 Soft Foam Asset Tag is a disposable BLE soft-foam asset tag designed for efficiency and versatility. Unlike traditional plastic asset tags, it features a lightweight, cost-effective foam cotton shell. This innovative design allows quick customization into different forms to meet various tracking needs.",
+    "use_cases": [],
+    "features": [
+      "Bluetooth LE 5.0 and 5.3 compatibility",
+      "12-month battery lifespan",
+      "IP67 waterproof protection",
+      "Self-developed conductive adhesive power-off technology",
+      "Eco-friendly foam cotton outer shell",
+      "Operating temperature range of -20°C to +60°C",
+      "Easy sticker installation",
+      "Customizable shape design"
+    ],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.mokosmart.com/wp-content/uploads/2024/12/M1P-LED-Tag-Brief.pdf"
+    },
+    "images": [
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/N2-Soft-Foam-Asset-Tag-MokoSmart-Choovio.png?fit=500%2C287&ssl=1",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/N2-Soft-Foam-Asset-Tag-Bluetooth-Mokosmart-Choovio.png?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/N2-Softfoam-Asset-Tag-Bluetooth-MokoSmart-Choovio.png?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/N2-Soft-Foam-Asset-Tag-Back-Mokosmart-Choovio.png?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/N2-Softfoam-Asset-Tag-Bluetooth-MokoSmart-Choovio.png?fit=500%2C327&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/N2-Soft-Foam-Asset-Tag-Bluetooth-Mokosmart-Choovio.png?fit=500%2C331&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/N2-Soft-Foam-Asset-Tag-Back-Mokosmart-Choovio.png?fit=500%2C287&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/N2-Soft-Foam-Asset-Tag-MokoSmart-Choovio.png?resize=300%2C300&ssl=1"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/mokosmart-ut1p-paper-asset-tag/",
+    "name": "MOKOSmart UT1P Paper Asset Tag",
+    "sku": "UT1P",
+    "brand": "MOKOSmart",
+    "price": "$10.00",
+    "availability": "15 in stock",
+    "short_description": [
+      "Ultra-thin and flexible paper-like design",
+      "Incorporates eco-friendly zinc-based battery",
+      "IP67 waterproof rating for durability",
+      "Long-range 100m Bluetooth connectivity",
+      "Environmentally sustainable and green product",
+      "Impressive 3.5-months battery lifespan"
+    ],
+    "full_description": "UT1P Paper Asset Tag is an ultra-thin paper asset tag is an innovative and eco-friendly BLE asset tag, perfect for efficient asset tracking. This paper tag features an ultra-thin, flexible design with a 2.3mm profile. Remarkably, it is powered by an environmentally conscious zinc-based paper battery with up to 3.5 months of operational life. The UT1P also boasts an IP67 waterproof rating for exceptional durability.",
+    "use_cases": [],
+    "features": [
+      "Ultra-thin and flexible paper-like design",
+      "Incorporates eco-friendly zinc-based battery",
+      "IP67 waterproof rating for durability",
+      "Long-range 100m Bluetooth connectivity",
+      "Impressive 3.5-months battery lifespan",
+      "Optional NFC functionality available",
+      "Environmentally sustainable and green product"
+    ],
+    "specifications": [
+      "Bluetooth version: Bluetooth LE 5.0 and 5.3 compatible",
+      "Dimensions: 73.3mm X 83.5mm X 1.2mm",
+      "Weight: 6.6g",
+      "Material: PVC (Environmentally friendly material)",
+      "Color: White",
+      "Bluetooth range: 100m (open area)",
+      "Battery: Environmentally-friendly Zn-Mn coated disposable paper battery, 40mAh (1.5V)",
+      "Battery lifespan: 3.5 months (Continuous work*)",
+      "Operating temperature: -25°C ~ 55°C",
+      "Installation: Sticker",
+      "Power activation: NFC (optional)"
+    ],
+    "resources": {
+      "resource_1": "https://www.mokosmart.com/wp-content/uploads/2024/09/B3-Product-Brief_V1.0.pdf"
+    },
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/UT1-Ultra-Thin-Paper-Assset-Tag-MokoSmart-Choovio.png?w=500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/UT1-Paper-Asset-Tag-Bluetooth-MokoSmart-Choovio-scaled.png?resize=300%2C300&ssl=1",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/UT1-Ultra-Thin-Paper-Assset-Tag-MokoSmart-Choovio.png?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/UT1-Paper-Asset-Tag-Bluetooth-MokoSmart-Choovio-scaled.png?fit=500%2C315&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/UT1P-Ultra-Thin-Paper-Asset-Tag-MokoSmart-Choovio-scaled.png?fit=500%2C297&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/UT1P-Ultra-Thin-Paper-Asset-Tag-MokoSmart-Choovio-scaled.png?resize=300%2C300&ssl=1"
+    ]
   }
 ]

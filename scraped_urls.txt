@@ -459,3 +459,10 @@ https://www.choovio.com/product/dragino-se0x-cb-cs-cat-m1-lte-m-soil-moisture-ec
 https://www.choovio.com/product/dragino-se0x-ls-lorawan-soil-moisture-ec-sensor-transmitter/
 https://www.choovio.com/product/mokosmart-ps101-m-cellular-badge-tracker/
 https://www.choovio.com/product/vs135-ultra-tof-people-counter-high-ceiling-mount-version/
+https://www.choovio.com/product/mokosmart-lw008-mte-lorawan-asset-tracker/
+https://www.choovio.com/product/mokosmart-lw010-ct-lorawan-card-tracker/
+https://www.choovio.com/product/mokosmart-h8r-bluetooth-identification-tag/
+https://www.choovio.com/product/mokosmart-l03-bluetooth-6-0-beacon/
+https://www.choovio.com/product/mokosmart-b5-rechargeable-badge/
+https://www.choovio.com/product/mokosmart-n2-soft-foam-asset-tag/
+https://www.choovio.com/product/mokosmart-ut1p-paper-asset-tag/
