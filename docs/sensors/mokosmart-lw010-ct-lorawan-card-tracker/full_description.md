@@ -1,0 +1,1 @@
+The LW010-CT LoRaWAN Card Tracker is a portable, multi-mode tracker in format of an ID card. It integrates the LoRaWAN network transmission with Bluetooth and GPS positioning technologies for reliable indoor and outdoor positioning.

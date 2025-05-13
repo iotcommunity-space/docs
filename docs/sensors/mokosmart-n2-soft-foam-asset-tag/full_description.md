@@ -1,0 +1,1 @@
+The N2 Soft Foam Asset Tag is a disposable BLE soft-foam asset tag designed for efficiency and versatility. Unlike traditional plastic asset tags, it features a lightweight, cost-effective foam cotton shell. This innovative design allows quick customization into different forms to meet various tracking needs.

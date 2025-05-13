@@ -1,0 +1,1 @@
+L03 Bluetooth 6.0 beacon is built with Nordic®’s nRF54L15 SoC. It supports the latest Bluetooth 6.0, including Bluetooth Channel Sounding (hardware compatible) to ensure precise and secure distance measurements. With the large 10400mAh battery, L03 is designed to operate for over 10 years.

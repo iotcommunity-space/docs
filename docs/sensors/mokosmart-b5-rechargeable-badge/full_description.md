@@ -1,0 +1,1 @@
+The B5 Rechargeable Badge is a Bluetooth-enabled safety device designed to keep people protected in various environments. It features a prominent SOS button that allows users to trigger emergency alert when they need help. The B5 supports magnetic charging and provides notifications through both a buzzer and a vibration motor.

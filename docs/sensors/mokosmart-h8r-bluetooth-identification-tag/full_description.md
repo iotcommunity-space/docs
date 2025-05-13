@@ -1,0 +1,1 @@
+The H8R Bluetooth Identification Tag is designed to revolutionize driver identification and safety measures. The H8R model is rechargeable. The H8R is a portable beacon with ultra-low power chipset Nordic nRF52 series and BLE 5.0 technology. It is small, robust, and equipped with an alert button for emergencies.

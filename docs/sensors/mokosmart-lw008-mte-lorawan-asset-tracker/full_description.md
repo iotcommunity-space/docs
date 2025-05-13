@@ -1,0 +1,1 @@
+The LW008-MTE LoRaWAN Asset Tracker is a compact, cost-effective LoRaWAN asset tracker. Combining GPS and Bluetooth positioning technology, it provides indoor and outdoor precise location tracking. Its small size allows for tracking valuable assets, shared bicycles, and small vehicles for which traditional trackers are too bulky.
