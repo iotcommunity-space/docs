@@ -466,3 +466,5 @@ https://www.choovio.com/product/mokosmart-l03-bluetooth-6-0-beacon/
 https://www.choovio.com/product/mokosmart-b5-rechargeable-badge/
 https://www.choovio.com/product/mokosmart-n2-soft-foam-asset-tag/
 https://www.choovio.com/product/mokosmart-ut1p-paper-asset-tag/
+https://www.choovio.com/product/dragino-lc03-lorawan-wireless-remote-control/
+https://www.choovio.com/product/dragino-pb05-l-lorawan-push-buttons/

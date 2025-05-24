@@ -51771,5 +51771,103 @@
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/04/UT1P-Ultra-Thin-Paper-Asset-Tag-MokoSmart-Choovio-scaled.png?resize=300%2C300&ssl=1"
     ],
     "slug": "mokosmart-ut1p-paper-asset-tag"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-lc03-lorawan-wireless-remote-control/",
+    "name": "Dragino LC03 – LoRaWAN Wireless Remote Control",
+    "sku": "LC03-US915",
+    "brand": "Dragino",
+    "price": "$30.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "US standard socket",
+      "Detect machine plug/unplug status",
+      "Log function and key reset function",
+      "Support wireless OTA update firmware",
+      "LoRaWAN v1.0.3 Class C protocol"
+    ],
+    "full_description": "The Dragino LC03 is a LoRaWAN Wireless Remote Control which can be used to control the power of diferent electricical appliances.",
+    "use_cases": [],
+    "features": [
+      "LoRaWAN v1.0.3 Class C protocol",
+      "Bands:CN470/EU433/KR920/US915/EU868/AS923/AU915/IN865",
+      "US standard socket",
+      "Detect machine plug/unplug status",
+      "Log function and key reset function",
+      "Support Downlink and Timing control relay opening and closing",
+      "AT Commands to change parameters",
+      "Support wireless OTA update firmware"
+    ],
+    "specifications": [
+      "Voltage: 80-275V AC",
+      "Current : 15A Resistive load"
+    ],
+    "resources": {
+      "resource_1": "https://www.dropbox.com/scl/fo/b3nwunmg9xeciymb3w4fk/AP81BRnEFkGrT5Q3oYkxLDE?rlkey=wdh32mwqmkc6hvxgdvqe9wm8x&st=iigtlb47&dl=0",
+      "resource_2": "https://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/LC03_LoRaWAN_Socket_User_Manual/"
+    },
+    "images": [
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/LC03-Dragino-LoRaWAN-Wireless-Wall-Socket-Choovio.jpg?fit=500%2C500&ssl=1",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/LC03-LoRaWAN-Wireless-Remote-Control-Dragino-Choovio.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/LC03-Dragino-LoRaWAN-Smart-Wireless-Remote-Control-Socket-Choovio-USA.png?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/LC03-Dragino-LoRaWAN-Smart-Wireless-Wall-Socket-Remote-Control-Choovio.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/LC03-Dragino-LoRaWAN-Wireless-Wall-Socket-Choovio.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/LC03-LoRaWAN-Wireless-Remote-Control-Dragino-Choovio.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/LC03-Dragino-LoRaWAN-Smart-Wireless-Remote-Control-Socket-Choovio-USA.png?fit=500%2C499&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/LC03-Dragino-LoRaWAN-Smart-Wireless-Wall-Socket-Remote-Control-Choovio.jpg?resize=300%2C300&ssl=1"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-pb05-l-lorawan-push-buttons/",
+    "name": "Dragino PB05-L – LoRaWAN Push Buttons",
+    "sku": "PB05-L-US915",
+    "brand": "Dragino",
+    "price": "$33.00",
+    "availability": "8 in stock",
+    "short_description": [
+      "Wall Attachable.",
+      "LoRaWAN v1.0.3 Class A protocol.",
+      "5 x push buttons",
+      "Built-in speaker",
+      "AT Commands to change parameters",
+      "IP Rating: IP52"
+    ],
+    "full_description": "PB05-L LoRaWAN Push Button is a LoRaWAN wireless device with Five push buttons. Once the user presses the button, the PB05-L will transmit the signal to IoT server via Long Range LoRaWAN wireless protocol.",
+    "use_cases": [],
+    "features": [
+      "Wall Attachable.",
+      "LoRaWAN v1.0.3 Class A protocol.",
+      "5 x push buttons",
+      "Built-in speaker",
+      "Frequency Bands: CN470/EU433/KR920/US915/EU868/AS923/AU915",
+      "AT Commands to change parameters",
+      "Remote configure parameters via LoRaWAN Downlink",
+      "Firmware upgradable via program port",
+      "Support 2 x AA LR6 batteries.",
+      "IP Rating: IP52"
+    ],
+    "specifications": [
+      "Idle: 5uA, Transmit: max 110mA",
+      "Storage & Operation Temperature:",
+      "-10 ~ 50 °C  or -40 ~ 60 °C"
+    ],
+    "resources": {
+      "resource_1": "https://www.dropbox.com/scl/fo/o0x5tdcje7esq3cj0att7/ADu50wGAd4SVk00ElGh5fh0?rlkey=e22hk41e1lt4i683w65a4f73h&st=nr907ki3&dl=0",
+      "resource_2": "https://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/PB05-L--LoRaWAN_Button_User_Manual/"
+    },
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/03/PB05-L-Dragino-LoRaWAN-Push-Buttons-Choovio.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/03/PB05-L-Dragino-LoRaWAN-Push-Buttons-Choovio.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/03/PB05-L-LoRaWAN-Push-Buttons-Dragino-Choovio-USA.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/03/PB05-L-LoRaWAN-Push-Buttons-Dragino-Choovio.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/03/PB05-L-LoRaWAN-Push-Buttons-Dragino-Choovio.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/03/PB05-L-LoRaWAN-Push-Buttons-Dragino-Choovio-USA.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/03/PB05-LoRaWAN-Push-Buttons-Dragino-Choovio-USA.jpg?fit=500%2C500&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/03/PB05-LoRaWAN-Push-Buttons-Dragino-Choovio-USA.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/03/PB05-L-LoRaWAN-Push-Buttons-Dragino-Choovio.1-min.jpg?resize=300%2C300&ssl=1",
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/03/PB05-L-LoRaWAN-Push-Buttons-Dragino-Choovio.1-min.jpg?fit=500%2C500&ssl=1"
+    ]
   }
 ]
