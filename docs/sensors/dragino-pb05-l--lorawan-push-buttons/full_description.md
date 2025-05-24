@@ -1,0 +1,1 @@
+PB05-L LoRaWAN Push Button is a LoRaWAN wireless device with Five push buttons. Once the user presses the button, the PB05-L will transmit the signal to IoT server via Long Range LoRaWAN wireless protocol.
