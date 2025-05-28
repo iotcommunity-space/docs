@@ -468,3 +468,10 @@ https://www.choovio.com/product/mokosmart-n2-soft-foam-asset-tag/
 https://www.choovio.com/product/mokosmart-ut1p-paper-asset-tag/
 https://www.choovio.com/product/dragino-lc03-lorawan-wireless-remote-control/
 https://www.choovio.com/product/dragino-pb05-l-lorawan-push-buttons/
+https://www.choovio.com/product/mclimate-co2-sensor-and-notifier-lorawan/
+https://www.choovio.com/product/mclimate-co2-display-lorawan/
+https://www.choovio.com/product/mclimate-co2-display-lite-lorawan/
+https://www.choovio.com/product/mclimate-t-valve-lorawan-dn20/
+https://www.choovio.com/product/mclimate-lorawan-vicki-smart-radiator-thermostat/
+https://www.choovio.com/product/mclimate-lorawan-fan-coil-thermostat/
+https://www.choovio.com/product/mclimate-lorawan-wireless-thermostat/
