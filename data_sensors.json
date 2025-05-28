@@ -51929,7 +51929,8 @@
     "images": [
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/woocommerce-placeholder.png?fit=500%2C500&ssl=1",
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-    ]
+    ],
+    "slug": "mclimate-co2-sensor-and-notifier-lorawan"
   },
   {
     "url": "https://www.choovio.com/product/mclimate-co2-display-lorawan/",
@@ -52050,7 +52051,8 @@
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/MClimate-CO2-Display-angle-3-scaled.jpg?resize=300%2C300&ssl=1",
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/MClimate-CO2-Display-angle-2.png?resize=300%2C300&ssl=1",
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/MClimate-CO2-Display-visual-scala.jpg?fit=500%2C404&ssl=1"
-    ]
+    ],
+    "slug": "mclimate-co2-display-lorawan"
   },
   {
     "url": "https://www.choovio.com/product/mclimate-co2-display-lite-lorawan/",
@@ -52161,7 +52163,8 @@
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/MClimate-CO2-Display-lite-angle-31.jpg?resize=300%2C300&ssl=1",
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/MClimate-CO2-Display-lite-front1.png?w=500&ssl=1",
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/MClimate-CO2-Display-lite-front1.png?resize=300%2C300&ssl=1"
-    ]
+    ],
+    "slug": "mclimate-co2-display-lite-lorawan"
   },
   {
     "url": "https://www.choovio.com/product/mclimate-t-valve-lorawan-dn20/",
@@ -52250,7 +52253,8 @@
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/mclimate-t-valve.jpg?fit=500%2C546&ssl=1",
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/t-valve-2.jpg?resize=300%2C300&ssl=1",
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/t-valve-3-2.jpg?fit=500%2C509&ssl=1"
-    ]
+    ],
+    "slug": "mclimate-t-valve-lorawan-dn20"
   },
   {
     "url": "https://www.choovio.com/product/mclimate-lorawan-vicki-smart-radiator-thermostat/",
@@ -52323,7 +52327,8 @@
     },
     "images": [
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/MClimate-Smart-Radiator-Thermostat-LoRaWAN-Vicki-Choovio.png?fit=500%2C485&ssl=1"
-    ]
+    ],
+    "slug": "mclimate-lorawan-vicki-smart-radiator-thermostat"
   },
   {
     "url": "https://www.choovio.com/product/mclimate-lorawan-fan-coil-thermostat/",
@@ -52383,7 +52388,8 @@
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-131852.png?fit=500%2C495&ssl=1",
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/Screenshot-2025-05-27-131915.png?resize=300%2C300&ssl=1",
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/MClimate-Fan-Coil-Thermostat-Cost-Savings-Choovio.png?fit=500%2C428&ssl=1"
-    ]
+    ],
+    "slug": "mclimate-lorawan-fan-coil-thermostat"
   },
   {
     "url": "https://www.choovio.com/product/mclimate-lorawan-wireless-thermostat/",
@@ -52475,6 +52481,7 @@
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/MClimate-LoRaWAN-Wireless-Thermostat-Choovio.png?fit=500%2C404&ssl=1",
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/MClimate-Wireless-Thermostat-LoRaWAN-Choovio.png?fit=500%2C501&ssl=1",
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/MClimate-Wireless-Thermostat-Solar-Energy-Choovio.png?resize=300%2C300&ssl=1"
-    ]
+    ],
+    "slug": "mclimate-lorawan-wireless-thermostat"
   }
 ]
