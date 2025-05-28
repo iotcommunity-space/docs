@@ -1,0 +1,2 @@
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2FxVLLS2zmBIebkHJ2pnzo%2FMClimate-FCT-Datasheet.pdf?alt=media&token=bd51a623-fc3e-44a6-9abc-12b2a1d4d254
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2FA5j8uES6hb58TYP20np2%2FFCT-LoRaWAN-User-Manual.pdf?alt=media&token=55a9eb62-86d8-455d-b913-4794adda7cf6

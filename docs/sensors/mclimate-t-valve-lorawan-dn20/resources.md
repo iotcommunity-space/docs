@@ -1,0 +1,2 @@
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2FET1ZLYUh7mcuhiPc6hyO%2FT-Valve-LoRaWAN-User-Manual.pdf?alt=media&token=5736a3fe-060a-4249-b517-1687e0b4c4d5
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2FWeJw1EnbTCBUsdtkRLwK%2FMClimate-T-Valve-LoRaWAN-Datasheet-en%20.pdf?alt=media&token=41f27bf7-265a-45ce-938d-6be6f4b537a3

@@ -1,0 +1,2 @@
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2FWYaoSjY3vbDQJ2qNV7Is%2FMClimate-Vicki-LoRaWAN-Batteries-Datasheet-en.pdf?alt=media&token=6915529d-2ca6-4e1c-aa7a-50e4b3ba4d17
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2FePcVxuaNglXiAujb4tp9%2FVicki-LoRaWAN-Installation-Manual.pdf?alt=media&token=8cb606b5-90da-425a-b955-c72231d5ba8e

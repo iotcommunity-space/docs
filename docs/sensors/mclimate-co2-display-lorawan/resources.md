@@ -1,0 +1,2 @@
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2FayhC2LiSECIybZVCubgn%2FMClimate-CO2-Display-Datasheet.pdf?alt=media&token=94ce5f00-de21-4049-9209-0ffde58f4975
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2FC1UrUQVxxCTKnxsQHF3B%2FCO2-Display-LoRaWAN-User-Manual.pdf?alt=media&token=3b9d0be7-817d-495a-9585-0d100416098a

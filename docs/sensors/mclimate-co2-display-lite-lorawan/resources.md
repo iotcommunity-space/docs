@@ -1,0 +1,2 @@
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2FPTIV0nAWncRDDDk5l0aO%2FMClimate-CO2-Display-Lite-Datasheet.pdf?alt=media&token=24575d81-9f79-41f2-af51-628c87fa9489
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2FWxhfDIivfQkRHhvMjuiW%2FCO2-Display-Lite-User-Manual.pdf?alt=media&token=7cf7a13c-7ab2-40b2-a7d4-8476da8edf83

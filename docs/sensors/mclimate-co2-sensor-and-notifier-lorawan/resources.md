@@ -1,0 +1,2 @@
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2FU1Kxj5vl0nwBuxR11LX4%2FMClimate-CO2-Sensor-LoRaWAN-Batteries-Datasheet-en.pdf?alt=media&token=8edfe392-b23e-4781-b9c4-194af381440a
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2FdApiyihAWl5D7XlZr7oj%2FCO2-LoRaWAN-User-Manual.pdf?alt=media&token=9027010f-5e88-4eec-b165-db26fe533d4c
