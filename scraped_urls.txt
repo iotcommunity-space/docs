@@ -475,3 +475,6 @@ https://www.choovio.com/product/mclimate-t-valve-lorawan-dn20/
 https://www.choovio.com/product/mclimate-lorawan-vicki-smart-radiator-thermostat/
 https://www.choovio.com/product/mclimate-lorawan-fan-coil-thermostat/
 https://www.choovio.com/product/mclimate-lorawan-wireless-thermostat/
+https://www.choovio.com/product/mclimate-16a-dry-switch-lorawan/
+https://www.choovio.com/product/mclimate-lorawan-16a-switch-power-meter/
+https://www.choovio.com/product/mclimate-lorawan-flood-sensor/
