@@ -1,0 +1,1 @@
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2FHW90UHqXgj2qB9dEDcXc%2FFlood-Sensor-LoRaWAN-Installation-Manual.pdf?alt=media&token=5658736a-6451-4787-ae27-a000624c0b6e

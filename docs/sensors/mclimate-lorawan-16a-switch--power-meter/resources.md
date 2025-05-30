@@ -1,0 +1,3 @@
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2F4BQN81NFZKKr5Bt6EXuo%2FMClimate-16ASPM-Datasheet.pdf?alt=media&token=677dd6c9-c611-4882-8100-7fbe1465f26b
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2FtQH5qKsw1vMDAKSeKwGW%2FMClimate-16ASPM-LoRaWAN-User-Manual.pdf?alt=media&token=5a69c170-ed85-4727-8268-cd7f206cd4e8
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2FuShanncZidLW2XuLuYYw%2F16ASPM-LoRaWAN-Mounting-Instructions.pdf?alt=media&token=9351a09b-e8d9-44c5-8c1b-dc9a0a54e5a1

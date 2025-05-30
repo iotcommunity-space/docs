@@ -1,0 +1,3 @@
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2F4PSdg1EADYeBfci7DCmK%2FMClimate-16ADS-Datasheet.pdf?alt=media&token=8c95eed3-7cac-4859-855c-ba65ab3a6e5a
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2F266LKTaw7mCCPkDvlJjd%2F16ADS-User-Manual.pdf?alt=media&token=c7a26146-1324-4d9a-988c-0bafc407ec81
+https://3940008670-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McDr-jr9h3qA888r1Yp%2Fuploads%2FfalIPTVelmAVF06Qmq94%2F16ADS-LoRaWAN-Mounting-Instructions.pdf?alt=media&token=be85ee32-8f4a-4068-82ad-e20c4a80e43c
