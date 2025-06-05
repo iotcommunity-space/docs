@@ -478,3 +478,4 @@ https://www.choovio.com/product/mclimate-lorawan-wireless-thermostat/
 https://www.choovio.com/product/mclimate-16a-dry-switch-lorawan/
 https://www.choovio.com/product/mclimate-lorawan-16a-switch-power-meter/
 https://www.choovio.com/product/mclimate-lorawan-flood-sensor/
+https://www.choovio.com/product/pt100-a03-050-150/

@@ -52746,5 +52746,37 @@
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/05/MClimate-t-valve-flood-sensor.jpg?fit=500%2C433&ssl=1"
     ],
     "slug": "mclimate-lorawan-flood-sensor"
+  },
+  {
+    "url": "https://www.choovio.com/product/pt100-a03-050-150/",
+    "name": "PT100- A03-050-150",
+    "sku": "PT100-A03-050-150",
+    "brand": "Milesight",
+    "price": "$20.00",
+    "availability": "11 in stock",
+    "short_description": [],
+    "full_description": "A03-050-150",
+    "use_cases": [],
+    "features": [
+      "Provide optional three types of high-accuracy PT100 temperature probes and one magnetic contact switch sensor",
+      "IP65 waterproof enclosure with dust plug, suitable for harsh environment",
+      "Support automated temperature monitoring and anti-tamper recording of data in compliance with HACCP, meeting the authenticity requirements of 21 CFR Part 11B electronic record",
+      "Provide simplified PDF data export for easy documentation without complex paperwork",
+      "Built-in two large-capacity replaceable batteries, ensuring an extended battery life",
+      "Features low-consumption LCD display, enabling intuitive data reading",
+      "Store up to 10,000 historical records locally and supports retransmission to prevent data loss",
+      "Equipped with NFC and Type-C USB for quick and easy configuration",
+      "Function effectively with standard LoRaWAN® gateways and network servers",
+      "Compatible withMilesightIoT Cloud"
+    ],
+    "specifications": [
+      "Wireless TransmissionTechnology LoRaWAN®Frequency CN470/IN865/RU864/EU868/US915/AU915/KR920/AS923-1&2&3&4Tx Power 16dBm (868MHz)/22dBm (915MHz)/19dBm (470MHz)Sensitivity -137dBm @300bpsMode OTAA/ABP Class ASensor ConnectorConnector Type 5-pin M12 A-Coded Male ConnectorConnector Number TS301: 1 × Connector for PT100 Probe or Magnet Switch SensorTS302: 2 × Connectors for two PT100 Probes or PT100 + Magnet Switch SensorPT100 Connection 3-wire ConnectionDisplayDisplay LCD Segment Code ScreenViewing Direction 12 O’clockOthersButton 1 × External Power Button + 1 × Internal Reset ButtonLED Indicator 1 × Status Indicator (Internal)Configuration Mobile App (via NFC) or PC software (via USB Type-C)Data Logging 10, 000 measurements and supports to export as CSV or PDF filePhysical CharacteristicsPower Supply 2 × 4000 mAh ER18505 Li-SOCL2 Batteries or Type-C USB (5V/1A)Operating Temperature -30°C to +70°CRelative Humidity 0% to 95% (non-condensing)Ingress Protection IP65Weight 175 g (TS301), 185 g (TS302)Dimension 109.35 × 75 × 20 mm (4.31 × 2.95 × 0.79 in)Installation Wall Screw Mounting, Magnetic Mounting (Opt.）"
+    ],
+    "resources": {
+      "resource_1": "https://www.choovio.com/wp-content/uploads/2023/12/ts30x-datasheet-en.pdf"
+    },
+    "images": [
+      "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/06/PT100-A03-050-150-Probe-Choovio.png?fit=500%2C500&ssl=1"
+    ]
   }
 ]
