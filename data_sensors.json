@@ -52779,5 +52779,35 @@
       "https://i0.wp.com/www.choovio.com/wp-content/uploads/2025/06/PT100-A03-050-150-Probe-Choovio.png?fit=500%2C500&ssl=1"
     ],
     "slug": "pt100-a03-050-150"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-sht31-s31-temperature-humidity-sensor-probe/",
+    "name": "Dragino SHT31 – S31 Temperature & Humidity Sensor Probe",
+    "sku": "N/A",
+    "brand": "Dragino",
+    "price": "$15.00 – $27.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "Probe for Dragino S31 LoRaWAN Temperature & Humidity Sensor"
+    ],
+    "full_description": "The Dragino SHT31 Probe is fully calibrated, linearized, and temperature compensated digital output from Sensirion, it provides a strong reliability and long-term stability. The SHT31 is fixed in a waterproof anti-condensation casing for long term use.",
+    "use_cases": [],
+    "features": [],
+    "specifications": [
+      "Temperature Sensor:",
+      "Range: -40 to + 80°C",
+      "Accuracy: ±0.2 @ 0-90 °C",
+      "Resolution: 0.1°C",
+      "Long Term Shift: <0.03 °C/yr",
+      "Humidity Sensor:",
+      "Range: 0 ~ 99.9% RH",
+      "Accuracy: ± 2%RH ( 0 ~ 100%RH)",
+      "Resolution: 0.01% RH",
+      "Long Term Shift: <0.25 %RH/yr"
+    ],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/06/Dragino-SHT31-Temperature-Humidity-Probe-Choovio.png"
+    ]
   }
 ]
