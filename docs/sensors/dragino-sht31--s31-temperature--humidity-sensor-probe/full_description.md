@@ -1,0 +1,1 @@
+The Dragino SHT31 Probe is fully calibrated, linearized, and temperature compensated digital output from Sensirion, it provides a strong reliability and long-term stability. The SHT31 is fixed in a waterproof anti-condensation casing for long term use.
