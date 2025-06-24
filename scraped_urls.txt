@@ -480,3 +480,4 @@ https://www.choovio.com/product/mclimate-lorawan-16a-switch-power-meter/
 https://www.choovio.com/product/mclimate-lorawan-flood-sensor/
 https://www.choovio.com/product/pt100-a03-050-150/
 https://www.choovio.com/product/dragino-sht31-s31-temperature-humidity-sensor-probe/
+https://www.choovio.com/product/kerlink-wirnet-ibts-compact-pdtiot-mcs12/
