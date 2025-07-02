@@ -52836,5 +52836,64 @@
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
     ],
     "slug": "kerlink-wirnet-ibts-compact-pdtiot-mcs12"
+  },
+  {
+    "url": "https://www.choovio.com/product/so-arm101-3d-printed-enclosure/",
+    "name": "SO-ARM101 3D Printed Enclosure",
+    "sku": "114993668",
+    "brand": "Seeed Studio",
+    "price": "$35.00",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png.webp",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/so-arm101-low-cost-ai-arm-kit-pro/",
+    "name": "SO-ARM101 Low-Cost AI Arm Kit Pro",
+    "sku": "114993667",
+    "brand": "Seeed Studio",
+    "price": "$260.00",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png.webp",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/instruvu-accredited-calibration-services/",
+    "name": "InstruVU Accredited Calibration Services",
+    "sku": "CAL-1Y",
+    "brand": "InstruVU",
+    "price": "$55.00",
+    "availability": "6 in stock",
+    "short_description": [
+      "A2LA Accredited Calibration",
+      "NIST Traceable",
+      "Temperature, Humidity and Pressure Differential Calibration",
+      "ISO/IEC 17025:2017 Compliant Laboratory",
+      "One-Year Calibration Certification"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/06/InstruVU-Accredited-Calibration-Services-Choovio-500x500.png"
+    ]
   }
 ]
