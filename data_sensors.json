@@ -52922,7 +52922,8 @@
     },
     "images": [
       "https://www.choovio.com/wp-content/uploads/2025/07/KLK03639-Oudoor-Ethernet-Link-Surge-Protection-Kerlink-1-500x390.png"
-    ]
+    ],
+    "slug": "kerlink-rf-surge-protection-for-outdoor-ethernet-link--klk03639"
   },
   {
     "url": "https://www.choovio.com/product/sensecap-k1100-the-sensor-prototype-kit-with-lora-and-ai/",
@@ -52969,7 +52970,8 @@
       "https://www.choovio.com/wp-content/uploads/2025/07/K1100-SenseCAP-The-Sensor-Prototype-Kit-LoRa-AI-SeeedStudio-500x375.jpg",
       "https://www.choovio.com/wp-content/uploads/2025/07/K1100-SenseCAP-The-Sensor-Prototype-Kit-LoRa-AI-SeeedStudio-300x300.jpg",
       "https://www.choovio.com/wp-content/uploads/2025/07/SenseCAP-K1100-The-Sensor-Prototype-Kit-LoRa-AI-SeeedStudio-500x375.jpg"
-    ]
+    ],
+    "slug": "sensecap-k1100--the-sensor-prototype-kit-with-lora-and-ai"
   },
   {
     "url": "https://www.choovio.com/product/mokosmart-l02-ble-location-tag/",
@@ -52999,6 +53001,7 @@
       "https://www.choovio.com/wp-content/uploads/2024/05/Bluetooth-Asset-beacon-TH-sensor-2-300x300.jpg.webp",
       "https://www.choovio.com/wp-content/uploads/2024/05/Bluetooth-Asset-beacon-TH-sensor-3-500x500.jpg.webp",
       "https://www.choovio.com/wp-content/uploads/2024/05/Bluetooth-Asset-beacon-TH-sensor-1-500x500.jpg.webp"
-    ]
+    ],
+    "slug": "mokosmart-l02-ble-location-tag"
   }
 ]
