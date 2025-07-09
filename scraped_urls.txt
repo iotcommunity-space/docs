@@ -484,3 +484,6 @@ https://www.choovio.com/product/kerlink-wirnet-ibts-compact-pdtiot-mcs12/
 https://www.choovio.com/product/so-arm101-3d-printed-enclosure/
 https://www.choovio.com/product/so-arm101-low-cost-ai-arm-kit-pro/
 https://www.choovio.com/product/instruvu-accredited-calibration-services/
+https://www.choovio.com/product/kerlink-rf-surge-protection-for-outdoor-ethernet-link-klk03639/
+https://www.choovio.com/product/sensecap-k1100-the-sensor-prototype-kit-with-lora-and-ai/
+https://www.choovio.com/product/mokosmart-l02-ble-location-tag/

@@ -52898,5 +52898,107 @@
       "https://www.choovio.com/wp-content/uploads/2025/06/InstruVU-Accredited-Calibration-Services-Choovio-500x500.png"
     ],
     "slug": "instruvu-accredited-calibration-services"
+  },
+  {
+    "url": "https://www.choovio.com/product/kerlink-rf-surge-protection-for-outdoor-ethernet-link-klk03639/",
+    "name": "Kerlink RF Surge Protection for Outdoor Ethernet Link – KLK03639",
+    "sku": "KLK03639",
+    "brand": "Kerlink",
+    "price": "$93.00",
+    "availability": "8 in stock",
+    "short_description": [
+      "IP66 Protection Rating",
+      "Thermoplastic UL94 V-0",
+      "-40/+85°C",
+      "Screw, nut, cable shoe provided",
+      "Network POE ++ and 10Gigabit Ethernet"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://jm.pl/gfx-base/s_1/orgs/18/KLK03639.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/07/KLK03639-Oudoor-Ethernet-Link-Surge-Protection-Kerlink-1-500x390.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/sensecap-k1100-the-sensor-prototype-kit-with-lora-and-ai/",
+    "name": "SenseCAP K1100 – The Sensor Prototype Kit with LoRa and AI",
+    "sku": "110991748",
+    "brand": "Seeed Studio",
+    "price": "$146.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "Combination of Machine Learning, LoRa® technology, and pre-trained embedded AI Vision Sensor",
+      "Compatible with 400+ Grove sensors",
+      "Compatible with mainstream platforms for Cloud support",
+      "Compatible with beginner-friendly programming platforms",
+      "Upgradable to Industrial Sensors"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://wiki.seeedstudio.com/K1100-Soil-Moisture-Sensor-Grove-LoRa-E5/",
+      "resource_2": "https://wiki.seeedstudio.com/K1100-VOC-and-eCO2-Gas-Sensor-Grove-LoRa-E5/",
+      "resource_3": "https://wiki.seeedstudio.com/K1100-Temp-Humi-Sensor-Grove-LoRa-E5/",
+      "resource_4": "https://wiki.seeedstudio.com/K1100-Vision-AI-Module-Grove-LoRa-E5/",
+      "resource_5": "https://wiki.seeedstudio.com/K1100-Soil-Moisture-Sensor-Grove-LoRa-E5/",
+      "resource_6": "https://files.seeedstudio.com/Seeed_Certificate/documents_certificate/110991748-CE.pdf",
+      "resource_7": "https://files.seeedstudio.com/Seeed_Certificate/documents_certificate/110991748-EUDOC.pdf",
+      "resource_8": "https://files.seeedstudio.com/Seeed_Certificate/documents_certificate/110991748-FCC.pdf",
+      "resource_9": "https://files.seeedstudio.com/Seeed_Certificate/documents_certificate/110991748-ROHS.pdf",
+      "resource_10": "https://files.seeedstudio.com/Seeed_Certificate/documents_certificate/110991748-UKDOC.pdf",
+      "resource_11": "https://files.seeedstudio.com/Seeed_Certificate/documents_certificate/110991748-UKCA.pdf"
+    },
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2025/07/K1100-The-Sensor-Prototype-Kit-with-LoRa-and-AI-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2025/07/K1100-SenseCAP-The-Sensor-Prototype-Kit-with-LoRa-and-AI-500x375.jpg",
+      "https://www.choovio.com/wp-content/uploads/2025/07/SenseCAP-K1100-Sensor-Prototype-Kit-LoRa-AI-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2025/07/SenseCAP-K1100-Sensor-Prototype-Kit-LoRa-AI-500x375.jpg",
+      "https://www.choovio.com/wp-content/uploads/2025/07/SenseCAP-K1100-The-Sensor-Prototype-Kit-LoRa-AI-SeeedStudio-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2025/07/K1100-The-Sensor-Prototype-Kit-with-LoRa-and-AI-500x374.jpg",
+      "https://www.choovio.com/wp-content/uploads/2025/07/SenseCAP-K1100-Sensor-Prototype-Kit-LoRa-AI-SeeedStudio-500x375.jpg",
+      "https://www.choovio.com/wp-content/uploads/2025/07/K1100-SenseCAP-The-Sensor-Prototype-Kit-with-LoRa-and-AI-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2025/07/SenseCAP-K1100-Sensor-Prototype-Kit-LoRa-AI-SeeedStudio-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2025/07/K1100-SenseCAP-The-Sensor-Prototype-Kit-LoRa-AI-SeeedStudio-500x375.jpg",
+      "https://www.choovio.com/wp-content/uploads/2025/07/K1100-SenseCAP-The-Sensor-Prototype-Kit-LoRa-AI-SeeedStudio-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2025/07/SenseCAP-K1100-The-Sensor-Prototype-Kit-LoRa-AI-SeeedStudio-500x375.jpg"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/mokosmart-l02-ble-location-tag/",
+    "name": "MOKOSmart L02 BLE Location Tag",
+    "sku": "L02",
+    "brand": "MOKOSmart",
+    "price": "$16.00",
+    "availability": "15 in stock",
+    "short_description": [
+      "IP 67 waterproof design",
+      "Built-in 3-axis accelerometer and hall-effect sensor",
+      "Available to integrate temperature, humidity, and barometric sensors",
+      "Rotating housing for easy battery swaps, no need to remove the tag",
+      "Versatile mounting options for attaching to assets",
+      "Replaceable CR2477 coin battery 1000mAh, up to 4 years of use"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2024/05/Bluetooth-Asset-beacon-TH-sensor-3-300x300.jpg.webp",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2024/05/Bluetooth-Asset-beacon-TH-sensor-1-300x300.jpg.webp",
+      "https://www.choovio.com/wp-content/uploads/2024/05/Bluetooth-Asset-beacon-TH-sensor-2-500x500.jpg.webp",
+      "https://www.choovio.com/wp-content/uploads/2024/05/Bluetooth-Asset-beacon-TH-sensor-2-300x300.jpg.webp",
+      "https://www.choovio.com/wp-content/uploads/2024/05/Bluetooth-Asset-beacon-TH-sensor-3-500x500.jpg.webp",
+      "https://www.choovio.com/wp-content/uploads/2024/05/Bluetooth-Asset-beacon-TH-sensor-1-500x500.jpg.webp"
+    ]
   }
 ]
