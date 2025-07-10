@@ -53003,5 +53003,40 @@
       "https://www.choovio.com/wp-content/uploads/2024/05/Bluetooth-Asset-beacon-TH-sensor-1-500x500.jpg.webp"
     ],
     "slug": "mokosmart-l02-ble-location-tag"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-wsc2-l-main-process-unit/",
+    "name": "Dragino WSC2-L Main Process Unit",
+    "sku": "WSC2-L-US915",
+    "brand": "Dragino",
+    "price": "$102.00",
+    "availability": "11 in stock",
+    "short_description": [
+      "US915 Support",
+      "LoRaWAN main process unit in Dragino Weather Station solution",
+      "Outdoor LoRaWAN RS485 end node",
+      "Powered by external 12v solar power",
+      "Built-in li-on backup battery",
+      "Support Bluetooth v5.1 and LoRaWAN remote configure",
+      "Support wireless OTA update firmware"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://en.wikipedia.org/wiki/LoRa#LoRaWAN",
+      "resource_2": "https://www.choovio.com/wp-content/uploads/2023/10/Datasheet_WSC2-LB_Dragino-LoRaWAN-Weather-Station.pdf",
+      "resource_3": "http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/WSC2-LB_LoRaWAN_Weather_Station_User_Manual/"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2023/09/WSC2-LB_Demostration_30-min-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/09/WSC2-LB_10-min-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/09/WSC2-LB_Demostration_30-min-500x500.jpg",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2023/09/WSC2-LB_20-min-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/09/WSC2-LB_20-min-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/09/WSC2-LB_10-min-300x300.jpg"
+    ]
   }
 ]
