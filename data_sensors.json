@@ -53039,5 +53039,73 @@
       "https://www.choovio.com/wp-content/uploads/2023/09/WSC2-LB_10-min-300x300.jpg"
     ],
     "slug": "dragino-wsc2-l-main-process-unit"
+  },
+  {
+    "url": "https://www.choovio.com/product/mokosmart-m3-mini-asset-tracking-tag/",
+    "name": "MOKOSmart M3 Mini Asset Tracking Tag",
+    "sku": "M3",
+    "brand": "MOKOSmart",
+    "price": "$32.00",
+    "availability": "Available on backorder",
+    "short_description": [
+      "Nordic nRF52 series",
+      "IP67 Waterproof and IK09 anti-collision",
+      "Long operational life of more than 8 years",
+      "Long broadcast distance of up to 150m",
+      "Replaceable battery- 2600mAh 1*ER14505",
+      "High and low temperature resistance (-30°C ~ 80°C)"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://docs.mokosmart.com/wp-content/uploads/2025/06/M3mini-Product-Brief_V2.1.pdf"
+    },
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2025/07/m3-mini-tag-asset-tracking-mokosmart-choovio.png",
+      "https://www.choovio.com/wp-content/uploads/2025/07/m3-mini-tag-asset-tracking-mokosmart-choovio-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/07/M3-Mini-Asset-Tracking-Tag-Bluetooth-MokoSmart.png",
+      "https://www.choovio.com/wp-content/uploads/2025/07/M3-Mini-Asset-Tracking-Tag-Bluetooth-MokoSmart-1.png",
+      "https://www.choovio.com/wp-content/uploads/2025/07/M3-Mini-Asset-Tracking-Tag-Bluetooth-MokoSmart-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/07/M3-Mini-Asset-Tracking-Tag-MokoSmart.png",
+      "https://www.choovio.com/wp-content/uploads/2025/07/M3-Mini-Asset-Tracking-Tag-MokoSmart-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/07/M3-Mini-Asset-Tracking-Tag-Bluetooth-MokoSmart-1-300x300.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/mokosmart-m6-industrial-tag/",
+    "name": "MOKOSmart M6 Industrial Tag",
+    "sku": "M6",
+    "brand": "MOKOSmart",
+    "price": "$28.00",
+    "availability": "Available on backorder",
+    "short_description": [
+      "BLE 5.1 connectivity for reliable wireless communication",
+      "Compact yet durable dimensions",
+      "Exceptional transmission range up to 1150 feet (350m)",
+      "Long 10+ year battery life, with Alkaline battery option",
+      "Built-in accelerometer sensor for movement detection",
+      "Robust IP67 waterproof and IK08 shock-resistant design"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://docs.mokosmart.com/wp-content/uploads/2025/05/M6-Industrial-Tag-Brief_V1.0.pdf"
+    },
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2025/05/M6-Mokosmart-Industrial-Tag-Choovio-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/05/M6-Industrial-Tag-Mokosmart-Choovio-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/05/Mokosmart-M6-Industrial-Tag-Choovio-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/05/Mokosmart-M6-Industrial-Tag-Choovio.png",
+      "https://www.choovio.com/wp-content/uploads/2025/05/M6-Mokosmart-Industrial-Tag-Choovio.png",
+      "https://www.choovio.com/wp-content/uploads/2025/05/M6-Mokosmart-Industrial-Tag.png",
+      "https://www.choovio.com/wp-content/uploads/2025/05/M6-Mokosmart-Industrial-Tag-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/05/M6-Industrial-Tag-Mokosmart-Choovio.png"
+    ]
   }
 ]
