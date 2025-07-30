@@ -490,3 +490,4 @@ https://www.choovio.com/product/mokosmart-l02-ble-location-tag/
 https://www.choovio.com/product/dragino-wsc2-l-main-process-unit/
 https://www.choovio.com/product/mokosmart-m3-mini-asset-tracking-tag/
 https://www.choovio.com/product/mokosmart-m6-industrial-tag/
+https://www.choovio.com/product/dragino-lc01-lorawan-relay/
