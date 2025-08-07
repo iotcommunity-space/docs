@@ -493,3 +493,4 @@ https://www.choovio.com/product/mokosmart-m6-industrial-tag/
 https://www.choovio.com/product/dragino-lc01-lorawan-relay/
 https://www.choovio.com/product/ds7610-lorawan-iot-display/
 https://www.choovio.com/product/ts201-cost-effective-temperature-sensor/
+https://www.choovio.com/product/sdm230-lorawan-single-phase-meter/

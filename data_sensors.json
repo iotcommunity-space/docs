@@ -53239,5 +53239,31 @@
       "https://www.choovio.com/wp-content/uploads/2025/04/Milesight-TS201-Cost-Effective-Temperature-Sensor-Choovio-300x300.png"
     ],
     "slug": "ts201-cost-effective-temperature-sensor"
+  },
+  {
+    "url": "https://www.choovio.com/product/sdm230-lorawan-single-phase-meter/",
+    "name": "SDM230 LoRaWAN Single Phase Meter",
+    "sku": "SDM230-US915",
+    "brand": "Eastron",
+    "price": "$132.00",
+    "availability": "6 in stock",
+    "short_description": [
+      "Built-in LoRaWAN module",
+      "Single phase 100A direct connection",
+      "High accuracy, class 1 /class 0.5s",
+      "MID certified",
+      "Bi-directional measurement for kW and kWh"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.choovio.com/wp-content/uploads/2025/07/Eastron-SDM230-LoraWAN-user-manual.pdf",
+      "resource_2": "https://www.choovio.com/wp-content/uploads/2025/07/EASTRON-SDM230-LoRa-Series-DIN-Rail-Mounted_-Single-Phase_-100A-Datasheet.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/07/Eastron-SDM230-Single-Phase-Meter-LoRa-Choovio.png"
+    ]
   }
 ]
