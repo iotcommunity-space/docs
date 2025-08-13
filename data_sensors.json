@@ -53305,5 +53305,39 @@
       "https://www.choovio.com/wp-content/uploads/2025/08/DMT01-Wireless-Smart-Meat-Thermometer-BLE-LoRaWAN-Dragino-Choovio-500x500.jpg"
     ],
     "slug": "dragino-dmt01--wireless-smart-meat-thermometer-with-ble-and-lorawan"
+  },
+  {
+    "url": "https://www.choovio.com/product/mokosmart-b2-smart-badge/",
+    "name": "MOKOSmart B2 Smart Badge",
+    "sku": "B2",
+    "brand": "MOKOSmart",
+    "price": "$22.00",
+    "availability": "9 in stock",
+    "short_description": [
+      "Supports standard CR80 ID card, insertable from side",
+      "IP66 waterproof, durable casing for harsh environments",
+      "Reads HF, LF, and UHF RFID tags on both sides",
+      "Transmission range up to 150m in open areas",
+      "Low power consumption, lasting up to 4 years",
+      "3-color LED notification and buzzer to distinguish different types of notifications"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://docs.mokosmart.com/wp-content/uploads/2025/06/B2-Product-Brief_V2.1.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/08/MokoSmart-B2-Smart-Badge-Choovio-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/B2-Smart-Badge-MokoSmart-BLE-Choovio-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/B2-Smart-Badge-MokoSmart-BLE-Choovio.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/MokoSmart-B2-Smart-Badge-Choovio-USA.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2025/08/MokoSmart-B2-Smart-Badge-Choovio-USA-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/B2-Mokosmart-Smart-Badge-Choovio-IoT.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/MokoSmart-B2-Smart-Badge-Choovio.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/B2-Mokosmart-Smart-Badge-Choovio-IoT-300x300.png"
+    ]
   }
 ]
