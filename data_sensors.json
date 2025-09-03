@@ -53441,5 +53441,41 @@
       "https://www.choovio.com/wp-content/uploads/2024/09/LTC2-LB-Back-min-500x500.jpg.webp"
     ],
     "slug": "dragino-ltc2-lb-ls-industrial-temperature-transmitter"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-ltc1-lb-lorawan-temperature-transmitter/",
+    "name": "Dragino LTC1-LB LoRaWAN Temperature Transmitter",
+    "sku": "LTC1-LB-US915",
+    "brand": "Dragino",
+    "price": "From: $75.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "LoRaWAN 1.0.3 Class A",
+      "US 915 MHz band",
+      "Ultra-low power consumption",
+      "max: 1 x monitor temperature channels",
+      "Support 3 -wire PT-100",
+      "Temperature alarm",
+      "Datalog Feature",
+      "Support Bluetooth v5.1 and LoRaWAN remote configure",
+      "Support wireless OTA update firmware",
+      "8500mAh Li/SOCl2 Battery"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.dropbox.com/scl/fo/know17vmtsxbvzjjrrnz2/AIbnW3Iy6CKE0vHxNV20Isw?rlkey=6jcu8qyqgqrwvrom14m6w8q3b&st=cj85ozw6&dl=0",
+      "resource_2": "https://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/LTC1LTC2-LBLS--LoRaWAN_Temperature_Transmitter_User_Manual/",
+      "resource_3": "https://www.dropbox.com/sh/u0uzvvnn58yrie4/AAB2GJOhTMffod1hQbakBzrqa?st=so2nyxzn&dl=0"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/08/Dragino-LTC1-LB-LoRaWAN-Temperature-Transmitter-Choovio-300x300.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2025/08/Dragino-LTC1-LB-LoRaWAN-Temperature-Transmitter-Choovio.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/LTC1-LB-LoRaWAN-Temperature-Transmitter-Dragino-Choovio-USA-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/LTC1-LB-LoRaWAN-Temperature-Transmitter-Dragino-Choovio-USA.png"
+    ]
   }
 ]

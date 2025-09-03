@@ -499,3 +499,4 @@ https://www.choovio.com/product/mokosmart-b2-smart-badge/
 https://www.choovio.com/product/milesight-ga01-130cm-lorawan-fiber-glass-s-n-antenna-kit/
 https://www.choovio.com/product/small-lorawan-gps-tracker/
 https://www.choovio.com/product/dragino-ltc2-lb-ls-industrial-temperature-transmitter/
+https://www.choovio.com/product/dragino-ltc1-lb-lorawan-temperature-transmitter/
