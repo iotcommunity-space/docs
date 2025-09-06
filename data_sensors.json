@@ -53504,7 +53504,8 @@
     },
     "images": [
       "https://www.choovio.com/wp-content/uploads/2025/09/D20-LB2-Waterproof-Outdoor-LoRaWAN-Temperature-Sensor-Dragino-Choovio-USA-500x726.png"
-    ]
+    ],
+    "slug": "dragino-d20-lb2-lorawan-waterproof--outdoor-temperature-sensor"
   },
   {
     "url": "https://www.choovio.com/product/dragino-nbsn95-waterproof-long-rang-wireless-nb-iot-sensor-node/",
@@ -53543,7 +53544,8 @@
       "https://www.choovio.com/wp-content/uploads/2025/09/NBSN95-Dragino-Long-Range-Waterproof-Wireless-NB-IoT-Sensor-Node-Choovio-300x300.jpg",
       "https://www.choovio.com/wp-content/uploads/2025/09/NBSN95-Dragino-Waterproof-LoRa-Wireless-NB-IoT-Sensor-Node-Choovio-300x300.jpg",
       "https://www.choovio.com/wp-content/uploads/2025/09/NBSN95-Dragino-Long-Range-Waterproof-Wireless-NB-IoT-Sensor-Node-Choovio-500x500.jpg"
-    ]
+    ],
+    "slug": "dragino-nbsn95--waterproof-long-rang-wireless-nb-iot-sensor-node"
   },
   {
     "url": "https://www.choovio.com/product/dragino-cpl03-lb2-outdoor-lorawan-open-close-dry-contact-sensor/",
@@ -53578,6 +53580,7 @@
     },
     "images": [
       "https://www.choovio.com/wp-content/uploads/2025/08/CPL03-LB2-Outdoor-LoRaWAN-Open-Close-Dry-Contact-Sensor-Dragino-Choovio-500x748.png"
-    ]
+    ],
+    "slug": "dragino-cpl03-lb2-outdoor-lorawan-open-close-dry-contact-sensor"
   }
 ]
