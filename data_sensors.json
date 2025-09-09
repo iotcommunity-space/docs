@@ -53606,7 +53606,8 @@
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
       "https://www.choovio.com/wp-content/uploads/2025/09/GA01-60cm-lorawan-fiber-glass-s-n-antenna-kit-chord-Milesight-Choovio-USA-300x300.jpg",
       "https://www.choovio.com/wp-content/uploads/2025/09/GA01-60cm-lorawan-fiber-glass-s-n-antenna-kit-Milesight-500x436.jpg"
-    ]
+    ],
+    "slug": "milesight-ga01--60cm-lorawan-fiber-glass-s-n-antenna-kit"
   },
   {
     "url": "https://www.choovio.com/product/milesight-ga01-130cm-lorawan-fiber-glass-n-n-antenna-kit-copy/",
@@ -53631,7 +53632,8 @@
       "https://www.choovio.com/wp-content/uploads/2025/09/GA01-Milesight-130cm-lorawan-fiber-glass-n-n-antenna-kit-Choovio-300x300.jpg",
       "https://www.choovio.com/wp-content/uploads/2025/09/GA01-130cm-lorawan-fiber-glass-n-n-antenna-kit-bracket-Milesight-Choovio-500x397.jpg",
       "https://www.choovio.com/wp-content/uploads/2025/09/GA01-130cm-lorawan-fiber-glass-n-n-antenna-kit-Milesight-chord-Choovio-USA-500x333.jpg"
-    ]
+    ],
+    "slug": "milesight-ga01--130cm-lorawan-fiber-glass-n-n-antenna-kit"
   },
   {
     "url": "https://www.choovio.com/product/vs360-ir-break-beam-people-counter/",
@@ -53663,6 +53665,7 @@
       "https://www.choovio.com/wp-content/uploads/2025/09/Milesight-IR-LoRaWAN-Break-Beam-People-Counter-Choovio-USA-1-500x277.png",
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
       "https://www.choovio.com/wp-content/uploads/2025/09/Milesight-IR-LoRaWAN-Break-Beam-People-Counter-Choovio-USA-300x300.png"
-    ]
+    ],
+    "slug": "vs360-ir-break-beam-people-counter"
   }
 ]
