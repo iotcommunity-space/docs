@@ -53685,5 +53685,74 @@
       "https://www.choovio.com/wp-content/uploads/2025/09/GA01-130cm-lorawan-fiber-glass-n-n-antenna-kit-Milesight-Choovio-1-500x613.jpg"
     ],
     "slug": "milesight-ga01--60cm-lorawan-fiber-glass-n-n-antenna-kit"
+  },
+  {
+    "url": "https://www.choovio.com/product/vs321-wireless-ai-occupancy-sensor/",
+    "name": "VS321 Wireless AI Occupancy Sensor",
+    "sku": "N/A",
+    "brand": "Milesight",
+    "price": "$150.00",
+    "availability": "11 in stock",
+    "short_description": [
+      "LoRaWAN® Wireless Deployment",
+      "Accurate People Counting and Desk Occupancy",
+      "Up to 95% Occupancy Accuracy",
+      "100% Anonymous Detection",
+      "10+ Years of Battery Life",
+      "Unique Milesight D2D Communication"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://resource.milesight.com/milesight/iot/document/vs321-user-guide-en.pdf",
+      "resource_2": "https://resource.milesight.com/milesight/iot/document/vs321-datasheet-en.pdf",
+      "resource_3": "https://www.milesight.com/iot/resources/download-center/#firmware-sdk"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/09/VS321-AI-Occupancy-Sensor-LoRaWAN-Milesight-Choovio-500x302.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2025/09/VS321-AI-Occupancy-Sensor-LoRaWAN-Milesight-Choovio-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/09/VS321-Wireless-LoRaWAN-AI-Occupancy-Sensor-Milesight-Choovio-500x302.png",
+      "https://www.choovio.com/wp-content/uploads/2025/09/VS321-Wireless-LoRaWAN-AI-Occupancy-Sensor-Milesight-Choovio-300x300.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/wt303-wt304-smart-fan-coil-thermostat/",
+    "name": "WT303/WT304 Smart Fan Coil Thermostat",
+    "sku": "N/A",
+    "brand": "Milesight",
+    "price": "$120.00",
+    "availability": "2 in stock",
+    "short_description": [
+      "2.7-Inch E-Ink Screen",
+      "Supports 8 Custom Schedules",
+      "Compatible with 2-Pipe/4-Pipe FCU",
+      "Window Opening Detection/Tamper Protection/Freeze Protection",
+      "3 Temperature Control Modes, 4 Fan Modes",
+      "Support DI Interface-Key Card Integration"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://resource.milesight.com/milesight/iot/document/wt303-wt304-user-guide-en.pdf",
+      "resource_2": "https://resource.milesight.com/milesight/iot/document/wt30x-datasheet-en.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/08/WT303-WT304-Fan-Coil-Smart-Thermostat-LoRaWAN-Milesight-Choovio-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/WT303-WT304-Smart-Fan-Coil-Thermostat-LoRaWAN-Milesight-Choovio-USA-300x300.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2025/08/WT303-WT304-Fan-Coil-Thermostat-LoRaWAN-Milesight-Choovio--300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/WT303-WT304-Smart-LoRaWAN-fan-coil-thermostat-Milesight--300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/WT303-WT304-Fan-Coil-Smart-Thermostat-LoRaWAN-Milesight-Choovio-500x272.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/WT303-WT304-LoRaWAN-Smart-Fan-Coil-Thermostat-Milesight-Choovio--300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/WT303-WT304-LoRaWAN-Smart-Fan-Coil-Thermostat-Milesight-Choovio--500x272.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/WT303-WT304-Fan-Coil-Thermostat-LoRaWAN-Milesight-Choovio--500x272.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/WT303-WT304-Smart-Fan-Coil-Thermostat-LoRaWAN-Milesight-Choovio-USA-500x272.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/WT303-WT304-Smart-LoRaWAN-fan-coil-thermostat-Milesight--500x272.png"
+    ]
   }
 ]
