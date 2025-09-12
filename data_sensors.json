@@ -53756,5 +53756,66 @@
       "https://www.choovio.com/wp-content/uploads/2025/08/WT303-WT304-Smart-LoRaWAN-fan-coil-thermostat-Milesight--500x272.png"
     ],
     "slug": "wt303-wt304-smart-fan-coil-thermostat"
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-sct01-sensor-configuration-tool/",
+    "name": "Milesight SCT01 – Sensor Configuration Tool",
+    "sku": "SCT01",
+    "brand": "Milesight",
+    "price": "$64.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "Compatible with all Milesight devices with NFC feature",
+      "Easy to read and write to devices with a large NFC area",
+      "Equipped with a buzzer and rich indicators to know the device status and configuration results",
+      "Built-in Bluetooth for easy tool configuration and template import, logs export, etc.",
+      "Built-in rechargeable lithium battery that works for 6 hours",
+      "Support real-time data backup and charge through a USB type-C port"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://resource.milesight.com/milesight/iot/document/sct01-datasheet-en.pdf",
+      "resource_2": "https://resource.milesight.com/milesight/iot/document/sct01-user-guide-en.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/09/SCT01-LoRaWAN-NFC-Sensor-Configuration-Tool-Milesight-Choovio-500x660.png",
+      "https://www.choovio.com/wp-content/uploads/2025/09/SCT01-Milesight-LoRaWAN-Sensor-Configuration-Tool-1-500x530.png",
+      "https://www.choovio.com/wp-content/uploads/2025/09/SCT01-Milesight-Sensor-Configuration-Accessory-LoRaWAN-Choovio-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/09/SCT01-Milesight-LoRaWAN-Sensor-Configuration-Tool-1-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/09/SCT01-LoRaWAN-NFC-Sensor-Configuration-Tool-Milesight-Choovio-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/09/SCT01-Milesight-Sensor-Configuration-Accessory-LoRaWAN-Choovio-500x482.png",
+      "https://www.choovio.com/wp-content/uploads/2025/09/SCT01-LoRaWAN-Sensor-Configuration-Tool-Milesight-Choovio-500x596.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2025/09/SCT01-LoRaWAN-Sensor-Configuration-Tool-Milesight-Choovio-300x300.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/kerlink-interchangeable-blades-ac-dc-power-supply-klk03503/",
+    "name": "Kerlink Interchangeable Blades AC/DC Power Supply – KLK03503",
+    "sku": "KLK03503",
+    "brand": "Kerlink",
+    "price": "$19.00",
+    "availability": "3 in stock",
+    "short_description": [
+      "Provides a stable 12V DC output at 1.5A",
+      "Input Voltage: 90-264 Vac",
+      "Input Frequency: 47-63 Hz",
+      "Operating Temperature: 0°C to +40°C",
+      "Max Power: 6W",
+      "Max Current: 0,5 A"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.choovio.com/wp-content/uploads/2025/09/datasheet_-_klk03503-_interchangeable_blades_ac-dc_power_supply_-_v0.1.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/09/Kerlink-KLK03503-Interchangable-Blades-AC-DC-Power-Supply-Choovio.png"
+    ]
   }
 ]
