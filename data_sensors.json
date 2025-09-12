@@ -53790,7 +53790,8 @@
       "https://www.choovio.com/wp-content/uploads/2025/09/SCT01-LoRaWAN-Sensor-Configuration-Tool-Milesight-Choovio-500x596.png",
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
       "https://www.choovio.com/wp-content/uploads/2025/09/SCT01-LoRaWAN-Sensor-Configuration-Tool-Milesight-Choovio-300x300.png"
-    ]
+    ],
+    "slug": "milesight-sct01--sensor-configuration-tool"
   },
   {
     "url": "https://www.choovio.com/product/kerlink-interchangeable-blades-ac-dc-power-supply-klk03503/",
@@ -53816,6 +53817,7 @@
     },
     "images": [
       "https://www.choovio.com/wp-content/uploads/2025/09/Kerlink-KLK03503-Interchangable-Blades-AC-DC-Power-Supply-Choovio.png"
-    ]
+    ],
+    "slug": "kerlink-interchangeable-blades-ac-dc-power-supply--klk03503"
   }
 ]
