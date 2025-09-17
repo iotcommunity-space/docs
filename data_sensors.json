@@ -53819,5 +53819,35 @@
       "https://www.choovio.com/wp-content/uploads/2025/09/Kerlink-KLK03503-Interchangable-Blades-AC-DC-Power-Supply-Choovio.png"
     ],
     "slug": "kerlink-interchangeable-blades-ac-dc-power-supply--klk03503"
+  },
+  {
+    "url": "https://www.choovio.com/product/mokosmart-mkgw7-ble-usb-gateway/",
+    "name": "MOKOSmart MKGW7 BLE USB Gateway",
+    "sku": "MKGW7",
+    "brand": "MOKOSmart",
+    "price": "$38.00",
+    "availability": "8 in stock",
+    "short_description": [
+      "BLE 5.0 connectivity",
+      "Dual connectivity via WiFi or USB",
+      "Compact and portable design for easy installation",
+      "Bi-directional communication for remote management",
+      "USB-powered for versatile deployment",
+      "Large memory capacity (4M Flash, 512KB SRAM)"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/05/mkgw7-ble-usb-gateway-mokosmart-choovio-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/05/MKGW7-USB-Bluetooth-Gateway-MokoSmart-Choovio-USA-500x271.png",
+      "https://www.choovio.com/wp-content/uploads/2025/05/mkgw7-ble-usb-gateway-mokosmart-choovio-500x546.png",
+      "https://www.choovio.com/wp-content/uploads/2025/05/Bluetooth-USB-Gateway-MokoSmart-Choovio-500x487.png",
+      "https://www.choovio.com/wp-content/uploads/2025/05/MKGW7-USB-Bluetooth-Gateway-MokoSmart-Choovio-USA-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/05/Bluetooth-USB-Gateway-MokoSmart-Choovio-300x300.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
+    ]
   }
 ]
