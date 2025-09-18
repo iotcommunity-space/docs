@@ -512,3 +512,6 @@ https://www.choovio.com/product/wt303-wt304-smart-fan-coil-thermostat/
 https://www.choovio.com/product/milesight-sct01-sensor-configuration-tool/
 https://www.choovio.com/product/kerlink-interchangeable-blades-ac-dc-power-supply-klk03503/
 https://www.choovio.com/product/mokosmart-mkgw7-ble-usb-gateway/
+https://www.choovio.com/product/mokosmart-m2-asset-tracking-beacon-wirepas-mesh/
+https://www.choovio.com/product/mokosmart-l01-wayfinding-anchor/
+https://www.choovio.com/product/mokosmart-m1p-led-tag/
