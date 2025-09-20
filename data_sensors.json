@@ -53949,5 +53949,24 @@
       "https://www.choovio.com/wp-content/uploads/2025/01/M1P-LED-Tag-Bluetooth-MokoSmart-Choovio-300x300.png"
     ],
     "slug": "mokosmart-m1p-led-tag"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-lht65n-temperature-sensor-probe/",
+    "name": "Dragino LHT65N Temperature & Humidity External Probe",
+    "sku": "PROBE-E3",
+    "brand": "Dragino",
+    "price": "$2.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "Probe for Dragino LHT65N Temperature & Humidity Sensor"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2023/03/Dragino-LHT65N-Temperature-Probe-AS-01-choovio-500x500.jpg.webp"
+    ]
   }
 ]

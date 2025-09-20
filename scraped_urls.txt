@@ -515,3 +515,4 @@ https://www.choovio.com/product/mokosmart-mkgw7-ble-usb-gateway/
 https://www.choovio.com/product/mokosmart-m2-asset-tracking-beacon-wirepas-mesh/
 https://www.choovio.com/product/mokosmart-l01-wayfinding-anchor/
 https://www.choovio.com/product/mokosmart-m1p-led-tag/
+https://www.choovio.com/product/dragino-lht65n-temperature-sensor-probe/
