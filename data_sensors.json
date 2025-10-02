@@ -53969,5 +53969,36 @@
       "https://www.choovio.com/wp-content/uploads/2023/03/Dragino-LHT65N-Temperature-Probe-AS-01-choovio-500x500.jpg.webp"
     ],
     "slug": "dragino-lht65n-temperature-and-humidity-external-probe"
+  },
+  {
+    "url": "https://www.choovio.com/product/gs601-lorawan-vape-detector/",
+    "name": "GS601 LoRaWAN Vape Detector",
+    "sku": "GS601-US915",
+    "brand": "Milesight",
+    "price": "$220.00",
+    "availability": "1 in stock",
+    "short_description": [
+      "Multi-Sensor Integration",
+      "Resilient Against Environmental Interference",
+      "Adjustable Buzzer Hibernation Duration",
+      "Instant Flame Alarming",
+      "Ant-Tamper and Theft Protection",
+      "US915 Support"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://resource.milesight.com/milesight/iot/document/gs601-user-guide-en.pdf",
+      "resource_2": "https://resource.milesight.com/milesight/iot/document/gs601-datasheet-en.pdf"
+    },
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2024/10/GS601-Vape-Smoke-Detector-LoRaWAN-Milesight-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2024/10/GS601-Milesight-Choovio-500x498.png.webp",
+      "https://www.choovio.com/wp-content/uploads/2024/10/GS601-Vape-Smoke-Detector-LoRaWAN-Milesight-500x388.jpg",
+      "https://www.choovio.com/wp-content/uploads/2024/10/GS601-Milesight-Choovio-300x300.png.webp"
+    ]
   }
 ]
