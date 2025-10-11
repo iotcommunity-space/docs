@@ -54001,5 +54001,81 @@
       "https://www.choovio.com/wp-content/uploads/2024/10/GS601-Milesight-Choovio-300x300.png.webp"
     ],
     "slug": "gs601-lorawan-vape-detector"
+  },
+  {
+    "url": "https://www.choovio.com/product/lansitec-mounting-bracket-for-solar-bluetooth-gateway/",
+    "name": "Lansitec Mounting Bracket for Solar Bluetooth Gateway",
+    "sku": "100-07510",
+    "brand": "Lansitec",
+    "price": "$33.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "Mounting Bracket for Lansitec Solar Bluetooth Gateways"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/10/Lansitec-Solar-Gateway-Mounting-Bracket-Choovio-500x537.jpg"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/lansitec-lorawan-indoor-bluetooth-gateway/",
+    "name": "Lansitec LoRaWAN Indoor Bluetooth Gateway",
+    "sku": "100-18467",
+    "brand": "Lansitec",
+    "price": "$85.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "Configurable Bluetooth Payload",
+      "Bluetooth 5.0 for Extended Range",
+      "Versatile Power Options",
+      "Optimized for Indoor Environments",
+      "Cost-Effective LoRaWAN Connectivity",
+      "FOTA Over Bluetooth"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.choovio.com/wp-content/uploads/2024/06/Lansitec_Bluetooth_Gateway_DataSheet_2.29.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/10/Indoor-Bluetooth-Gateway_Lansitec_Choovio-500x500.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-thermostat1-lorawan-next-generation-thermostat-for-connected-buildings/",
+    "name": "Dragino Thermostat1 – LoRaWAN Next-Generation Thermostat for Connected Buildings",
+    "sku": "Thermostat1-US915",
+    "brand": "Dragino",
+    "price": "$81.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "LoRaWAN US915 Class C protocol",
+      "Local and remote temperature control for flexible operation",
+      "Easy integration into building automation and energy management systems",
+      "Wireless deployment minimizes wiring requirements and installation costs",
+      "Scalable for large commercial facilities with centralized control needs"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.dropbox.com/scl/fo/1ugf54m511jhsg6rn6hcm/AOZd5kQ2eiQaVvL0KptrNiw?rlkey=oxyl1j6s9qdcruknhhvb68g6f&st=96nr7z23&dl=0",
+      "resource_2": "https://www.dropbox.com/sh/u0uzvvnn58yrie4/AAB2GJOhTMffod1hQbakBzrqa?st=wunibtrv&dl=0",
+      "resource_3": "https://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/LoRaWAN_Thermostat1_Next-Generation_Thermostat_for_Connected_Buildings/"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/10/Dragino-Thermostat1-HVAC-LoRaWAN-Remote-Monitoring-Choovio-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/10/Dragino-Thermostat1-HVAC-LoRaWAN-Remote-Monitoring-Choovio-500x479.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2022/01/LHT52-10-500x500.jpg.webp",
+      "https://www.choovio.com/wp-content/uploads/2022/01/LHT52-10-300x300.jpg.webp"
+    ]
   }
 ]
