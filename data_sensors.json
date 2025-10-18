@@ -54080,5 +54080,75 @@
       "https://www.choovio.com/wp-content/uploads/2022/01/LHT52-10-300x300.jpg.webp"
     ],
     "slug": "dragino-thermostat1--lorawan-next-generation-thermostat-for-connected-buildings"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-ds-probe/",
+    "name": "Dragino -DS Probe",
+    "sku": "PROBE-DS",
+    "brand": "Dragino",
+    "price": "$10.00",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png.webp",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/pt1000-temperature-sensor-probe-with-anti-corrosion-stainless-steel/",
+    "name": "PT1000 Temperature Sensor Probe with Anti-Corrosion Stainless Steel",
+    "sku": "314010819",
+    "brand": "Seeed Studio",
+    "price": "$20.00",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png.webp",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/industrial-soil-moisture-temperature-sensor-modbus-rtu-rs485/",
+    "name": "Industrial Soil Moisture & Temperature Sensor MODBUS-RTU RS485",
+    "sku": "314990620",
+    "brand": "Seeed Studio",
+    "price": "$98.00",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png.webp"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/industrial-par-sensor-s-par-02b/",
+    "name": "Industrial PAR Sensor (S-PAR-02B)",
+    "sku": "314990735",
+    "brand": "Seeed Studio",
+    "price": "$358.00",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png.webp"
+    ]
   }
 ]
