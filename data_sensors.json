@@ -54154,5 +54154,24 @@
       "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png.webp"
     ],
     "slug": "industrial-par-sensor-s-par-02b"
+  },
+  {
+    "url": "https://www.choovio.com/product/kerlink-omni-directional-outdoor-antenna-kit-5-5dbi/",
+    "name": "Kerlink Omni-Directional Outdoor Antenna kit – 5dBi – ACCIOT-KAN09",
+    "sku": "ACCIOT-KAN09",
+    "brand": "Kerlink",
+    "price": "$133.00",
+    "availability": "3 in stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.choovio.com/wp-content/uploads/2025/10/Datasheet-ACCIOT-KAN09-Omindirectional-Outdoor-862-928MHZ-antenna-5dBi-v1.0.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2024/04/Omni-Directional-Outdoor-Antenna-kit.jpg.webp"
+    ]
   }
 ]
