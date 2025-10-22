@@ -54174,5 +54174,53 @@
       "https://www.choovio.com/wp-content/uploads/2024/04/Omni-Directional-Outdoor-Antenna-kit.jpg.webp"
     ],
     "slug": "kerlink-omni-directional-outdoor-antenna-kit--5dbi--acciot-kan09"
+  },
+  {
+    "url": "https://www.choovio.com/product/wattsense-tower-control-annual-subscriptions/",
+    "name": "Wattsense Tower Control Annual Subscriptions",
+    "sku": "N/A",
+    "brand": "Wattsense",
+    "price": "$340.00 – $4,286.00Price range: $340.00 through $4,286.00",
+    "availability": null,
+    "short_description": [
+      "Connect any IoT sensors, meters, lights, HVAC, BMS",
+      "Gain visibility and control",
+      "Set up alarms, graphs, and schematics",
+      "Manage multiple sites remotely",
+      "Deploy digital services for more efficient buildings",
+      "No coding skills are required thanks to the Configuration Wizard"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2023/09/Wattsense-Smart-Building-Gateway-choovio-500x500.jpg"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/wattsense-tower-lift-annual-subscriptions/",
+    "name": "Wattsense Tower Lift Annual Subscriptions",
+    "sku": "N/A",
+    "brand": "Wattsense",
+    "price": "$226.00 – $2,858.00Price range: $226.00 through $2,858.00",
+    "availability": null,
+    "short_description": [
+      "Connect any IoT sensors, meters, lights, HVAC, BMS",
+      "Gain visibility and control",
+      "Set up alarms, graphs, and schematics",
+      "Manage multiple sites remotely",
+      "Deploy digital services for more efficient buildings",
+      "No coding skills are required thanks to the Configuration Wizard"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2023/09/Wattsense-Smart-Building-Gateway-choovio-500x500.jpg"
+    ]
   }
 ]
