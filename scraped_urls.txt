@@ -527,3 +527,4 @@ https://www.choovio.com/product/industrial-par-sensor-s-par-02b/
 https://www.choovio.com/product/kerlink-omni-directional-outdoor-antenna-kit-5-5dbi/
 https://www.choovio.com/product/wattsense-tower-control-annual-subscriptions/
 https://www.choovio.com/product/wattsense-tower-lift-annual-subscriptions/
+https://www.choovio.com/product/dragino-rs485-lb2-waterproof-rs485-uart-to-lorawan-converter/

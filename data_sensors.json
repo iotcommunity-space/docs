@@ -54224,5 +54224,35 @@
       "https://www.choovio.com/wp-content/uploads/2023/09/Wattsense-Smart-Building-Gateway-choovio-500x500.jpg"
     ],
     "slug": "wattsense-tower-lift-annual-subscriptions"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-rs485-lb2-waterproof-rs485-uart-to-lorawan-converter/",
+    "name": "Dragino RS485-LB2 WaterProof RS485/UART to LoRaWAN Converter",
+    "sku": "N/A",
+    "brand": "Dragino",
+    "price": "$87.00 – $103.00Price range: $87.00 through $103.00",
+    "availability": "1 in stock",
+    "short_description": [
+      "US915 Support",
+      "Ultra Low Power Consumption",
+      "Support multiply RS485 devices by flexible rules",
+      "Support Modbus protocol",
+      "Support Interrupt uplink",
+      "Supports connecting a UART sensors with 3.3V or 5V",
+      "Support Bluetooth v5.1 and LoRaWAN remote configure",
+      "Support wireless OTA update firmware",
+      "19000mAh Battery for long term use"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.choovio.com/wp-content/uploads/2023/09/Datasheet_RS485-LB_WaterProof-RS485-or-UART-to-LoRaWAN-Converter.pdf",
+      "resource_2": "http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/RS485-LB_Waterproof_RS485UART_to_LoRaWAN_Converter/"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/08/RS485-LB2-RS485-UART-to-LoRaWAN-Converter-Dragino-Choovio-USA-500x865.png"
+    ]
   }
 ]
