@@ -54255,5 +54255,45 @@
       "https://www.choovio.com/wp-content/uploads/2025/08/RS485-LB2-RS485-UART-to-LoRaWAN-Converter-Dragino-Choovio-USA-500x865.png"
     ],
     "slug": "dragino-rs485-lb2-waterproof-rs485-uart-to-lorawan-converter"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-e31f-probe/",
+    "name": "Dragino -E31F Probe",
+    "sku": "PROBE-E31F",
+    "brand": "Dragino",
+    "price": "$12.00",
+    "availability": "Available on backorder",
+    "short_description": [
+      "Sensirion SHT31F high accuracy Temperature & Humidity"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2023/05/LHT65N_E31F_10-min-300x300.jpg.webp",
+      "https://www.choovio.com/wp-content/uploads/2023/05/LHT65N_E31F_10-min-500x500.jpg.webp",
+      "https://www.choovio.com/wp-content/uploads/2023/05/LHT65N_E31F_00-min-500x500.jpg.webp",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2023/05/LHT65N_E31F_00-min-300x300.jpg.webp"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/kerlink-pdtiot-iss05-accessories-klk03346_03/",
+    "name": "Kerlink PDTIOT-ISS05 Accessories – KLK03346_03",
+    "sku": "KLK03346-03",
+    "brand": "Kerlink",
+    "price": "$20.00",
+    "availability": "19 in stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/11/KLK03346_03-Accessories-PDTIOT-ISS05-Kerlink-iStation.png"
+    ]
   }
 ]
