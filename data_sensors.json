@@ -54297,5 +54297,43 @@
       "https://www.choovio.com/wp-content/uploads/2025/11/KLK03346_03-Accessories-PDTIOT-ISS05-Kerlink-iStation.png"
     ],
     "slug": "kerlink-pdtiot-iss05-accessories--klk03346_03"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-wsc2-compact-ls-lorawan-weather-station-kit/",
+    "name": "Dragino WSC2-Compact-LS-LoRaWAN Weather Station Kit",
+    "sku": "WSC2-LS-US915",
+    "brand": "Dragino",
+    "price": "$84.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "Easy to install, no need for additional MPTT or solar panels",
+      "Support external 3 in 1 weather sensor (DR-THP-6P): Temperature, Humidity, Air Pressure",
+      "Support interrupt t Rain Gauge (DR-RG-6P) and Illuminance Sensor (DR-IL-6P)",
+      "3000mAh Rechargeable Li-ion battery",
+      "IP66 Waterproof Enclosure",
+      "Support Bluetooth v5.1 and LoRaWAN remote configure"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.dropbox.com/scl/fo/m3v60n778jafb6j7axvwx/ANnLm8cgX4X0qW5WX0T19og?rlkey=eisfcp4kf0inizsqblkj1aqw6&st=pngj7hcn&dl=0",
+      "resource_2": "https://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/WSC2-Compact-L--Weather_Station_Kit_User_Manual/",
+      "resource_3": "https://www.dropbox.com/sh/u0uzvvnn58yrie4/AAB2GJOhTMffod1hQbakBzrqa?st=adymbldz&dl=0"
+    },
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2025/08/WSC2-Compact-LS-LoRaWAN-Weather-Station-DR-IL-6P-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2025/08/WSC2-Compact-LS-Weather-Station-Dragino-500x596.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/Dragino-WSC2-Compact-LS-Rain-Gauge-DR-RG-6P-Choovio-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/Dragino-WSC2-Compact-LS-Weather-Station-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/WSC2-Compact-LS-LoRaWAN-Weather-Station-DR-IL-6P-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2025/08/Dragino-WSC2-Compact-LS-Rain-Gauge-DR-RG-6P-Choovio.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/Dragino-WSC2-Compact-LS-Weather-Station-500x361.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/WSC2-Compact-LS-Weather-Station-Dragino-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/08/Dragino-WSC2-Compact-LS-Air-Pressure-Sensor-DR-THP-6P-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2025/08/Dragino-WSC2-Compact-LS-Air-Pressure-Sensor-DR-THP-6P-300x300.jpg"
+    ]
   }
 ]

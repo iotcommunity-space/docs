@@ -530,3 +530,4 @@ https://www.choovio.com/product/wattsense-tower-lift-annual-subscriptions/
 https://www.choovio.com/product/dragino-rs485-lb2-waterproof-rs485-uart-to-lorawan-converter/
 https://www.choovio.com/product/dragino-e31f-probe/
 https://www.choovio.com/product/kerlink-pdtiot-iss05-accessories-klk03346_03/
+https://www.choovio.com/product/dragino-wsc2-compact-ls-lorawan-weather-station-kit/
