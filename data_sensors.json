@@ -54367,7 +54367,8 @@
       "https://www.choovio.com/wp-content/uploads/2025/11/MR-XX-LoRaWAN-Microwave-Radar-Distance-Detection-Dragino-300x300.png",
       "https://www.choovio.com/wp-content/uploads/2025/11/MR-XX-LoRaWAN-Microwave-Radar-Distance-Detection-Dragino-500x717.png",
       "https://www.choovio.com/wp-content/uploads/2025/11/MR-XX-LoRaWAN-Microwave-Radar-Distance-Sensor-Dragino-500x689.png"
-    ]
+    ],
+    "slug": "dragino-mr-xx-lb-ls-lorawan-microwave-radar-distance-sensor"
   },
   {
     "url": "https://www.choovio.com/product/dragino-lpt01-lorawan-handheld-food-thermometer/",
@@ -54399,7 +54400,8 @@
       "https://www.choovio.com/wp-content/uploads/2025/11/Dragino-LPT01-LoRaWAN-Handheld-Food-Thermometer-Choovio-300x300.jpg",
       "https://www.choovio.com/wp-content/uploads/2025/11/LPT01-LoRaWAN-Handheld-Food-Thermometer-Temperature-Probe-Dragino-Choovio-500x500.jpg",
       "https://www.choovio.com/wp-content/uploads/2025/11/LPT01-LoRaWAN-Handheld-Food-Thermometer-Temperature-Probe-Dragino-Choovio-300x300.jpg"
-    ]
+    ],
+    "slug": "dragino-lpt01--lorawan-handheld-food-thermometer"
   },
   {
     "url": "https://www.choovio.com/product/kerlink-omni-directional-outdoor-antenna-kit-6dbi-acciot-kan02-copy/",
@@ -54416,6 +54418,7 @@
     "resources": {},
     "images": [
       "https://www.choovio.com/wp-content/uploads/2024/04/Omni-Directional-Outdoor-Antenna-kit.jpg.webp"
-    ]
+    ],
+    "slug": "kerlink-omni-directional-outdoor-antenna-kit--6dbi--acciot-kan02"
   }
 ]
