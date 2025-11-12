@@ -54336,5 +54336,86 @@
       "https://www.choovio.com/wp-content/uploads/2025/08/Dragino-WSC2-Compact-LS-Air-Pressure-Sensor-DR-THP-6P-300x300.jpg"
     ],
     "slug": "dragino-wsc2-compact-ls-lorawan-weather-station-kit"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-mr-xx-lb-ls-lorawan-microwave-radar-distance-sensor/",
+    "name": "Dragino MR-XX-LB/LS LoRaWAN Microwave Radar Distance Sensor",
+    "sku": "N/A",
+    "brand": "Dragino",
+    "price": "$218.00 – $369.00Price range: $218.00 through $369.00",
+    "availability": "11 in stock",
+    "short_description": [
+      "LoRaWAN 1.0.3 Class A",
+      "Ultra-low power consumption",
+      "80GHz Microwave Radar for distance detection",
+      "Measure Range : 3m: 200 ~ 3000mm; 12m: 200 ~ 12000mm; 25m: 200 ~ 25000mm",
+      "Measurement Angle : 7.6 degrees horizontal and 7.6 degrees vertical",
+      "8500mAh Li/SOCI2 Battery or Solar Panel + 3000mAh Li-ion battery",
+      "US915 band support"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.dropbox.com/scl/fo/x3mmg542tv6ypa2vpd2xm/AGpqDm-5jkdn3lT8NtKH8mc?rlkey=hz9bsmvlwwug8e5ngbshh71zv&st=18exf5qb&dl=0",
+      "resource_2": "https://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/MR-031225-LBLS_LoRaWAN_Microwave_Radar_Distance_Sensor_User_Manual/"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/11/MR-XX-LoRaWAN-Microwave-Radar-Distance-Sensor-Dragino-300x300.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2025/11/MR-XX-LoRaWAN-Microwave-Radar-Distance-Detection-Dragino-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/11/MR-XX-LoRaWAN-Microwave-Radar-Distance-Detection-Dragino-500x717.png",
+      "https://www.choovio.com/wp-content/uploads/2025/11/MR-XX-LoRaWAN-Microwave-Radar-Distance-Sensor-Dragino-500x689.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-lpt01-lorawan-handheld-food-thermometer/",
+    "name": "Dragino LPT01 – LoRaWAN Handheld Food Thermometer",
+    "sku": "LPT01-US915",
+    "brand": "Dragino",
+    "price": "$61.00",
+    "availability": "8 in stock",
+    "short_description": [
+      "PT100 Temperature Sensor",
+      "LCD Display",
+      "LoRaWAN v1.0.3 Class A Protocol",
+      "CR123A 1500mAh Battery",
+      "Uplink on periodically or alarm event"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.dropbox.com/scl/fo/7vp5ixnwclwcbqc718fbm/AKBm5GjVjaDe37xDRMRqloQ?rlkey=pkv68qj1np6m1w47xovjsotce&st=f5yjhq21&dl=0",
+      "resource_2": "https://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/LPT01--LoRaWAN_Handheld_Food_Thermometer_User_Manual/"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/11/LPT01-LoRaWAN-Handheld-Food-Thermometer-Dragino-Choovio-500x500.jpg",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2025/11/LPT01-LoRaWAN-Handheld-Food-Thermometer-Dragino-Choovio-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2025/11/Dragino-LPT01-LoRaWAN-Handheld-Food-Thermometer-Choovio-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2025/11/Dragino-LPT01-LoRaWAN-Handheld-Food-Thermometer-Choovio-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2025/11/LPT01-LoRaWAN-Handheld-Food-Thermometer-Temperature-Probe-Dragino-Choovio-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2025/11/LPT01-LoRaWAN-Handheld-Food-Thermometer-Temperature-Probe-Dragino-Choovio-300x300.jpg"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/kerlink-omni-directional-outdoor-antenna-kit-6dbi-acciot-kan02-copy/",
+    "name": "Kerlink Omni-Directional Outdoor Antenna kit – 6dBi – ACCIOT-KAN02",
+    "sku": "ACCIOT-KAN02",
+    "brand": "Kerlink",
+    "price": "$133.00",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2024/04/Omni-Directional-Outdoor-Antenna-kit.jpg.webp"
+    ]
   }
 ]

@@ -531,3 +531,6 @@ https://www.choovio.com/product/dragino-rs485-lb2-waterproof-rs485-uart-to-loraw
 https://www.choovio.com/product/dragino-e31f-probe/
 https://www.choovio.com/product/kerlink-pdtiot-iss05-accessories-klk03346_03/
 https://www.choovio.com/product/dragino-wsc2-compact-ls-lorawan-weather-station-kit/
+https://www.choovio.com/product/dragino-mr-xx-lb-ls-lorawan-microwave-radar-distance-sensor/
+https://www.choovio.com/product/dragino-lpt01-lorawan-handheld-food-thermometer/
+https://www.choovio.com/product/kerlink-omni-directional-outdoor-antenna-kit-6dbi-acciot-kan02-copy/
