@@ -54457,5 +54457,24 @@
       "https://www.choovio.com/wp-content/uploads/2024/04/RBKIT-202-868-6-300x300.jpg"
     ],
     "slug": "roombanker-home-security-kit-2"
+  },
+  {
+    "url": "https://www.choovio.com/product/kerlink-omni-directional-outdoor-antenna-kit-3dbi-acciot-kan03/",
+    "name": "Kerlink Omni-Directional Outdoor Antenna Kit – 3dBi – ACCIOT-KAN03",
+    "sku": "ACCIOT-KAN03",
+    "brand": "Kerlink",
+    "price": "$90.00",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.choovio.com/wp-content/uploads/2025/11/datasheet_-_acciot-kan00_acciot-kan03_-_omindirectional_outdoor_868-915mhz_antenna_-_3dbi_-_v1.4.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/11/ACCIOT-KAN03-Vertical-Omni-Directional-Outdoor-Antenna-Kit-3dBi-Kerlink-Choovio.png"
+    ]
   }
 ]
