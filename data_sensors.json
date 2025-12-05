@@ -54477,5 +54477,24 @@
       "https://www.choovio.com/wp-content/uploads/2025/11/ACCIOT-KAN03-Vertical-Omni-Directional-Outdoor-Antenna-Kit-3dBi-Kerlink-Choovio.png"
     ],
     "slug": "kerlink-omni-directional-outdoor-antenna-kit--3dbi--acciot-kan03"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-ne117-probe/",
+    "name": "Dragino – NE117 Probe",
+    "sku": "PROBE-NE117",
+    "brand": "Dragino",
+    "price": "$23.00",
+    "availability": "205 in stock",
+    "short_description": [
+      "External Temperature Probe that uses TI TMP117A NIST traceability, with 0.1°C accuracy in normal temperature range."
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/12/Probe-NE117-Dragino-LoRaWAN-Accessories-Choovio-500x499.png"
+    ]
   }
 ]
