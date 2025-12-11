@@ -54497,5 +54497,36 @@
       "https://www.choovio.com/wp-content/uploads/2025/12/Probe-NE117-Dragino-LoRaWAN-Accessories-Choovio-500x499.png"
     ],
     "slug": "dragino--ne117-probe"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-pf52-lorawan-people-flow-counting-sensor/",
+    "name": "Dragino PF52 – LoRaWAN People Flow Counting Sensor",
+    "sku": "PF52-US915",
+    "brand": "Dragino",
+    "price": "$115.00",
+    "availability": "10 in stock",
+    "short_description": [
+      "Accurate AI Counting",
+      "Built-in Privacy",
+      "Long-Range LoRaWAN Connectivity",
+      "24/7 Continuous Operation",
+      "US915 Support"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.dropbox.com/scl/fo/xgw3mq7zqa66pfmb89i8w/ALnuLDt6Q8NfI4OFUimf8bM?rlkey=fpomvqzpi76q94rj3wjx07uqy&st=q8c0y33p&dl=0",
+      "resource_2": "https://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/PF52_LoRaWAN_Crowd_Recognition_Sensor_User_Manual/",
+      "resource_3": "https://www.dropbox.com/sh/u0uzvvnn58yrie4/AAB2GJOhTMffod1hQbakBzrqa?st=p3yygr50&dl=0"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/12/Dragino-PF52-LoRaWAN-AI-People-Flow-Counting-Choovio-500x667.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2025/12/PF52-Dragino-LoRaWAN-AI-People-Flow-Counting-Sensor-Choovio-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/12/PF52-Dragino-LoRaWAN-AI-People-Flow-Counting-Sensor-Choovio-500x252.png",
+      "https://www.choovio.com/wp-content/uploads/2025/12/Dragino-PF52-LoRaWAN-AI-People-Flow-Counting-Choovio-300x300.png"
+    ]
   }
 ]
