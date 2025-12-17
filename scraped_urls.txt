@@ -538,3 +538,4 @@ https://www.choovio.com/product/roombanker-home-security-kit-2/
 https://www.choovio.com/product/kerlink-omni-directional-outdoor-antenna-kit-3dbi-acciot-kan03/
 https://www.choovio.com/product/dragino-ne117-probe/
 https://www.choovio.com/product/dragino-pf52-lorawan-people-flow-counting-sensor/
+https://www.choovio.com/product/dragino-wsc2-cs-ge/
