@@ -54548,5 +54548,25 @@
       "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png"
     ],
     "slug": "dragino--wsc2-cs-ge"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-ds18b20-3-ft-temperature-sensor-probe/",
+    "name": "Dragino DS18B20 – 3 FT Temperature Sensor Probe",
+    "sku": "DS18B20-3",
+    "brand": "Dragino",
+    "price": "$14.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "3 Foot Temperature Probe"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
+    ]
   }
 ]
