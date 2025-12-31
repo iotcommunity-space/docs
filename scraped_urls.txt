@@ -540,3 +540,4 @@ https://www.choovio.com/product/dragino-ne117-probe/
 https://www.choovio.com/product/dragino-pf52-lorawan-people-flow-counting-sensor/
 https://www.choovio.com/product/dragino-wsc2-cs-ge/
 https://www.choovio.com/product/dragino-ds18b20-3-ft-temperature-sensor-probe/
+https://www.choovio.com/product/dragino-nb-st-bg95-m2/

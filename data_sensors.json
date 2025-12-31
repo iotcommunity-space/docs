@@ -54569,5 +54569,23 @@
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
     ],
     "slug": "dragino-ds18b20--3-ft-temperature-sensor-probe"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-nb-st-bg95-m2/",
+    "name": "Dragino – NB-ST-BG95-M2",
+    "sku": "NB-ST-BG95-M2",
+    "brand": "Dragino",
+    "price": "$44.00",
+    "availability": "Available on backorder",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
+    ]
   }
 ]
