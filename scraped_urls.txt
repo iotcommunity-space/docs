@@ -542,3 +542,7 @@ https://www.choovio.com/product/dragino-wsc2-cs-ge/
 https://www.choovio.com/product/dragino-ds18b20-3-ft-temperature-sensor-probe/
 https://www.choovio.com/product/dragino-nb-st-bg95-m2/
 https://www.choovio.com/product/milesight-ct101-extension-cable-1m/
+https://www.choovio.com/product/dragino-dr-tmp-rh-na/
+https://www.choovio.com/product/dragino-dr-sms-na/
+https://www.choovio.com/product/dragino-dr-lms-na/
+https://www.choovio.com/product/dragino-wsc2-ls-m16/

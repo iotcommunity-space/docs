@@ -54609,5 +54609,77 @@
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
     ],
     "slug": "milesight-ct101-extension-cable-1m"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-dr-tmp-rh-na/",
+    "name": "Dragino – DR-TMP-RH-NA",
+    "sku": "DR-TMP-RH-NA",
+    "brand": "Dragino",
+    "price": "$15.00",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-dr-sms-na/",
+    "name": "Dragino – DR-SMS-NA",
+    "sku": "DR-SMS-NA",
+    "brand": "Dragino",
+    "price": "$97.90",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-dr-lms-na/",
+    "name": "Dragino – DR-LMS-NA",
+    "sku": "DR-LMS-NA",
+    "brand": "Dragino",
+    "price": "$82.50",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-wsc2-ls-m16/",
+    "name": "Dragino – WSC2-LS-M16",
+    "sku": "WSC2-CS-GE-1",
+    "brand": "Dragino",
+    "price": "$108.90",
+    "availability": "5 in stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png"
+    ]
   }
 ]
