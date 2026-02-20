@@ -546,3 +546,4 @@ https://www.choovio.com/product/dragino-dr-tmp-rh-na/
 https://www.choovio.com/product/dragino-dr-sms-na/
 https://www.choovio.com/product/dragino-dr-lms-na/
 https://www.choovio.com/product/dragino-wsc2-ls-m16/
+https://www.choovio.com/product/dragino-lht65n-e5-lorawan-temperature-humidity-illuminance-sensor/
