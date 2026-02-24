@@ -54716,5 +54716,36 @@
       "https://www.choovio.com/wp-content/uploads/2026/02/Dragino-LHT65N-E5-Temperature-Humidity-Illuminance-Sensor-CHOOVIO-500x491.jpg"
     ],
     "slug": "dragino-lht65n-e5-lorawan-temperature-humidity-and-illuminance-sensor"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-s31b-lb2-lorawan-temperature-humidity-sensor/",
+    "name": "Dragino S31B-LB2 LoRaWAN Temperature & Humidity Sensor",
+    "sku": "S31B-LB2-US915",
+    "brand": "Dragino",
+    "price": "$88.00",
+    "availability": "Available on backorder",
+    "short_description": [
+      "Ultra-low power consumption",
+      "Temperature and Humidity alarm",
+      "19000mAh Battery for long term use",
+      "IP66 Waterproof Enclosure",
+      "Support Bluetooth v5.1 and LoRaWAN remote configure",
+      "US915 Support"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.dropbox.com/sh/8o21627six8gtfm/AAATNj9yDLl020DAd80D7c7Za?dl=0",
+      "resource_2": "http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/S31-LB_S31B-LB/"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/06/Dragino-SHT31-Temperature-Humidity-Probe-Choovio-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2026/02/Dragino-S31B-LB2-LoRaWAN-Temperature-Humidity-Sensor-CHOOVIO-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2026/02/Dragino-S31B-LB2-LoRaWAN-Temperature-Humidity-Sensor-CHOOVIO.png",
+      "https://www.choovio.com/wp-content/uploads/2025/06/Dragino-SHT31-Temperature-Humidity-Probe-Choovio.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
+    ]
   }
 ]
