@@ -54748,5 +54748,41 @@
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
     ],
     "slug": "dragino-s31b-lb2-lorawan-temperature-and-humidity-sensor"
+  },
+  {
+    "url": "https://www.choovio.com/product/lwl03a-lorawan-rope-type-water-leak-controller/",
+    "name": "Dragino LWL03A – LoRaWAN Rope Type Water Leak Controller",
+    "sku": "LWL03a-US915",
+    "brand": "Dragino",
+    "price": "$82.00",
+    "availability": "33 in stock",
+    "short_description": [
+      "Helium Network compatible endpoint",
+      "Ultra-Low Power Consumption. Last for several years.",
+      "8500mAh Li-SoCI2 battery",
+      "US 915 MHz band"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.dropbox.com/sh/8yxf508zlkhm778/AADgBHFxrP0BG1M4NMyyA6ZBa?dl=0",
+      "resource_2": "http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/LWL03A%20%E2%80%93%20LoRaWAN%20None-Position%20Rope%20Type%20Water%20Leak%20Controller%20User%20Manual/",
+      "resource_3": "https://www.dropbox.com/sh/sa4uitwn6xdku9u/AACUA890oj5dl8rETYO2icdBa?dl=0"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2022/11/LoRaWAN-Rope-Type-Water-Leak-Controller-02-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/11/LoRaWAN-Rope-Type-Water-Leak-Controller-03-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/11/LoRaWAN-Rope-Type-Water-Leak-Controller-05-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/11/LoRaWAN-Rope-Type-Water-Leak-Controller-04-500x500.jpg",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2022/11/LoRaWAN-Rope-Type-Water-Leak-Controller-02-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/11/LoRaWAN-Rope-Type-Water-Leak-Controller-04-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/11/LoRaWAN-Rope-Type-Water-Leak-Controller-03-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/11/LoRaWAN-None-Position-Rope-Type-Water-Leak-Controller-01-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/11/LoRaWAN-None-Position-Rope-Type-Water-Leak-Controller-01-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/11/LoRaWAN-Rope-Type-Water-Leak-Controller-05-500x500.jpg"
+    ]
   }
 ]
