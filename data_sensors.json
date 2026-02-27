@@ -54785,5 +54785,75 @@
       "https://www.choovio.com/wp-content/uploads/2022/11/LoRaWAN-Rope-Type-Water-Leak-Controller-05-500x500.jpg"
     ],
     "slug": "dragino-lwl03a--lorawan-rope-type-water-leak-controller"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-dr-il-6p-illuminance-sensor-probe/",
+    "name": "Dragino DR-IL-6P – Illuminance Sensor Probe",
+    "sku": "DR-IL-6P",
+    "brand": "Dragino",
+    "price": "$28.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "Illuminance Sensor Probe",
+      "BH1750 Illumination Sensor",
+      "Range: 0 ~ 35535 lx",
+      "Resolution: 1 lx",
+      "Operating Range: -40 °C ~ 85 °C",
+      "Cable Length: 50cm"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/08/WSC2-Compact-LS-LoRaWAN-Weather-Station-DR-IL-6P-500x500.jpg"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-dr-rg-6p-rain-gauge-probe/",
+    "name": "Dragino DR-RG-6P – Rain Gauge Probe",
+    "sku": "DR-RG-6P",
+    "brand": "Dragino",
+    "price": "$130.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "Rain Gauge Probe",
+      "Rain-bearing Diameter: 200mm",
+      "Range: default 0~100mm/day",
+      "Rain Intensity Range: 0.01~4mm/min",
+      "Cable Specification: 2 meters 2 wire system (pulse signal)"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/08/Dragino-WSC2-Compact-LS-Rain-Gauge-DR-RG-6P-Choovio.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-dr-thp-6p-temperature-humidity-air-pressure-probe/",
+    "name": "Dragino DR-THP-6P – Temperature, Humidity, Air Pressure Probe",
+    "sku": "DR-THP-6P",
+    "brand": "Dragino",
+    "price": "$33.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "3-in-1 Sensor",
+      "Temperature",
+      "Humidity",
+      "Air Pressure",
+      "For use with the Dragino WSC2-LS"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/08/Dragino-WSC2-Compact-LS-Air-Pressure-Sensor-DR-THP-6P-500x500.jpg"
+    ]
   }
 ]
