@@ -54808,7 +54808,8 @@
     "resources": {},
     "images": [
       "https://www.choovio.com/wp-content/uploads/2025/08/WSC2-Compact-LS-LoRaWAN-Weather-Station-DR-IL-6P-500x500.jpg"
-    ]
+    ],
+    "slug": "dragino-dr-il-6p--illuminance-sensor-probe"
   },
   {
     "url": "https://www.choovio.com/product/dragino-dr-rg-6p-rain-gauge-probe/",
@@ -54831,7 +54832,8 @@
     "resources": {},
     "images": [
       "https://www.choovio.com/wp-content/uploads/2025/08/Dragino-WSC2-Compact-LS-Rain-Gauge-DR-RG-6P-Choovio.png"
-    ]
+    ],
+    "slug": "dragino-dr-rg-6p--rain-gauge-probe"
   },
   {
     "url": "https://www.choovio.com/product/dragino-dr-thp-6p-temperature-humidity-air-pressure-probe/",
@@ -54854,6 +54856,7 @@
     "resources": {},
     "images": [
       "https://www.choovio.com/wp-content/uploads/2025/08/Dragino-WSC2-Compact-LS-Air-Pressure-Sensor-DR-THP-6P-500x500.jpg"
-    ]
+    ],
+    "slug": "dragino-dr-thp-6p--temperature-humidity-air-pressure-probe"
   }
 ]
