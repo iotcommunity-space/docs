@@ -552,3 +552,15 @@ https://www.choovio.com/product/lwl03a-lorawan-rope-type-water-leak-controller/
 https://www.choovio.com/product/dragino-dr-il-6p-illuminance-sensor-probe/
 https://www.choovio.com/product/dragino-dr-rg-6p-rain-gauge-probe/
 https://www.choovio.com/product/dragino-dr-thp-6p-temperature-humidity-air-pressure-probe/
+https://www.choovio.com/product/milesight-vs360-ir-break-beam-people-counter/
+https://www.choovio.com/product/milesight-vs321-wireless-ai-occupancy-sensor/
+https://www.choovio.com/product/milesight-wt30x-smart-fan-coil-thermostat/
+https://www.choovio.com/product/milesight-vs370-radar-human-presence-sensor/
+https://www.choovio.com/product/milesight-ug56-915m-industrial-lorawan-gateway/
+https://www.choovio.com/product/milesight-em500-pp-915m-pipe-pressure-sensor/
+https://www.choovio.com/product/milesight-em500-swl-submersible-water-level-sensor/
+https://www.choovio.com/product/milesight-ug63-mini-lorawan-gateway/
+https://www.choovio.com/product/milesight-uc511-lorawan-solenoid-valve-controller/
+https://www.choovio.com/product/milesight-ws523-lorawan-smart-portable-socket/
+https://www.choovio.com/product/milesight-ug65-robust-lorawan-gateway/
+https://www.choovio.com/product/milesight-em300-th-temperature-humidity-sensor/

@@ -54858,5 +54858,481 @@
       "https://www.choovio.com/wp-content/uploads/2025/08/Dragino-WSC2-Compact-LS-Air-Pressure-Sensor-DR-THP-6P-500x500.jpg"
     ],
     "slug": "dragino-dr-thp-6p--temperature-humidity-air-pressure-probe"
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-vs360-ir-break-beam-people-counter/",
+    "name": "Milesight VS360 IR Break Beam People Counter",
+    "sku": "N/A",
+    "brand": "Milesight",
+    "price": "$255.00",
+    "availability": "17 in stock",
+    "short_description": [
+      "LoRaWAN® Wireless Deployment",
+      "Bi-Directional People Counting",
+      "Leveraging Infrared Beams",
+      "Strong Environmental Adaptability",
+      "Cost-Effective Accurate Performance",
+      "100% Privacy Protection (GDPR Compliant)",
+      "Long Battery Life up to 3 Years"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://resource.milesight.com/milesight/iot/document/vs360-user-guide-en.pdf",
+      "resource_2": "https://resource.milesight.com/milesight/iot/document/vs360-datasheet-en.pdf"
+    },
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2025/09/Milesight-IR-LoRaWAN-Break-Beam-People-Counter-Choovio-USA-500x289.png",
+      "https://www.choovio.com/wp-content/uploads/2025/09/Milesight-IR-LoRaWAN-Break-Beam-People-Counter-Choovio-USA-1-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/09/Milesight-IR-LoRaWAN-Break-Beam-People-Counter-Choovio-USA-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/09/Milesight-IR-LoRaWAN-Break-Beam-People-Counter-Choovio-USA-1-500x277.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-vs321-wireless-ai-occupancy-sensor/",
+    "name": "Milesight VS321 Wireless AI Occupancy Sensor",
+    "sku": "N/A",
+    "brand": "Milesight",
+    "price": "$249.00",
+    "availability": "17 in stock",
+    "short_description": [
+      "LoRaWAN® Wireless Deployment",
+      "Accurate People Counting and Desk Occupancy",
+      "Up to 95% Occupancy Accuracy",
+      "100% Anonymous Detection",
+      "10+ Years of Battery Life",
+      "Unique Milesight D2D Communication"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://resource.milesight.com/milesight/iot/document/vs321-user-guide-en.pdf",
+      "resource_2": "https://resource.milesight.com/milesight/iot/document/vs321-datasheet-en.pdf",
+      "resource_3": "https://www.milesight.com/iot/resources/download-center/#firmware-sdk"
+    },
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2025/09/VS321-Wireless-LoRaWAN-AI-Occupancy-Sensor-Milesight-Choovio-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/09/VS321-Wireless-LoRaWAN-AI-Occupancy-Sensor-Milesight-Choovio-500x302.png",
+      "https://www.choovio.com/wp-content/uploads/2025/09/VS321-AI-Occupancy-Sensor-LoRaWAN-Milesight-Choovio-500x302.png",
+      "https://www.choovio.com/wp-content/uploads/2025/09/VS321-AI-Occupancy-Sensor-LoRaWAN-Milesight-Choovio-300x300.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-wt30x-smart-fan-coil-thermostat/",
+    "name": "Milesight WT30x Smart Fan Coil Thermostat",
+    "sku": "N/A",
+    "brand": "Milesight",
+    "price": "$48.00 – $50.00Price range: $48.00 through $50.00",
+    "availability": "42 in stock",
+    "short_description": [
+      "LoRaWAN® Based for Wireless Transmission",
+      "Compact Size Design with Easy Installation",
+      "Compiled with 2-Pipe FCU with up to a 3-Speed Fan",
+      "Temperature Adjustment Available",
+      "Support Pre-set Date Period with Programmable Schedules",
+      "86mm Hidden Box"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://resource.milesight.com/milesight/iot/document/wt30x-user-guide-en.pdf",
+      "resource_2": "https://resource.milesight.com/milesight/iot/document/wt30x-datasheet-en.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/04/WT30x-smart-fan-coil-thermostat-front-min-300x300.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2025/04/WT30x-smart-fan-coil-thermostat-right-min-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/04/WT30x-smart-fan-coil-thermostat-back-min.png",
+      "https://www.choovio.com/wp-content/uploads/2025/04/WT30x-smart-fan-coil-thermostat-right-min.png",
+      "https://www.choovio.com/wp-content/uploads/2025/04/WT30x-smart-fan-coil-thermostat-back-min-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2025/04/WT30x-smart-fan-coil-thermostat-front-min.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-vs370-radar-human-presence-sensor/",
+    "name": "Milesight VS370 Radar Human Presence Sensor",
+    "sku": "VS370-US915",
+    "brand": "Milesight",
+    "price": "$150.00",
+    "availability": "15 in stock",
+    "short_description": [
+      "Operation in Both Light and Dark Conditions",
+      "Millimeter Wave Radar + PIR Dual Detection",
+      "Flexible Sensitivity & Sleep Settings",
+      "Long Battery Life of Up to 5 Years",
+      "Up to 99% Industry-Leading Accuracy",
+      "NFC + Bluetooth Configuration",
+      "US915 Support"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://resource.milesight.com/milesight/iot/document/vs370-datasheet-en.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2025/02/VS370_Milesight_ChoovioUSA-500x500.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-ug56-915m-industrial-lorawan-gateway/",
+    "name": "Milesight UG56 – Industrial LoRaWAN Gateway",
+    "sku": "N/A",
+    "brand": "Milesight",
+    "price": "$348.00 – $429.00Price range: $348.00 through $429.00",
+    "availability": "7 in stock",
+    "short_description": [
+      "8 half-duplex channels",
+      "Desktop or wall mounting",
+      "Fast and user-friendly programming by Node-RED development tool",
+      "US915 Support"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "/wp-content/uploads/2022/12/ug56-user-guide-en1.pdf",
+      "resource_2": "/wp-content/uploads/2022/12/ug56-datasheet-en1.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2022/12/UG56-Antenna-300x300.jpg",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2022/12/UG56-Front-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/12/UG56-Antenna-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/12/UG56-5-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/12/UG56-5-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/12/UG56-4-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/12/UG56-4-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/12/UG56-1-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/12/UG56-Front-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/12/UG56-Back-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/12/UG56-1-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/12/UG56-Bottom-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/12/UG56-Bottom-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/12/UG56-Back-300x300.jpg"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-em500-pp-915m-pipe-pressure-sensor/",
+    "name": "Milesight EM500-PP-915M – Pipe Pressure Sensor",
+    "sku": "EM500-PP-US915",
+    "brand": "Milesight",
+    "price": "$396.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "Temperature Compensation for High Accuracy",
+      "IP67 waterproof",
+      "High-capacity battery for 10 years",
+      "Simple and Easy to Use",
+      "US915 Support"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "/wp-content/uploads/2022/12/em500-series-user-guide-en1.pdf",
+      "resource_2": "/wp-content/uploads/2022/12/em500-pp-datasheet-en1.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-3-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-10-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/12/swl-senser-1-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-7-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-3-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-6-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-10-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/12/swl-senser-1-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-8-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-7-300x300.jpg",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-5-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-8-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-6-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/12/swl-sensor-3-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-9-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-5-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-4-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-2-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-4-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/12/swl-sensor-3-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-9-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-1-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-1-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/10/EM500-PP-2-300x300.jpg"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-em500-swl-submersible-water-level-sensor/",
+    "name": "Milesight EM500-SWL Submersible Water Level Sensor",
+    "sku": "EM500-SWL-US915",
+    "brand": "Milesight",
+    "price": "$504.00 – $546.00Price range: $504.00 through $546.00",
+    "availability": "8 in stock",
+    "short_description": [
+      "Water Level Monitoring",
+      "LoRaWAN® Wireless",
+      "Easy Configuration via NFC / 10 Years Battery Life",
+      "Customizable measuring range up to 200 m",
+      "Submersible pressure sensor not affected by foam, wind, or rain",
+      "IP67 full sealed plastic waterproof design",
+      "Measuring medium: water (customizable for oil and other non-corrosive media)",
+      "US915 Support"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.choovio.com/wp-content/uploads/2022/10/em500-series-user-guide-en1.pdf",
+      "resource_2": "https://www.choovio.com/wp-content/uploads/2023/02/em500-swl-datasheet-en.pdf"
+    },
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2023/02/milesight-em500-swl-lorawan-sensor-front-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/02/swl-sensor-3-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/02/milesight-em500-swl-lorawan-sensor-top-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/02/milesight-em500-swl-lorawan-sensor-2-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/02/milesight-em500-swl-lorawan-sensor-1-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/02/milesight-em500-swl-lorawan-sensor-bottom-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/02/milesight-em500-swl-lorawan-sensor-2-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/02/milesight-em500-swl-lorawan-sensor-bottom-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/02/milesight-em500-swl-lorawan-sensor-back-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/02/milesight-em500-swl-lorawan-sensor-front-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/02/milesight-em500-swl-lorawan-sensor-left-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/02/milesight-em500-swl-lorawan-sensor-top-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/02/swl-sensor-3-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/02/milesight-em500-swl-lorawan-sensor-back-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/02/milesight-em500-swl-lorawan-sensor-1-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2023/02/milesight-em500-swl-lorawan-sensor-left-300x300.jpg"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-ug63-mini-lorawan-gateway/",
+    "name": "Milesight UG63 Mini LoRaWAN Gateway",
+    "sku": "N/A",
+    "brand": "Milesight",
+    "price": "$198.00 – $264.00Price range: $198.00 through $264.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "8 Channels",
+      "Up to 2000 End-Nodes",
+      "Up to 2km Communication Range in Urban Areas",
+      "Compact Design",
+      "Blind Spot Coverage",
+      "Low Power Consumption",
+      "High Compatibility",
+      "Remote Configuration and Management",
+      "US915 Frequency Support"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://en.wikipedia.org/wiki/LoRa#LoRaWAN",
+      "resource_2": "https://www.choovio.com/wp-content/uploads/2024/08/ug63-datasheet-en.pdf",
+      "resource_3": "https://www.choovio.com/wp-content/uploads/2024/08/ug63-user-guide.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG63-Mini-LoRaWAN-Gateway-5-500x500.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG63-Mini-LoRaWAN-Gateway-1-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG63-Mini-LoRaWAN-Gateway-4-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG63-Mini-LoRaWAN-Gateway-3-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG63-Mini-LoRaWAN-Gateway-3-500x500.png",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG63-Mini-LoRaWAN-Gateway-2-500x500.png",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG63-Mini-LoRaWAN-Gateway-4-500x500.png",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG63-Mini-LoRaWAN-Gateway-2-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG63-Mini-LoRaWAN-Gateway-1-500x500.png",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG63-Mini-LoRaWAN-Gateway-5-300x300.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-uc511-lorawan-solenoid-valve-controller/",
+    "name": "Milesight UC511 LoRaWAN Solenoid Valve Controller",
+    "sku": "N/A",
+    "brand": "Milesight",
+    "price": "$240.00 – $264.00Price range: $240.00 through $264.00",
+    "availability": "10 in stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://en.wikipedia.org/wiki/LoRa#LoRaWAN",
+      "resource_2": "/wp-content/uploads/2022/07/UC51x-Series-User-Guide-V2.1.pdf",
+      "resource_3": "/wp-content/uploads/2022/07/UC51x-Series-Communication-Protocol-V2.1.pdf",
+      "resource_4": "/wp-content/uploads/2022/07/UC51x-Datasheet-V2.1.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-Buttom-2-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-Top-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-5-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-3-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-6-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-1-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-Front-2-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-Front-1-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-6-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-Buttom-2-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-7-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-Buttom-1-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-Top-300x300.jpg",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-1-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-Front-2-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-7-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-8-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-Front-1-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-3-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-8-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-Buttom-1-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UC511-5-500x500.jpg"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-ws523-lorawan-smart-portable-socket/",
+    "name": "Milesight WS523 LoRaWAN Smart Portable Socket",
+    "sku": "WS523-US915",
+    "brand": "Milesight",
+    "price": "$126.00",
+    "availability": "8 in stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://en.wikipedia.org/wiki/LoRa#LoRaWAN",
+      "resource_2": "/wp-content/uploads/2022/07/WS52x-User-Guide-V1.2.pdf",
+      "resource_3": "/wp-content/uploads/2022/07/WS52x-Datasheet-V1.1.pdf"
+    },
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2022/07/WS52x-Front-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/WS52x-Back-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/WS52x-1-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/WS52x-Front-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/WS52x-Back-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/WS52x-1-500x500.jpg"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-ug65-robust-lorawan-gateway/",
+    "name": "Milesight UG65 Robust LoRaWAN Gateway",
+    "sku": "N/A",
+    "brand": "Milesight",
+    "price": "$561.00 – $678.00Price range: $561.00 through $678.00",
+    "availability": "5 in stock",
+    "short_description": [
+      "AWS IoT Core for LoRaWAN",
+      "IP65 Rating",
+      "NXP Quad-Core Processor",
+      "Semtech SX1302 LoRa Chip",
+      "Multiple Backhaul Connectivities",
+      "Embedded Network Server",
+      "Compatible with Multiple Network Servers",
+      "US915 Frequency Support"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://en.wikipedia.org/wiki/LoRa#LoRaWAN",
+      "resource_2": "/wp-content/uploads/2022/07/UG65-LoRaWAN-Gateway-User-Guide-V2.5.pdf",
+      "resource_3": "/wp-content/uploads/2022/07/UG65-Quick-Guide-V2.1.pdf",
+      "resource_4": "/wp-content/uploads/2022/07/UG65-Datasheet-V2.4.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-10-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-6-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-Back-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-Front-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-4-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-7-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-7-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-12-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-Right-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-Left-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-3-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-Left-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-2-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-4-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-12-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-1-300x300.jpg",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-6-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-8-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-Front-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-9-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-2-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-8-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-Back-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-5-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-11-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-1-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-5-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-Right-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-11-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-3-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-10-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/UG65-9-300x300.jpg"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-em300-th-temperature-humidity-sensor/",
+    "name": "Milesight EM300-TH Temperature & Humidity Sensor",
+    "sku": "EM300-TH-US915",
+    "brand": "Milesight",
+    "price": "$78.00",
+    "availability": "43 in stock",
+    "short_description": [
+      "IP67 Waterproof",
+      "LoRaWAN® Wireless",
+      "5/10 Years Battery Life",
+      "NFC for Configuring",
+      "US915 Frequency Support"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://en.wikipedia.org/wiki/LoRa#LoRaWAN",
+      "resource_2": "/wp-content/uploads/2022/07/EM300-Series-User-Guide-V2.3.pdf",
+      "resource_3": "/wp-content/uploads/2022/07/EM300-TH-Datasheet-V2.1.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2022/07/EM300-TH-6-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/EM300-TH-3-500x500.jpg",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2022/07/EM300-TH-3-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/EM300-TH-Bottom-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/EM300-TH-6-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/EM300-TH-7-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/EM300-TH-Front-1-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/EM300-TH-1-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/EM300-TH-5-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/EM300-TH-4-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/EM300-TH-1-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/EM300-TH-7-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/EM300-TH-4-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/EM300-TH-Front-1-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/EM300-TH-5-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/07/EM300-TH-Bottom-500x500.jpg"
+    ]
   }
 ]
