@@ -564,3 +564,4 @@ https://www.choovio.com/product/milesight-uc511-lorawan-solenoid-valve-controlle
 https://www.choovio.com/product/milesight-ws523-lorawan-smart-portable-socket/
 https://www.choovio.com/product/milesight-ug65-robust-lorawan-gateway/
 https://www.choovio.com/product/milesight-em300-th-temperature-humidity-sensor/
+https://www.choovio.com/product/dragino-rs485w-lb-waterproof-rs485-uart-to-lorawan-converter/

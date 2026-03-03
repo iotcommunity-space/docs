@@ -55346,5 +55346,35 @@
       "https://www.choovio.com/wp-content/uploads/2022/07/EM300-TH-Bottom-500x500.jpg"
     ],
     "slug": "milesight-em300-th-temperature-and-humidity-sensor"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-rs485w-lb-waterproof-rs485-uart-to-lorawan-converter/",
+    "name": "Dragino RS485W-LB WaterProof RS485/UART to LoRaWAN Converter",
+    "sku": "N/A",
+    "brand": "Dragino",
+    "price": "$79.00 – $86.00Price range: $79.00 through $86.00",
+    "availability": null,
+    "short_description": [
+      "US915 Support",
+      "Ultra Low Power Consumption",
+      "Support multiply RS485 devices by flexible rules",
+      "Support Modbus protocol",
+      "Support Interrupt uplink",
+      "Supports connecting a UART sensors with 12V",
+      "Support Bluetooth v5.1 and LoRaWAN remote configure",
+      "Support wireless OTA update firmware",
+      "8500mAh Battery for long term use"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.choovio.com/wp-content/uploads/2023/09/Datasheet_RS485-LB_WaterProof-RS485-or-UART-to-LoRaWAN-Converter.pdf",
+      "resource_2": "http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/RS485-LB_Waterproof_RS485UART_to_LoRaWAN_Converter/"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2023/09/RS485-LB_10-min-500x500.jpg"
+    ]
   }
 ]
