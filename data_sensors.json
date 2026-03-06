@@ -55377,5 +55377,67 @@
       "https://www.choovio.com/wp-content/uploads/2023/09/RS485-LB_10-min-500x500.jpg"
     ],
     "slug": "dragino-rs485w-lb-waterproof-rs485-uart-to-lorawan-converter"
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-vb01-multifunctional-bracket/",
+    "name": "Milesight VB01 Multifunctional Bracket",
+    "sku": "N/A",
+    "brand": "Milesight",
+    "price": "$36.00",
+    "availability": "6 in stock",
+    "short_description": [
+      "Support lintel mount",
+      "Adjustable ceiling mount, allows installation of device when the ceiling height is outsideof the recommended range",
+      "Aluminum construction, rust-proof design",
+      "Swivel ball head mount (Tilt 90 degree, swivel 360 degree)",
+      "Two color options available: white and black"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://resource.milesight.com/milesight/iot/document/vs/vb01-datasheet-en.pdf"
+    },
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20292'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2026/03/vb01-multifunctional-bracket-Milesight-ceiling-mount-CHOOVIO-300x292.png",
+      "https://www.choovio.com/wp-content/uploads/2026/03/vb01-multifunctional-bracket-ceiling-lintel-mount-Milesight-300x292.png",
+      "https://www.choovio.com/wp-content/uploads/2026/03/vb01-multifunctional-bracket-Milesight-ceiling-mount-CHOOVIO.png",
+      "https://www.choovio.com/wp-content/uploads/2026/03/Milesight-vb01-multifunctional-bracket-CHOOVIO-300x292.png",
+      "https://www.choovio.com/wp-content/uploads/2026/03/Milesight-vb01-multifunctional-bracket-CHOOVIO.png",
+      "https://www.choovio.com/wp-content/uploads/2026/03/vb01-multifunctional-bracket-ceiling-lintel-mount-Milesight.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-va21-staff-lanyard/",
+    "name": "Milesight VA21 Staff Lanyard",
+    "sku": "N/A",
+    "brand": "Milesight",
+    "price": "$24.00",
+    "availability": "15 in stock",
+    "short_description": [
+      "Unique pattern designed to be recognizable by people counting sensors",
+      "Laundering fastness and soil repellency",
+      "No privacy concerns, complete anonymity",
+      "Suitable for staff across all types of stores",
+      "Industry-leading accuracy in staff recognition"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://resource.milesight.com/milesight/iot/document/vs/va21-datasheet-en.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2026/03/vs125-va21-staff-lanyard-Milesight-accessories-CHOOVIO-300x292.png",
+      "https://www.choovio.com/wp-content/uploads/2026/03/vs125-va21-staff-lanyard-red-Milesight-CHOOVIO.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20292'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2026/03/vs125-va21-staff-lanyard-black-Milesight-accessories-CHOOVIO-300x292.png",
+      "https://www.choovio.com/wp-content/uploads/2026/03/vs125-va21-staff-lanyard-red-Milesight-CHOOVIO-300x292.png",
+      "https://www.choovio.com/wp-content/uploads/2026/03/vs125-va21-staff-lanyard-Milesight-accessories-CHOOVIO.png",
+      "https://www.choovio.com/wp-content/uploads/2026/03/vs125-va21-staff-lanyard-black-Milesight-accessories-CHOOVIO.png"
+    ]
   }
 ]
