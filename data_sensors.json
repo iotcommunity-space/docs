@@ -55441,5 +55441,151 @@
       "https://www.choovio.com/wp-content/uploads/2026/03/vs125-va21-staff-lanyard-black-Milesight-accessories-CHOOVIO.png"
     ],
     "slug": "milesight-va21-staff-lanyard"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-wss-29-9-in1-weather-station/",
+    "name": "Dragino WSS-29  9-in1-Weather Station",
+    "sku": "WSS-29-US915",
+    "brand": "Dragino",
+    "price": "$750.00",
+    "availability": "1 in stock",
+    "short_description": [
+      "Power Input: 10 ~ 30VDC",
+      "Max Power Consumption: 1.2W",
+      "Wind Speed, Wind Direction, Temperature, Humidity, Air Pressure, Illumination, PM2.5, PM10",
+      "Weather Station Sensor for WSC2-L\n* The Shipping Lead Time for Backorders is 7-10 Business Days. *"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.dropbox.com/scl/fo/kph92nn3moitvioer29cv/AGDz5bNv-F3EUxIazJVx8eg?rlkey=8muztrgfzrxn88p6bl8wk1pld&st=r8dz73vs&dl=0",
+      "resource_2": "http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/WSC2-LB_LoRaWAN_Weather_Station_User_Manual/",
+      "resource_3": "https://www.dropbox.com/sh/u0uzvvnn58yrie4/AAB2GJOhTMffod1hQbakBzrqa?st=adymbldz&dl=0"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2024/07/WSS-09-9-in-1-Weather-Station-Dragino-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2024/07/WSS-09-9-in-1-Weather-Station-Dragino-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2024/07/WSS-09-9-in-1-Weather-Station-Dragino-Choovio-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2024/07/WSS-09-9-in-1-Weather-Station-Dragino-Choovio-500x500.jpg",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-wss-28-optical-rain-gauge/",
+    "name": "Dragino WSS-28-Optical Rain Gauge",
+    "sku": "WSS-28-US915",
+    "brand": "Dragino",
+    "price": "$137.00",
+    "availability": "1 in stock",
+    "short_description": [
+      "Ultra-low power consumption",
+      "Support WSS29 9 in 1 Sensors: Wind Speed, Wind Direction, Temperature,  Humidity, Air Pressure, Illumination, PM2.5, PM10, Noise & Rain Guage",
+      "RS485 Interface for 3rd Sensors",
+      "Support WSS28 optical Rain Gauge or tipping bucket Rain Gauge",
+      "IP66 Waterproof Enclosure\n* The Shipping Lead Time for Backorders is 7-10 Business Days. *"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.dropbox.com/scl/fo/kph92nn3moitvioer29cv/AGDz5bNv-F3EUxIazJVx8eg?rlkey=8muztrgfzrxn88p6bl8wk1pld&st=r8dz73vs&dl=0",
+      "resource_2": "http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/WSC2-LB_LoRaWAN_Weather_Station_User_Manual/",
+      "resource_3": "https://www.dropbox.com/sh/u0uzvvnn58yrie4/AAB2GJOhTMffod1hQbakBzrqa?st=adymbldz&dl=0"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2024/07/WSC2-L-Dragino-Weather-Station-Kit-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2024/07/WSC2-L-Dragino-Weather-Station-Kit-Choovio-USA-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2024/07/WSC2-L-Dragino-Weather-Station-Kit-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2024/07/WSC2-L-Dragino-Weather-Station-Kit-Choovio-USA-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2024/07/WSC2-L-Dragino-Weather-Station-Kit-USA-Choovio-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2024/07/WSC2-L-Dragino-Weather-Station-Kit-USA-Choovio-300x300.jpg",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/wss-25-temperature-humidity-illuminance-pressure/",
+    "name": "Dragino WSS-25 Temperature/Humidity/Illuminance/Pressure",
+    "sku": "WSS-25-US915",
+    "brand": "Dragino",
+    "price": "$105.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "4 in 1 RS485 sensor",
+      "LoRaWAN protocol",
+      "IoT Server Support\n* The Shipping Lead Time for Backorders is 7-10 Business Days. *"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://en.wikipedia.org/wiki/LoRa#LoRaWAN",
+      "resource_2": "/wp-content/uploads/2022/04/Dragino_LoRaWAN_Weather_Station_Sensor_UserManual_v1.01.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2022/04/WS-K2_Drawing-5-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/04/wss05-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/04/WS-K2_Drawing-5-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/04/wss05-300x300.jpg"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/wss-23-air-quality-sensor-co2-pm2-5-pm10/",
+    "name": "Dragino WSS-23 CO2/PM2.5/PM10",
+    "sku": "WSS-23-US915",
+    "brand": "Dragino",
+    "price": "$163.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "RS485 sensor",
+      "IoT Server Support",
+      "LoRaWAN protocol\n* The Shipping Lead Time for Backorders is 7-10 Business Days. *"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "/wp-content/uploads/2022/04/Dragino_LoRaWAN_Weather_Station_Sensor_UserManual_v1.01.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2022/04/WS-K2_Drawing-3-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/04/WS-K2_Drawing-3-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/04/wss03-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/04/wss03-500x500.jpg",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/wss-22-wind-speed-and-direction-sensor/",
+    "name": "Dragino WSS-22 Wind Speed and Direction Sensor",
+    "sku": "WSS-22-US915",
+    "brand": "Dragino",
+    "price": "$113.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "Identifies the direction and speed of the wind",
+      "RS485 wind speed / direction sensor",
+      "Polycarbonate Composite Material",
+      "Anti-corrosion properties"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://en.wikipedia.org/wiki/LoRa#LoRaWAN",
+      "resource_2": "/wp-content/uploads/2022/04/Dragino_LoRaWAN_Weather_Station_Sensor_UserManual_v1.01.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2022/04/WS-K2_Drawing-2-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/04/wss02-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2022/04/wss02-300x300.jpg",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2022/04/WS-K2_Drawing-2-500x500.jpg"
+    ]
   }
 ]

@@ -567,3 +567,8 @@ https://www.choovio.com/product/milesight-em300-th-temperature-humidity-sensor/
 https://www.choovio.com/product/dragino-rs485w-lb-waterproof-rs485-uart-to-lorawan-converter/
 https://www.choovio.com/product/milesight-vb01-multifunctional-bracket/
 https://www.choovio.com/product/milesight-va21-staff-lanyard/
+https://www.choovio.com/product/dragino-wss-29-9-in1-weather-station/
+https://www.choovio.com/product/dragino-wss-28-optical-rain-gauge/
+https://www.choovio.com/product/wss-25-temperature-humidity-illuminance-pressure/
+https://www.choovio.com/product/wss-23-air-quality-sensor-co2-pm2-5-pm10/
+https://www.choovio.com/product/wss-22-wind-speed-and-direction-sensor/
