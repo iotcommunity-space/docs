@@ -55470,7 +55470,8 @@
       "https://www.choovio.com/wp-content/uploads/2024/07/WSS-09-9-in-1-Weather-Station-Dragino-Choovio-300x300.jpg",
       "https://www.choovio.com/wp-content/uploads/2024/07/WSS-09-9-in-1-Weather-Station-Dragino-Choovio-500x500.jpg",
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
-    ]
+    ],
+    "slug": "dragino-wss-29-9-in1-weather-station"
   },
   {
     "url": "https://www.choovio.com/product/dragino-wss-28-optical-rain-gauge/",
@@ -55503,7 +55504,8 @@
       "https://www.choovio.com/wp-content/uploads/2024/07/WSC2-L-Dragino-Weather-Station-Kit-USA-Choovio-500x500.jpg",
       "https://www.choovio.com/wp-content/uploads/2024/07/WSC2-L-Dragino-Weather-Station-Kit-USA-Choovio-300x300.jpg",
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
-    ]
+    ],
+    "slug": "dragino-wss-28-optical-rain-gauge"
   },
   {
     "url": "https://www.choovio.com/product/wss-25-temperature-humidity-illuminance-pressure/",
@@ -55530,7 +55532,8 @@
       "https://www.choovio.com/wp-content/uploads/2022/04/wss05-500x500.jpg",
       "https://www.choovio.com/wp-content/uploads/2022/04/WS-K2_Drawing-5-500x500.jpg",
       "https://www.choovio.com/wp-content/uploads/2022/04/wss05-300x300.jpg"
-    ]
+    ],
+    "slug": "dragino-wss-25-temperature-humidity-illuminance-pressure"
   },
   {
     "url": "https://www.choovio.com/product/wss-23-air-quality-sensor-co2-pm2-5-pm10/",
@@ -55557,7 +55560,8 @@
       "https://www.choovio.com/wp-content/uploads/2022/04/wss03-300x300.jpg",
       "https://www.choovio.com/wp-content/uploads/2022/04/wss03-500x500.jpg",
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
-    ]
+    ],
+    "slug": "dragino-wss-23-co2-pm25-pm10"
   },
   {
     "url": "https://www.choovio.com/product/wss-22-wind-speed-and-direction-sensor/",
@@ -55586,6 +55590,7 @@
       "https://www.choovio.com/wp-content/uploads/2022/04/wss02-300x300.jpg",
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
       "https://www.choovio.com/wp-content/uploads/2022/04/WS-K2_Drawing-2-500x500.jpg"
-    ]
+    ],
+    "slug": "dragino-wss-22-wind-speed-and-direction-sensor"
   }
 ]
