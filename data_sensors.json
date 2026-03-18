@@ -55592,5 +55592,32 @@
       "https://www.choovio.com/wp-content/uploads/2022/04/WS-K2_Drawing-2-500x500.jpg"
     ],
     "slug": "dragino-wss-22-wind-speed-and-direction-sensor"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-ps-cb-na-nb-iot-lte-m-analog-sensor/",
+    "name": "Dragino PS-CB-NA – NB-IoT/LTE-M Analog Sensor",
+    "sku": "N/A",
+    "brand": "Dragino",
+    "price": "$101.00 – $134.00Price range: $101.00 through $134.00",
+    "availability": "19 in stock",
+    "short_description": [
+      "Ultra Low Power Consumption",
+      "1 x 0~20mA input , 1 x 0~30v input",
+      "5v and 12v output to power external sensor",
+      "IP66 Waterproof Enclosure",
+      "8500mAh Battery for long term use",
+      "Support BLE remote configure and update firmware"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.dropbox.com/scl/fo/138lnlz2d4f18cblbuep0/AMa4NQvkG6T2ch36aEh8DTI?rlkey=plagc5mo2xbw2i0b3v4wxb40v&st=fmlxyz33&dl=0",
+      "resource_2": "https://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/PS-CB-NA--NB-IoTLTE-M_Analog_Sensor_User_Manual/"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2026/03/Dragino-PS-CB-NA-NB-IoT-LTE-M-Analog-Sensor-CHOOVIO-500x735.png"
+    ]
   }
 ]
