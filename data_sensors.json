@@ -55620,5 +55620,62 @@
       "https://www.choovio.com/wp-content/uploads/2026/03/Dragino-PS-CB-NA-NB-IoT-LTE-M-Analog-Sensor-CHOOVIO-500x735.png"
     ],
     "slug": "dragino-ps-cb-na--nb-iot-lte-m-analog-sensor"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-rs485-cb-cs-rs485-uart-to-nb-iot-lte-m-converter/",
+    "name": "Dragino RS485-CB/CS – RS485/UART to NB-IoT/LTE-M Converter",
+    "sku": "N/A",
+    "brand": "Dragino",
+    "price": "$95.00 – $137.00Price range: $95.00 through $137.00",
+    "availability": "13 in stock",
+    "short_description": [
+      "Support multiple RS485 devices by flexible rules",
+      "Supports connecting a UART sensors with 3.3V or 5V",
+      "Support Bluetooth v5.1 and LoRaWAN remote configure",
+      "8500mAh Li/SOCl2 Battery (RS485-CB)",
+      "Solar panel + 3000mAh Li-ion battery (RS485-CS)"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.dropbox.com/scl/fo/bfr0r895zlafue1tkwdi6/AKhz3eeD8lK84DnAOpCWAg4?rlkey=40v4qby8ob4bc2413j8mg1llq&st=tde97lnx&dl=0",
+      "resource_2": "https://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/RS485-CB--RS485UART_to_NB-IoT_Converter_User_Manual/"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2026/03/Dragino-RS485-UART-NB-IoT-Converter-300x300.jpg",
+      "https://www.choovio.com/wp-content/uploads/2026/03/RS485-UART-NB-IoT-Converter-Dragino-500x500.jpg",
+      "https://www.choovio.com/wp-content/uploads/2026/03/RS485-UART-NB-IoT-Converter-Dragino-300x300.jpg",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2026/03/Dragino-RS485-UART-NB-IoT-Converter-500x500.jpg"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-ps-cb-cs-na-nb-iot-lte-m-analog-sensor/",
+    "name": "Dragino PS-CB/CS-NA – NB-IoT/LTE-M Analog Sensor",
+    "sku": "N/A",
+    "brand": "Dragino",
+    "price": "$101.00 – $141.00Price range: $101.00 through $141.00",
+    "availability": "192 in stock",
+    "short_description": [
+      "Ultra Low Power Consumption",
+      "1 x 0~20mA input , 1 x 0~30v input",
+      "5v and 12v output to power external sensor",
+      "IP66 Waterproof Enclosure",
+      "8500mAh Battery or solar powered + Li-ion battery for long term use",
+      "Support BLE remote configure and update firmware"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.dropbox.com/scl/fo/138lnlz2d4f18cblbuep0/AMa4NQvkG6T2ch36aEh8DTI?rlkey=plagc5mo2xbw2i0b3v4wxb40v&st=fmlxyz33&dl=0",
+      "resource_2": "https://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/PS-CB-NA--NB-IoTLTE-M_Analog_Sensor_User_Manual/"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2026/03/Dragino-PS-CB-NA-NB-IoT-LTE-M-Analog-Sensor-CHOOVIO-500x735.png"
+    ]
   }
 ]

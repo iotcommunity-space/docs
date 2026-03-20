@@ -573,3 +573,5 @@ https://www.choovio.com/product/wss-25-temperature-humidity-illuminance-pressure
 https://www.choovio.com/product/wss-23-air-quality-sensor-co2-pm2-5-pm10/
 https://www.choovio.com/product/wss-22-wind-speed-and-direction-sensor/
 https://www.choovio.com/product/dragino-ps-cb-na-nb-iot-lte-m-analog-sensor/
+https://www.choovio.com/product/dragino-rs485-cb-cs-rs485-uart-to-nb-iot-lte-m-converter/
+https://www.choovio.com/product/dragino-ps-cb-cs-na-nb-iot-lte-m-analog-sensor/
