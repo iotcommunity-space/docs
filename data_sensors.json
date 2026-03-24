@@ -55679,5 +55679,72 @@
       "https://www.choovio.com/wp-content/uploads/2026/03/Dragino-PS-CB-NA-NB-IoT-LTE-M-Analog-Sensor-CHOOVIO-500x735.png"
     ],
     "slug": "dragino-ps-cb-cs-na--nb-iot-lte-m-analog-sensor"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-s31-cb2-cat-m-lte-m-outdoor-temperature-and-humidity-sensor/",
+    "name": "Dragino S31-CB2 – CAT-M/LTE-M Outdoor Temperature and Humidity Sensor",
+    "sku": "N/A",
+    "brand": "Dragino",
+    "price": "$112.00 – $145.00Price range: $112.00 through $145.00",
+    "availability": "33 in stock",
+    "short_description": [
+      "Monitor environment temperature",
+      "Monitor relative air humidity",
+      "Temperature & Humidity alarm",
+      "Multiply Sampling and one uplink",
+      "19000mAh Battery for long term use",
+      "Support BLE remote configure and update firmware",
+      "IP66 Waterproof Enclosure",
+      "AT Commands to change parameters",
+      "Uplink via MQTT, MQTTs, TCP, UDP or CoAP"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.dropbox.com/sh/z7aqw7ejsv6aaj0/AACQ1GEV6kwmDnTXX38GjSyIa?dl=0",
+      "resource_2": "http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/S31-CBS31B-CB--NB-IoTLTE-M_Temperature%26Humidity_Sensor_User_Manual/",
+      "resource_3": "https://www.dropbox.com/sh/u0uzvvnn58yrie4/AAB2GJOhTMffod1hQbakBzrqa?st=so2nyxzn&dl=0"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2026/03/Dragino-S31-CB2-Temperature-Humidity-Sensor-500x743.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-rope-leak-end-caps/",
+    "name": "Milesight Rope Leak End Caps",
+    "sku": "MS-ROPE-CAPS",
+    "brand": "Milesight",
+    "price": "$5.00",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-zld-3m-rope-end-cap/",
+    "name": "Milesight ZLD 3M Rope + End Cap",
+    "sku": "MS-ZLD-3M",
+    "brand": "Milesight",
+    "price": "$38.00",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png"
+    ]
   }
 ]

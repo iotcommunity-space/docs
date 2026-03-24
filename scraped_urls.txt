@@ -575,3 +575,6 @@ https://www.choovio.com/product/wss-22-wind-speed-and-direction-sensor/
 https://www.choovio.com/product/dragino-ps-cb-na-nb-iot-lte-m-analog-sensor/
 https://www.choovio.com/product/dragino-rs485-cb-cs-rs485-uart-to-nb-iot-lte-m-converter/
 https://www.choovio.com/product/dragino-ps-cb-cs-na-nb-iot-lte-m-analog-sensor/
+https://www.choovio.com/product/dragino-s31-cb2-cat-m-lte-m-outdoor-temperature-and-humidity-sensor/
+https://www.choovio.com/product/milesight-rope-leak-end-caps/
+https://www.choovio.com/product/milesight-zld-3m-rope-end-cap/
