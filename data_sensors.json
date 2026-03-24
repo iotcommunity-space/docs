@@ -55709,7 +55709,8 @@
     },
     "images": [
       "https://www.choovio.com/wp-content/uploads/2026/03/Dragino-S31-CB2-Temperature-Humidity-Sensor-500x743.png"
-    ]
+    ],
+    "slug": "dragino-s31-cb2--cat-m-lte-m-outdoor-temperature-and-humidity-sensor"
   },
   {
     "url": "https://www.choovio.com/product/milesight-rope-leak-end-caps/",
@@ -55727,7 +55728,8 @@
     "images": [
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E",
       "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png"
-    ]
+    ],
+    "slug": "milesight-rope-leak-end-caps"
   },
   {
     "url": "https://www.choovio.com/product/milesight-zld-3m-rope-end-cap/",
@@ -55745,6 +55747,7 @@
     "images": [
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E",
       "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png"
-    ]
+    ],
+    "slug": "milesight-zld-3m-rope-+-end-cap"
   }
 ]
