@@ -55772,7 +55772,8 @@
     "resources": {},
     "images": [
       "https://www.choovio.com/wp-content/uploads/2026/03/Lansitec-Bluetooth-Beacon-B004.jpg"
-    ]
+    ],
+    "slug": "lansitec-b004-bluetooth-beacon"
   },
   {
     "url": "https://www.choovio.com/product/lansitec-lorawan-macro-tracker/",
@@ -55799,7 +55800,8 @@
     },
     "images": [
       "https://www.choovio.com/wp-content/uploads/2026/03/Lansitec-LoRaWAN-Macro-Tracker.jpg"
-    ]
+    ],
+    "slug": "lansitec-lorawan-macro-tracker"
   },
   {
     "url": "https://www.choovio.com/product/lansitec-b006-badge-bluetooth-beacon/",
@@ -55823,6 +55825,7 @@
     "resources": {},
     "images": [
       "https://www.choovio.com/wp-content/uploads/2024/02/Badge-Tracker-500x500.jpg"
-    ]
+    ],
+    "slug": "lansitec-b006-badge-bluetooth-beacon"
   }
 ]
