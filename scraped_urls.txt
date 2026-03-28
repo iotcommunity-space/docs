@@ -578,3 +578,6 @@ https://www.choovio.com/product/dragino-ps-cb-cs-na-nb-iot-lte-m-analog-sensor/
 https://www.choovio.com/product/dragino-s31-cb2-cat-m-lte-m-outdoor-temperature-and-humidity-sensor/
 https://www.choovio.com/product/milesight-rope-leak-end-caps/
 https://www.choovio.com/product/milesight-zld-3m-rope-end-cap/
+https://www.choovio.com/product/lansitec-b004-bluetooth-beacon/
+https://www.choovio.com/product/lansitec-lorawan-macro-tracker/
+https://www.choovio.com/product/lansitec-b006-badge-bluetooth-beacon/

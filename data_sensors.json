@@ -55749,5 +55749,80 @@
       "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png"
     ],
     "slug": "milesight-zld-3m-rope-+-end-cap"
+  },
+  {
+    "url": "https://www.choovio.com/product/lansitec-b004-bluetooth-beacon/",
+    "name": "Lansitec B004 Bluetooth Beacon",
+    "sku": "100-0B004",
+    "brand": "Lansitec",
+    "price": "$11.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "Compact and Lightweight",
+      "Long Battery Life",
+      "Buzzer & SOS",
+      "Flexible Advertisement",
+      "Optional AoA Support",
+      "Low Power Alarm & LED"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2026/03/Lansitec-Bluetooth-Beacon-B004.jpg"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/lansitec-lorawan-macro-tracker/",
+    "name": "Lansitec LoRaWAN Macro Tracker",
+    "sku": "100-02538",
+    "brand": "Lansitec",
+    "price": "$150.00",
+    "availability": "8 in stock",
+    "short_description": [
+      "Ultra-Low Battery Life",
+      "Accurate Indoor & Outdoor Tracking",
+      "IP66-Rated Durability",
+      "LoRaWAN US915 Connectivity",
+      "Configurable Data & Reporting",
+      "Simple Deployment"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.lansitec.com/blogs/fota-at-scale-how-to-keep-1000-devices-on-the-same-firmware-without-site-visits/",
+      "resource_2": "https://www.lansitec.com/blogs/fota-at-scale-how-to-keep-1000-devices-on-the-same-firmware-without-site-visits/"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2026/03/Lansitec-LoRaWAN-Macro-Tracker.jpg"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/lansitec-b006-badge-bluetooth-beacon/",
+    "name": "Lansitec B006 Badge Bluetooth Beacon",
+    "sku": "100-03983",
+    "brand": "Lansitec",
+    "price": "$16.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "Flexible Battery Options",
+      "Wide Coverage",
+      "Up to 1 Year Standby",
+      "Optional AoA & Temperature Sensing",
+      "Adjustable TX & Interval",
+      "Robust Build"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2024/02/Badge-Tracker-500x500.jpg"
+    ]
   }
 ]
