@@ -55827,5 +55827,23 @@
       "https://www.choovio.com/wp-content/uploads/2024/02/Badge-Tracker-500x500.jpg"
     ],
     "slug": "lansitec-b006-badge-bluetooth-beacon"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-lora-st-v4-1-la66-module/",
+    "name": "Dragino – LoRa ST v4.1 – LA66 Module",
+    "sku": "LoRaST-v4.1",
+    "brand": "Dragino",
+    "price": "$33.00",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png"
+    ]
   }
 ]

@@ -581,3 +581,4 @@ https://www.choovio.com/product/milesight-zld-3m-rope-end-cap/
 https://www.choovio.com/product/lansitec-b004-bluetooth-beacon/
 https://www.choovio.com/product/lansitec-lorawan-macro-tracker/
 https://www.choovio.com/product/lansitec-b006-badge-bluetooth-beacon/
+https://www.choovio.com/product/dragino-lora-st-v4-1-la66-module/
