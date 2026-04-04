@@ -55869,7 +55869,8 @@
     "resources": {},
     "images": [
       "https://www.choovio.com/wp-content/uploads/2026/04/Lansitec-LoRaWAN-Micro-Bluetooth-Gateway-500x500.png"
-    ]
+    ],
+    "slug": "lansitec-lorawan-micro-bluetooth-gateway"
   },
   {
     "url": "https://www.choovio.com/product/milesight-cth01-smart-power-monitor-hub/",
@@ -55909,6 +55910,7 @@
       "https://www.choovio.com/wp-content/uploads/2026/04/CTH01-Milesight-Smart-Power-Monitoring-500x357.png",
       "https://www.choovio.com/wp-content/uploads/2026/04/CTH01-Power-Monitoring-Hub-LoRaWAN-300x300.png",
       "https://www.choovio.com/wp-content/uploads/2026/04/CTH01-Smart-LoRaWAN-Power-Hub-300x300.png"
-    ]
+    ],
+    "slug": "milesight-cth01--smart-power-monitor-hub"
   }
 ]
