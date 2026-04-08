@@ -55912,5 +55912,55 @@
       "https://www.choovio.com/wp-content/uploads/2026/04/CTH01-Smart-LoRaWAN-Power-Hub-300x300.png"
     ],
     "slug": "milesight-cth01--smart-power-monitor-hub"
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-eg71-building-iot-gateway/",
+    "name": "Milesight EG71 Building IoT Gateway",
+    "sku": "EG71-L09NA",
+    "brand": "Milesight",
+    "price": "$2,100.00",
+    "availability": "14 in stock",
+    "short_description": [
+      "Quad-core industrial-grade processor",
+      "Comprehensive I/O interfaces with native support for RS485, KNX, M-BUS(Under Development), LoRaWAN®, Wi-Fi and Ethernet devices",
+      "Equips with NFC to add Milesight devices quickly",
+      "Multi backhaul options including Ethernet, cellular (4G) and Wi-Fi for reliable network redundancy",
+      "Supports mainstream protocols such as Modbus, BACnet, MQTT, and HTTP",
+      "Offers secondary development capabilities (Python SDK and Node-RED)"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.choovio.com/wp-content/uploads/2026/04/eg71-datasheet-en.pdf",
+      "resource_2": "https://www.choovio.com/wp-content/uploads/2026/04/eg71-administrator-guide-en.pdf",
+      "resource_3": "https://www.choovio.com/wp-content/uploads/2026/04/eg71-installation-guide-en.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-2-500x271.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-7-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-8-300x300.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-6-500x271.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-1-500x271.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-3-500x271.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-4-500x271.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-1-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-9-1-500x271.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-11-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-5-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-3-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-9-1-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-4-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-10-500x271.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-6-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-10-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-5-500x271.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-11-500x271.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-7-500x271.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-2-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/EG71-8-500x271.png"
+    ]
   }
 ]
