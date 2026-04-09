@@ -585,3 +585,4 @@ https://www.choovio.com/product/dragino-lora-st-v4-1-la66-module/
 https://www.choovio.com/product/lansitec-lorawan-micro-bluetooth-gateway/
 https://www.choovio.com/product/milesight-cth01-smart-power-monitor-hub/
 https://www.choovio.com/product/milesight-eg71-building-iot-gateway/
+https://www.choovio.com/product/milesight-wt102-smart-radiator-thermostat/
