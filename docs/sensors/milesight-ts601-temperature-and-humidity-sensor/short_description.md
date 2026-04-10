@@ -1,0 +1,6 @@
+4G Connectivity (Cat-1) for Remote Monitoring
+Light Sensor for Door Open Detection
+Tilt Sensor for Abnormal Motion Detection
+IP67 Waterproof Design
+Positioning Reporting
+Four Mounting Options

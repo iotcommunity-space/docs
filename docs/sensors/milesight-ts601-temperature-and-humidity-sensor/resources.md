@@ -1,0 +1,6 @@
+https://resource.milesight.com/milesight/iot/document/ts60x-datasheet-en.pdf
+https://resource.milesight.com/milesight/iot/document/ts60x-datasheet-en.pdf
+https://resource.milesight.com/milesight/iot/document/ts60x-datasheet-en.pdf
+https://resource.milesight.com/milesight/iot/document/ts60x-datasheet-en.pdf
+https://www.choovio.com/wp-content/uploads/2026/04/ts60x-datasheet-en.pdf
+https://www.choovio.com/wp-content/uploads/2026/04/ts60x-user-guide-en.pdf
