@@ -56058,5 +56058,32 @@
       "https://www.choovio.com/wp-content/uploads/2026/04/TS601-1-500x357.png"
     ],
     "slug": "milesight-ts601-temperature-and-humidity-sensor"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-sdi-12-to-lorawan-converter-dragino-sdi-12-lb2/",
+    "name": "Dragino SDI-12 to LoRaWAN Converter | Dragino SDI-12-LB2",
+    "sku": "SDI-12-LB2-US915",
+    "brand": "Dragino",
+    "price": "$85.00",
+    "availability": "26 in stock",
+    "short_description": [
+      "IP66 Waterproof Enclosure",
+      "19000mAh Battery for long-term use",
+      "AT Commands to change parameters",
+      "Support wireless OTA update firmware",
+      "US915 Support"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://en.wikipedia.org/wiki/Serial_communication",
+      "resource_2": "https://www.dropbox.com/sh/1hiw20fvov8vdmz/AAALDCptC8-xO-FFNc1HbgP9a?dl=0",
+      "resource_3": "http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/SDI-12-LB%20--%20SDI-12%20to%20LoRaWAN%20Converter%20User%20Manual/"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2026/04/Dragino-SDI-12-LB2-SDI-12-to-LoRaWAN-Converter.png"
+    ]
   }
 ]

@@ -587,3 +587,4 @@ https://www.choovio.com/product/milesight-cth01-smart-power-monitor-hub/
 https://www.choovio.com/product/milesight-eg71-building-iot-gateway/
 https://www.choovio.com/product/milesight-wt102-smart-radiator-thermostat/
 https://www.choovio.com/product/milesight-ts601-temperature-and-humidity-sensor/
+https://www.choovio.com/product/dragino-sdi-12-to-lorawan-converter-dragino-sdi-12-lb2/
