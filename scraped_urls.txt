@@ -588,3 +588,6 @@ https://www.choovio.com/product/milesight-eg71-building-iot-gateway/
 https://www.choovio.com/product/milesight-wt102-smart-radiator-thermostat/
 https://www.choovio.com/product/milesight-ts601-temperature-and-humidity-sensor/
 https://www.choovio.com/product/dragino-sdi-12-to-lorawan-converter-dragino-sdi-12-lb2/
+https://www.choovio.com/product/milesight-ts602-temperature-humidity-sensor/
+https://www.choovio.com/product/sp13-125-150-temperature-humidity-probe/
+https://www.choovio.com/product/sp12-125-150-temperature-probe/

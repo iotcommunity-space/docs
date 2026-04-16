@@ -56086,5 +56086,93 @@
       "https://www.choovio.com/wp-content/uploads/2026/04/Dragino-SDI-12-LB2-SDI-12-to-LoRaWAN-Converter.png"
     ],
     "slug": "dragino-sdi-12-to-lorawan-converter-|-dragino-sdi-12-lb2"
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-ts602-temperature-humidity-sensor/",
+    "name": "Milesight TS602 Temperature & Humidity Sensor",
+    "sku": "TS602-L09NA",
+    "brand": "Milesight",
+    "price": "From: $180.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "4G Connectivity (Cat-1) for Remote Monitoring",
+      "Multiple Probe Options",
+      "Light Sensor for Door Open Detection",
+      "Tilt Sensor for Abnormal Motion Detection",
+      "IP67 Waterproof Design",
+      "Positioning Reporting",
+      "Four Mounting Options"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://resource.milesight.com/milesight/iot/document/ts60x-datasheet-en.pdf",
+      "resource_2": "https://resource.milesight.com/milesight/iot/document/ts60x-datasheet-en.pdf",
+      "resource_3": "https://resource.milesight.com/milesight/iot/document/ts60x-datasheet-en.pdf",
+      "resource_4": "https://resource.milesight.com/milesight/iot/document/ts60x-datasheet-en.pdf",
+      "resource_5": "https://resource.milesight.com/milesight/iot/document/ts60x-datasheet-en.pdf",
+      "resource_6": "https://resource.milesight.com/milesight/iot/document/ts60x-datasheet-en.pdf",
+      "resource_7": "https://resource.milesight.com/milesight/iot/document/ts60x-datasheet-en.pdf",
+      "resource_8": "https://resource.milesight.com/milesight/iot/document/ts60x-datasheet-en.pdf",
+      "resource_9": "https://resource.milesight.com/milesight/iot/document/ts60x-datasheet-en.pdf",
+      "resource_10": "https://resource.milesight.com/milesight/iot/document/ts60x-datasheet-en.pdf",
+      "resource_11": "https://www.choovio.com/wp-content/uploads/2026/04/ts60x-datasheet-en.pdf",
+      "resource_12": "https://www.choovio.com/wp-content/uploads/2026/04/ts60x-user-guide-en.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2026/04/TS602-Temperature-Humidity-Sensor-500x484.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/TS602-Temperature-Humidity-Sensor-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/TS602-Temperature-Humidity-Sensor-3-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/TS602-Temperature-Humidity-Sensor-4-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/TS602-Temperature-Humidity-Sensor-2-500x526.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/TS602-Temperature-Humidity-Sensor-2-300x300.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2026/04/TS602-Temperature-Humidity-Sensor-3-500x496.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/TS602-Temperature-Humidity-Sensor-4-500x487.png"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/sp13-125-150-temperature-humidity-probe/",
+    "name": "SP13-125-150 Temperature & Humidity Probe",
+    "sku": "SP13-125-150",
+    "brand": "Milesight",
+    "price": "$30.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "Maximum Temperature Range: 125℃",
+      "Accuracy: Temp: ± 0.3°C (-40°C~0°C), ± 0.2°C (0°C~65°C) ± 0.5°C (65°C~125°C); Humidity: ± 2% RH",
+      "Cable Length: 1.5m"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2026/04/sp13-125-150-th-sensor-probe.jpg"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/sp12-125-150-temperature-probe/",
+    "name": "SP12-125-150 Temperature Probe",
+    "sku": "SP12-125-150",
+    "brand": "Milesight",
+    "price": "$15.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "Measuring Range: -40℃~125℃",
+      "Accuracy: ± 0.5°C(10°C ~ 85°C), ± 2°C(-40°C ~ -10°C, 85°C ~ 125°C)",
+      "Cable Length: 1.5m"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2026/04/sp12-125-150-ds18b20-temperature-probe.jpg"
+    ]
   }
 ]
