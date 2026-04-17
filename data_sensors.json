@@ -56177,5 +56177,69 @@
       "https://www.choovio.com/wp-content/uploads/2026/04/sp12-125-150-ds18b20-temperature-probe.jpg"
     ],
     "slug": "sp12-125-150-temperature-probe"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-dds45-lb2-lorawan-distance-detection-sensor/",
+    "name": "Dragino DDS45-LB2 LoRaWAN Distance Detection Sensor",
+    "sku": "DDS45-LB2-US915",
+    "brand": "Dragino",
+    "price": "$117.50",
+    "availability": "Out of stock",
+    "short_description": [
+      "Distance Detection by Ultrasonic Technology",
+      "Change parameters by AT Commands",
+      "US 915 MHz band",
+      "19000mAh Battery for long-term use"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://www.dropbox.com/sh/hoh3am4tntjtc64/AACyUx50MkgPxawKvZYF5W5za?dl=0",
+      "resource_2": "http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/DDS45-LB_LoRaWAN_Distance_Detection_Sensor_User_Manual/"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2026/04/DDS45-LB2-300x300.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/8500mah-spc-battery-for-lb-sensors/",
+    "name": "8500mAh + SPC – Battery for LB Sensors",
+    "sku": "8500-BAT-LB",
+    "brand": "Dragino",
+    "price": "$12.00",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/19000mah-spc-battery-for-lb2-sensors/",
+    "name": "19000mAh + SPC – Battery for LB2 Sensors",
+    "sku": "19000-BAT-LB2",
+    "brand": "Dragino",
+    "price": "$19.00",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
+    ]
   }
 ]
