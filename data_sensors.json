@@ -56244,5 +56244,43 @@
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
     ],
     "slug": "19000mah-+-spc--battery-for-lb2-sensors"
+  },
+  {
+    "url": "https://www.choovio.com/product/milesight-wt401-wireless-smart-thermostat/",
+    "name": "Milesight WT401 Wireless Smart Thermostat",
+    "sku": "WT401-US915",
+    "brand": "Milesight",
+    "price": "$225.00",
+    "availability": "1 in stock",
+    "short_description": [
+      "2.7 inch Black & White E-ink Screen",
+      "LoRaWAN US915 Frequency",
+      "Temperature, Humidity, Occupancy",
+      "Triple Power Options: Battery, Type-C, or Powerbus",
+      "Anti-Theft Screw",
+      "Versatile Mounting"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://en.wikipedia.org/wiki/LoRa#LoRaWAN",
+      "resource_2": "https://www.choovio.com/wp-content/uploads/2026/04/wt401-user-guide-en-1.pdf",
+      "resource_3": "https://www.choovio.com/wp-content/uploads/2026/04/wt401-datasheet-en-1.pdf"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2026/04/WT401-2-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/WT401-3-1-300x300.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+      "https://www.choovio.com/wp-content/uploads/2026/04/WT401-8-500x461.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/WT401-4-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/WT401-1-300x300.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/WT401-1-500x479.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/WT401-4-500x530.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/WT401-3-1-500x436.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/WT401-2-500x433.png",
+      "https://www.choovio.com/wp-content/uploads/2026/04/WT401-8-300x300.png"
+    ]
   }
 ]
