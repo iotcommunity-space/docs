@@ -56319,7 +56319,8 @@
     "images": [
       "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png",
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
-    ]
+    ],
+    "slug": "dragino-dr-m6c"
   },
   {
     "url": "https://www.choovio.com/product/dragino-dr-f6c-2/",
@@ -56337,7 +56338,8 @@
     "images": [
       "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png",
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
-    ]
+    ],
+    "slug": "dragino-dr-f6c-2"
   },
   {
     "url": "https://www.choovio.com/product/dragino-dr-f6c-4m/",
@@ -56355,6 +56357,7 @@
     "images": [
       "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png",
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
-    ]
+    ],
+    "slug": "dragino-dr-f6c-4m"
   }
 ]
