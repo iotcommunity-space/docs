@@ -56302,5 +56302,59 @@
       "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
     ],
     "slug": "dragino-s31b-fb"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-dr-m6c/",
+    "name": "Dragino DR-M6C",
+    "sku": "DR-M6C",
+    "brand": "Dragino",
+    "price": "$3.00",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-dr-f6c-2/",
+    "name": "Dragino DR-F6C-2",
+    "sku": "DR-F6C-2",
+    "brand": "Dragino",
+    "price": "$8.00",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
+    ]
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-dr-f6c-4m/",
+    "name": "Dragino DR-F6C-4M",
+    "sku": "DR-F6C-4M",
+    "brand": "Dragino",
+    "price": "$12.00",
+    "availability": "Out of stock",
+    "short_description": [],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {},
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/woocommerce-placeholder-500x500.png",
+      "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20500'%3E%3C/svg%3E"
+    ]
   }
 ]
