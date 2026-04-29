@@ -56397,7 +56397,8 @@
       "https://www.choovio.com/wp-content/uploads/2026/04/milesight-am300L-lorawan-iaq-sensor-front-300x300.png",
       "https://www.choovio.com/wp-content/uploads/2026/04/milesight-am300L-lorawan-iaq-sensor-button-300x300.png",
       "https://www.choovio.com/wp-content/uploads/2026/04/milesight-am300L-lorawan-iaq-sensor-back-500x363.png"
-    ]
+    ],
+    "slug": "am305l-indoor-ambiance-monitoring-sensor"
   },
   {
     "url": "https://www.choovio.com/product/am304l-indoor-ambiance-monitoring-sensor/",
@@ -56436,7 +56437,8 @@
       "https://www.choovio.com/wp-content/uploads/2026/04/milesight-am300L-lorawan-iaq-sensor-front-300x300.png",
       "https://www.choovio.com/wp-content/uploads/2026/04/milesight-am300L-lorawan-iaq-sensor-button-300x300.png",
       "https://www.choovio.com/wp-content/uploads/2026/04/milesight-am300L-lorawan-iaq-sensor-back-500x363.png"
-    ]
+    ],
+    "slug": "am304l-indoor-ambiance-monitoring-sensor"
   },
   {
     "url": "https://www.choovio.com/product/milesight-vs361-storefront-footfall-sensor/",
@@ -56477,6 +56479,7 @@
       "https://www.choovio.com/wp-content/uploads/2026/04/VS361-5-300x300.png",
       "https://www.choovio.com/wp-content/uploads/2026/04/VS361-10-300x300.png",
       "https://www.choovio.com/wp-content/uploads/2026/04/VS361-1-500x316.png"
-    ]
+    ],
+    "slug": "milesight-vs361-storefront-footfall-sensor"
   }
 ]
