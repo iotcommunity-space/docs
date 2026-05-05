@@ -56481,5 +56481,32 @@
       "https://www.choovio.com/wp-content/uploads/2026/04/VS361-1-500x316.png"
     ],
     "slug": "milesight-vs361-storefront-footfall-sensor"
+  },
+  {
+    "url": "https://www.choovio.com/product/dragino-uv254-lb-lorawan-uvc-radiation-sensor/",
+    "name": "Dragino UV254-LB LoRaWAN UVC Radiation Sensor",
+    "sku": "UV254-LB-US915",
+    "brand": "Dragino",
+    "price": "$265.00",
+    "availability": "Out of stock",
+    "short_description": [
+      "US915 Support",
+      "Detect UVC lamp working status,working efficiency",
+      "Peak response spectrum 254nm",
+      "Support Bluetooth v5.1 and LoRaWAN remote configure",
+      "Support wireless OTA update firmware"
+    ],
+    "full_description": null,
+    "use_cases": [],
+    "features": [],
+    "specifications": [],
+    "resources": {
+      "resource_1": "https://en.wikipedia.org/wiki/LoRa#LoRaWAN",
+      "resource_2": "https://www.choovio.com/wp-content/uploads/2023/09/Datasheet_UV254-LB-LoRaWAN-UVC-Radiation-Sensor.pdf",
+      "resource_3": "http://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/UV254-LB_LoRaWAN_UVC_Radiation_Sensor_User_Manual/"
+    },
+    "images": [
+      "https://www.choovio.com/wp-content/uploads/2023/09/UV254-LB-min-500x500.jpg"
+    ]
   }
 ]
